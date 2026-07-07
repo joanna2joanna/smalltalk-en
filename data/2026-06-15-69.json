@@ -1,0 +1,24 @@
+{
+  "phrase_en": "You can't be serious!",
+  "phrase_pron": "/juː kɑːnt biː ˈsɪriəs/",
+  "meaning_cn": "<em>你不是认真的吧！</em> / 绝不可能",
+  "trap_x": "字面意思：你不可能是严肃的",
+  "trap_check": "真正意思：太离谱了/我无法接受（不是讨论性格）",
+  "examples": [
+    {
+      "source": "Friends S4E06 · 老友记 第四季 第6集",
+      "en": "\"I'm moving to Yemen.\" \"You can't be serious!\"",
+      "cn": "「我要搬去也门了。」「你不是认真的吧！」"
+    },
+    {
+      "source": "The Big Bang Theory S2E16 · 生活大爆炸 第二季 第16集",
+      "en": "\"Sheldon is getting married.\" \"You can't be serious!\"",
+      "cn": "「Sheldon 要结婚了。」「绝不可能！」"
+    },
+    {
+      "source": "Pretty Woman · 风月俏佳人",
+      "en": "\"You can be serious.\"",
+      "cn": "「你不是认真的吧。」"
+    }
+  ]
+}

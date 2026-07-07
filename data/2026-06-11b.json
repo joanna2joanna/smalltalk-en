@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Good for you.",
+  "phrase_pron": "/ɡʊd fɔːr juː/",
+  "meaning_cn": "<em>行啊你</em> / 你真行（可褒可贬，看语气）",
+  "trap_x": "字面意思：对你好",
+  "trap_check": "真正意思：随语境变化——真心夸奖 or 阴阳怪气",
+  "examples": [
+    {
+      "source": "Friends S5E14 · 老友记",
+      "en": "\"I got the promotion!\" \"Wow, good for you!\"",
+      "cn": "「我升职了！」「哇，你真行！」"
+    },
+    {
+      "source": "The Office US S3E12 · 办公室",
+      "en": "\"I'm taking a mental health day.\" \"Good for you, Dwight.\"",
+      "cn": "「我今天请个心理健康假。」「行啊你，Dwight。」"
+    },
+    {
+      "source": "Seinfeld S6E19 · 宋飞正传",
+      "en": "\"I decided to become a vegetarian.\" \"Good for you. Pass the steak.\"",
+      "cn": "「我决定吃素了。」「你真行。牛排递我一下。」"
+    }
+  ]
+}

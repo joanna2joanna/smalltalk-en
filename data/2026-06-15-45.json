@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the update?",
+  "phrase_pron": "/wʌts ðə ˈʌpdeɪt/",
+  "meaning_cn": "<em>有啥新消息？</em>",
+  "trap_x": "字面意思：那个更新是什么",
+  "trap_check": "真正意思：近况如何/有啥新动态（不是软件更新）",
+  "examples": [
+    {
+      "source": "The Office S3E12 · 办公室 第三季 第12集",
+      "en": "\"What's the update, Dwight?\"",
+      "cn": "\"有啥新消息，Dwight？\""
+    },
+    {
+      "source": "Friends S4E14 · 老友记 第四季 第14集",
+      "en": "\"What's the update?\" \"Nothing.\"",
+      "cn": "\"有啥新消息？\" \"没有。\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"What's the update, mate?\"",
+      "cn": "\"有啥新消息，哥们？\""
+    }
+  ]
+}

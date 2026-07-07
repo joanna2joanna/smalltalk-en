@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Tell you what.",
+  "phrase_pron": "/tel juː wʌt/",
+  "meaning_cn": "<em>这样吧</em> / 我有个提议",
+  "trap_x": "字面意思：告诉你什么",
+  "trap_check": "真正意思：我提个建议/折中方案（不是要告诉你某件事）",
+  "examples": [
+    {
+      "source": "Friends S3E02 · 老友记",
+      "en": "\"Tell you what, why don't I just give you the money and you can buy whatever you want?\"",
+      "cn": "这样吧，我直接把钱给你，你想买什么就买什么？"
+    },
+    {
+      "source": "The Big Bang Theory S2E18 · 生活大爆炸",
+      "en": "\"Tell you what — I'll drive, and you can navigate.\"",
+      "cn": "这样吧，我来开车，你来导航。"
+    },
+    {
+      "source": "Breaking Bad S2E04 · 绝命毒师",
+      "en": "\"Tell you what, let me handle this one.\"",
+      "cn": "这样吧，这件事交给我来处理。"
+    }
+  ]
+}

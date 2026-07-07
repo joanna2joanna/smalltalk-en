@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Give me a break!",
+  "phrase_pron": "/ɡɪv mi ə breɪk/",
+  "meaning_cn": "<em>别扯了！</em> / 才不信",
+  "trap_x": "字面意思：给我一个休息",
+  "trap_check": "真正意思：别胡说/我不信你的话（不是真要休息）",
+  "examples": [
+    {
+      "source": "Friends S3E11 · 老友记 第三季 第11集",
+      "en": "\"I'm dating a supermodel.\" \"Give me a break!\"",
+      "cn": "\"我在跟超模约会。\" \"别扯了！\""
+    },
+    {
+      "source": "The Office S4E09 · 办公室 第四季 第9集",
+      "en": "\"I could do your job with my eyes closed.\" \"Give me a break!\"",
+      "cn": "\"我闭着眼都能做你的工作。\" \"才不信！\""
+    },
+    {
+      "source": "Seinfeld S6E14 · 宋飞正传 第六季 第14集",
+      "en": "\"Give me a break, Jerry.\"",
+      "cn": "\"别扯了，Jerry。\""
+    }
+  ]
+}

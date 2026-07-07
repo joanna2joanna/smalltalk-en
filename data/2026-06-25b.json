@@ -1,0 +1,12 @@
+{
+  "phrase_en": "You blew it!",
+  "phrase_pron": "/juː bluː ɪt/",
+  "meaning_cn": "<em>你搞砸了！</em>",
+  "trap_x": "字面意思：你吹了它",
+  "trap_check": "真正意思：你搞砸了（不是吹气，是毁了机会/把事情办糟了）",
+  "examples": [
+    {"source": "Friends S10E13 · 老友记", "en": "\"You were up for partner and you blew it!\"", "cn": "你都快要升合伙人了，结果你搞砸了！"},
+    {"source": "Good Will Hunting · 心灵捕手", "en": "\"This was your shot, and you blew it.\"", "cn": "这是你的机会，你把它毁了。"},
+    {"source": "The Social Network · 社交网络", "en": "\"You had one chance and you blew it.\"", "cn": "你只有一次机会，结果搞砸了。"}
+  ]
+}

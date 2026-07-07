@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Play it by ear.",
+  "phrase_pron": "/pleɪ ɪt baɪ ɪr/",
+  "meaning_cn": "<em>随机应变</em> / 不提前计划，看情况再说",
+  "trap_x": "字面意思：用耳朵弹奏",
+  "trap_check": "真正意思：不提前安排，到时候再说！",
+  "examples": [
+    {
+      "source": "Friends S5E14 · 老友记",
+      "en": "We don't need a plan. Let's just play it by ear.",
+      "cn": "我们不需要计划，到时候随机应变就好。"
+    },
+    {
+      "source": "The Office S2E01 · 办公室",
+      "en": "I didn't prep anything. I'm gonna have to play it by ear.",
+      "cn": "我什么都没准备，只能临场发挥了。"
+    },
+    {
+      "source": "Modern Family S3E09 · 摩登家庭",
+      "en": "No itinerary this time — we'll play it by ear.",
+      "cn": "这次不做行程表了，走到哪算哪。"
+    }
+  ]
+}

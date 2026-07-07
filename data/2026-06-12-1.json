@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Help yourself.",
+  "phrase_pron": "/help jɔːrˈself/",
+  "meaning_cn": "<em>请自便</em> / 自己动手拿",
+  "trap_x": "字面意思：帮你自己",
+  "trap_check": "真正意思：请随意取用、别客气（不是让你帮自己）",
+  "examples": [
+    {
+      "source": "Friends S5E10 · 老友记 第五季 第10集",
+      "en": "There's more lasagna in the kitchen. Help yourself.",
+      "cn": "厨房里还有千层面，自己拿。"
+    },
+    {
+      "source": "The Office S3E05 · 办公室 第三季 第5集",
+      "en": "Help yourself to anything in the fridge. Mi casa es su casa.",
+      "cn": "冰箱里的随便拿。就当自己家。"
+    },
+    {
+      "source": "Breaking Bad S1E03 · 绝命毒师 第一季 第3集",
+      "en": "I made fresh coffee. Help yourself.",
+      "cn": "我煮了新鲜咖啡，自己倒。"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Join the club.",
+  "phrase_pron": "/dʒɔɪn ðə klʌb/",
+  "meaning_cn": "<em>彼此彼此！</em>",
+  "trap_x": "字面意思：加入俱乐部 / 欢迎入会",
+  "trap_check": "真正意思：彼此彼此！（不是要你入会，是在吐槽同病相怜）",
+  "examples": [
+    {"source": "Friends S3E18 · 老友记", "en": "\"I'm so broke this month.\" \"Join the club.\"", "cn": "我这个月穷死了。/ 彼此彼此。"},
+    {"source": "The Office US S2E11 · 办公室", "en": "\"My weekend was terrible.\" \"Join the club.\"", "cn": "我周末糟透了。/ 我也是。"},
+    {"source": "Fleabag S2E03 · 伦敦生活", "en": "\"I can't stop overthinking.\" \"Join the club.\"", "cn": "我控制不住想太多。/ 谁说不是呢。"}
+  ]
+}

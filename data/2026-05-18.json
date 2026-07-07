@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the catch?",
+  "phrase_pron": "/wʌts ðə kætʃ/",
+  "meaning_cn": "<em>有什么猫腻？</em> / 隐藏条件是什么？",
+  "trap_x": "字面意思：抓到了什么？",
+  "trap_check": "真正意思：好处背后有什么隐藏代价/条件",
+  "examples": [
+    {
+      "source": "Friends S3E25 · 老友记 第三季第25集",
+      "en": "\"Free weekend at a cabin? What's the catch?\"",
+      "cn": "\"免费周末去小木屋？有什么猫腻？\""
+    },
+    {
+      "source": "Shark Tank S11E05 · 创智赢家 第十一季",
+      "en": "\"I like the valuation, but what's the catch?\"",
+      "cn": "\"我喜欢这个估值，但有什么猫腻？\""
+    },
+    {
+      "source": "BBC News · BBC新闻",
+      "en": "\"Free broadband for all sounds great — but what's the catch?\"",
+      "cn": "\"全民免费宽带听起来很棒——但有什么猫腻？\""
+    }
+  ]
+}

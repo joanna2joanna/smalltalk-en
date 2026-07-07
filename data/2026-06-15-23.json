@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Look who's talking!",
+  "phrase_pron": "/lʊk huːz ˈtɔːkɪŋ/",
+  "meaning_cn": "<em>你还有脸说！</em> / hypocrite！",
+  "trap_x": "字面意思：看谁在说话",
+  "trap_check": "真正意思：你就是那个问题本人（不是真的让看谁说话）",
+  "examples": [
+    {
+      "source": "Friends S3E08 · 老友记 第三季 第8集",
+      "en": "\"You're so disorganized!\" \"Look who's talking!\"",
+      "cn": "\"你太没条理了！\" \"你还有脸说！\""
+    },
+    {
+      "source": "Seinfeld S5E14 · 宋飞正传 第五季 第14集",
+      "en": "\"Look who's talking!\"",
+      "cn": "\"你还有脸说！\""
+    },
+    {
+      "source": "Modern Family S2E12 · 摩登家庭 第二季 第12集",
+      "en": "\"You never listen!\" \"Look who's talking!\"",
+      "cn": "\"你从来不听！\" \"你还有脸说！\""
+    }
+  ]
+}

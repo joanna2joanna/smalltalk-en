@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Says who?",
+  "phrase_pron": "/sez huː/",
+  "meaning_cn": "<em>你说了算啊？</em>",
+  "trap_x": "字面意思：谁说的？",
+  "trap_check": "真正意思：你说了算？（不是问信息来源，是挑战对方凭什么这么讲）",
+  "examples": [
+    {"source": "Friends S5E15 · 老友记", "en": "\"You can't sit here.\" \"Says who?\"", "cn": "你不能坐这儿。/ 你说了算？"},
+    {"source": "The Devil Wears Prada · 穿普拉达的女王", "en": "\"That's the rule.\" \"Says who?\"", "cn": "这是规矩。/ 谁定的？"},
+    {"source": "Stranger Things S2E06 · 怪奇物语", "en": "\"We're not allowed in.\" \"Says who?\"", "cn": "我们不许进去。/ 谁说的？"}
+  ]
+}

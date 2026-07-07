@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's up with you?",
+  "phrase_pron": "/wʌts ʌp wɪð juː/",
+  "meaning_cn": "<em>你最近怎样？</em>",
+  "trap_x": "字面意思：你上面有什么",
+  "trap_check": "真正意思：问候近况（不是问你头顶上面有什么）",
+  "examples": [
+    {
+      "source": "Friends S2E14 · 老友记 第二季 第14集",
+      "en": "\"What's up with you?\" \"Not much.\"",
+      "cn": "\"你最近怎样？\" \"没什么。\""
+    },
+    {
+      "source": "The Office S4E06 · 办公室 第四季 第6集",
+      "en": "\"What's up with you, Jim?\"",
+      "cn": "\"你最近怎样，Jim？\""
+    },
+    {
+      "source": "Seinfeld S5E13 · 宋飞正传 第五季 第13集",
+      "en": "\"What's up with you, Jerry?\"",
+      "cn": "\"你最近怎样，Jerry？\""
+    }
+  ]
+}

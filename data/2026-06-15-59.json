@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Right you are!",
+  "phrase_pron": "/raɪt ju ɑːr/",
+  "meaning_cn": "<em>你说得对！</em> / 没错",
+  "trap_x": "字面意思：你是对的（语法怪）",
+  "trap_check": "真正意思：强烈赞同（不是语法练习）",
+  "examples": [
+    {
+      "source": "Friends S3E17 · 老友记 第三季 第17集",
+      "en": "\"So we're meeting at 6?\" \"Right you are!\"",
+      "cn": "\"那我们六点见？\" \"没错！\""
+    },
+    {
+      "source": "The Office S4E10 · 办公室 第四季 第10集",
+      "en": "\"That's exactly what I meant.\" \"Right you are!\"",
+      "cn": "\"我就是那个意思。\" \"说得对！\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"We need to leave now.\" \"Right you are, boss.\"",
+      "cn": "\"我们得现在走。\" \"好的，老板。\""
+    }
+  ]
+}

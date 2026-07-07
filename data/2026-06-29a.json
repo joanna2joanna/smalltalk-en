@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Bless your heart",
+  "phrase_pron": "/bles jɔːr hɑːrt/",
+  "meaning_cn": "<em>你傻，我不说破</em>",
+  "trap_x": "字面：祝福你的心",
+  "trap_check": "真意：用最温柔的语气骂你最蠢——美国南方阴阳怪气",
+  "examples": [
+    {"source": "The Help · 相助", "en": "\"She can't help how she looks.\" \"Bless her heart.\"", "cn": "她长这样也不是她的错。/ 祝福她的心吧。"},
+    {"source": "Steel Magnolias · 钢木兰", "en": "\"I made this myself.\" \"Oh, bless your heart.\"", "cn": "这我自己做的。/ 噢，真是难为你了。"},
+    {"source": "Friday Night Lights S2 · 胜利之光", "en": "\"He thinks he'll make it.\" \"Bless his heart.\"", "cn": "他真觉得自己能成。/ 傻孩子。"}
+  ]
+}

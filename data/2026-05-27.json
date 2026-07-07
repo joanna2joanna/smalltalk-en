@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Fat chance.",
+  "phrase_pron": "/fæt tʃæns/",
+  "meaning_cn": "<em>想得美。</em> / 没门儿",
+  "trap_x": "字面意思：肥大的机会（好机会）",
+  "trap_check": "真正意思：绝无可能 / 做梦去吧（讽刺性反语）",
+  "examples": [
+    {
+      "source": "Friends S2E22 · 老友记 第二季",
+      "en": "\"You think Rachel's gonna cook dinner for twelve people? Fat chance.\"",
+      "cn": "\"你觉得 Rachel 会给12个人做晚饭？做梦去吧。\""
+    },
+    {
+      "source": "The Office US S6E01 · 办公室 第六季",
+      "en": "\"Think Michael's gonna stay focused in this meeting? Fat chance.\"",
+      "cn": "\"你觉得 Michael 开会能不走神？门都没有。\""
+    },
+    {
+      "source": "BBC News · BBC 新闻报道",
+      "en": "\"Will this bill pass before the summer recess?\" \"Fat chance, I'm afraid. The Lords will block it.\"",
+      "cn": "\"这法案夏休前能过？\"\"恐怕没戏，上议院会拦的。\""
+    }
+  ]
+}

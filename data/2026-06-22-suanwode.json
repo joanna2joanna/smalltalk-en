@@ -1,0 +1,12 @@
+{
+  "phrase_en": "算我的",
+  "phrase_pron": "suàn wǒ de",
+  "meaning_cn": "<em>It's on me</em> / My treat / I got this",
+  "trap_x": "Lit: count as mine / calculate mine",
+  "trap_check": "Real: \"I'm paying\" — has nothing to do with math. It's how you offer to cover the bill.",
+  "examples": [
+    {"source": "日常对话 · after dinner", "en": "\"这顿算我的，你别跟我抢。\" \"行，下顿我请。\"", "cn": "\"This one's on me.\" \"Fine, next one's mine.\""},
+    {"source": "日常对话 · at the bar", "en": "\"再来一轮，算我的！\"", "cn": "\"Another round, on me!\""},
+    {"source": "都挺好 S1 · All Is Well", "en": "\"你放心去吃，这钱算我的。\"", "cn": "\"Just go eat — it's on me.\""}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Speak of the devil!",
+  "phrase_pron": "/spiːk əv ðə ˈdɛvəl/",
+  "meaning_cn": "<em>说曹操曹操到！</em>",
+  "trap_x": "字面意思：说起魔鬼",
+  "trap_check": "真正意思：刚提到的人出现了（跟魔鬼无关）",
+  "examples": [
+    {
+      "source": "Friends S2E12 · 老友记 第二季 第12集",
+      "en": "\"Speak of the devil!\" \"Hi guys!\"",
+      "cn": "\"说曹操曹操到！\" \"嗨大家！\""
+    },
+    {
+      "source": "The Office S3E14 · 办公室 第三季 第14集",
+      "en": "\"Speak of the devil.\" \"I was just talking about you.\"",
+      "cn": "\"说曹操曹操到。\" \"我刚在说你呢。\""
+    },
+    {
+      "source": "Seinfeld S4E22 · 宋飞正传 第四季 第22集",
+      "en": "\"Speak of the devil!\" \"I was just thinking about you.\"",
+      "cn": "\"说曹操曹操到！\" \"我刚在想你呢。\""
+    }
+  ]
+}

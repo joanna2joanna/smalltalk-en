@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Break a leg!",
+  "phrase_pron": "/breɪk ə lɛɡ/",
+  "meaning_cn": "<em>祝你好运！</em> / 加油",
+  "trap_x": "字面意思：打断一条腿",
+  "trap_check": "真正意思：祝你好运（剧院行话，不是真打断腿）",
+  "examples": [
+    {
+      "source": "Friends S3E18 · 老友记 第三季 第18集",
+      "en": "\"Break a leg!\" \"Thanks, you too.\"",
+      "cn": "\"祝你好运！\" \"谢谢，你也是。\""
+    },
+    {
+      "source": "The Office S2E20 · 办公室 第二季 第20集",
+      "en": "\"You got this. Break a leg!\"",
+      "cn": "\"你能行的。祝好运！\""
+    },
+    {
+      "source": "Broadway tradition · 百老汇传统",
+      "en": "\"Break a leg, everyone!\"",
+      "cn": "\"大家都好运！\""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrase_en": "I hear you.",
+  "phrase_pron": "/aɪ hɪr juː/",
+  "meaning_cn": "<em>我懂</em> / 你说得对",
+  "trap_x": "字面意思：我听见你了",
+  "trap_check": "真正意思：我理解你的感受/认同你的观点（不是确认听觉听见）",
+  "examples": [
+    {
+      "source": "The Office S5E23 · 办公室",
+      "en": "Michael: \"This job is killing me.\" Jim: \"I hear you, man.\"",
+      "cn": "迈克尔：「这工作要命。」吉姆：「兄弟，我懂。」"
+    },
+    {
+      "source": "Mad Men S1E03 · 广告狂人",
+      "en": "Peggy: \"I can't take another late night.\" Joan: \"I hear you.\"",
+      "cn": "佩吉：「再也熬不动了。」琼：「我理解。」"
+    },
+    {
+      "source": "House M.D. S3E12 · 豪斯医生",
+      "en": "Cuddy: \"The budget is brutal.\" Wilson: \"I hear you.\"",
+      "cn": "卡迪：「预算太紧张了。」威尔逊：「深有同感。」"
+    }
+  ]
+}

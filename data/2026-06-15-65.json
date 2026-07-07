@@ -1,0 +1,24 @@
+{
+  "phrase_en": "As if!",
+  "phrase_pron": "/æz ɪf/",
+  "meaning_cn": "<em>怎么可能！</em> / 想得美",
+  "trap_x": "字面意思：就好像",
+  "trap_check": "真正意思：那根本不可能发生（嘲讽式否定）",
+  "examples": [
+    {
+      "source": "Clueless · 独领风骚（经典青春电影）",
+      "en": "\"Maybe he likes you.\" \"As if!\"",
+      "cn": "\"他说不定喜欢你。\" \"怎么可能！\""
+    },
+    {
+      "source": "Friends S6E07 · 老友记 第六季 第7集",
+      "en": "\"He might come back.\" \"As if!\"",
+      "cn": "\"他说不定会回来。\" \"做梦！\""
+    },
+    {
+      "source": "Mean Girls · 贱女孩",
+      "en": "\"Maybe you could sit with us.\" \"As if!\"",
+      "cn": "\"也许你能跟我们一起坐。\" \"想得美！\""
+    }
+  ]
+}

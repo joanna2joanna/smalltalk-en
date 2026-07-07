@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Cry wolf",
+  "phrase_pron": "/kraɪ wʊlf/",
+  "meaning_cn": "<em>假警报</em>/喊狼来了",
+  "trap_x": "字面意思：哭着喊「狼来了！」",
+  "trap_check": "真正意思：发假警报——喊多了没人信",
+  "examples": [
+    {"source": "Jon Stewart · The Daily Show 2025", "en": "\"Ten years of crying wolf — now nobody's listening.\"", "cn": "媒体喊了十年狼来了——现在没人听了。"},
+    {"source": "Ben Thompson · Financial Times 2026", "en": "\"AI CEOs are crying wolf — it's disaster marketing.\"", "cn": "AI公司把生存危机当营销——天天喊狼来了。"},
+    {"source": "日常对话 · 朋友劝告", "en": "\"Cry wolf too often — no one comes when it's real.\"", "cn": "你再喊狼来了，真出事就没人信了。"}
+  ]
+}

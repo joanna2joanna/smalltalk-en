@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Now you tell me!",
+  "phrase_pron": "/naʊ juː ˈtel miː/",
+  "meaning_cn": "<em>你怎么不早说！</em>",
+  "trap_x": "字面意思：现在你告诉我",
+  "trap_check": "真正意思：早怎么不说！（抱怨消息来晚了，哪是让你现在讲）",
+  "examples": [
+    {"source": "Friends S4E12 · 老友记", "en": "\"The store closed yesterday.\" \"Now you tell me!\"", "cn": "那家店昨天关门了。/ 你怎么不早说！"},
+    {"source": "Modern Family S3E08 · 摩登家庭", "en": "\"That shortcut adds 20 minutes.\" \"Now you tell me!\"", "cn": "那条捷径反而多花20分钟。/ 现在才说！"},
+    {"source": "Spider-Man: Homecoming · 蜘蛛侠", "en": "\"The suit has a tracker.\" \"Now you tell me!\"", "cn": "那套衣服有追踪器。/ 早说啊！"}
+  ]
+}

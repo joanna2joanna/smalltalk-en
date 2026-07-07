@@ -1,0 +1,24 @@
+{
+  "phrase_en": "The feeling is mutual.",
+  "phrase_pron": "/ðə ˈfiːlɪŋ ɪz ˈmjuːtʃuəl/",
+  "meaning_cn": "<em>我也一样</em> / 彼此彼此",
+  "trap_x": "字面意思：感觉是相互的",
+  "trap_check": "真正意思：我跟你感受相同（常用于「我也不喜欢他」或「我也爱你」）",
+  "examples": [
+    {
+      "source": "Pride and Prejudice 2005 · 傲慢与偏见",
+      "en": "Mr. Darcy: \"I cannot like you.\" Elizabeth: \"The feeling is mutual, Mr. Darcy.\"",
+      "cn": "达西先生：「我无法喜欢你。」伊丽莎白：「我也一样，达西先生。」"
+    },
+    {
+      "source": "The Devil Wears Prada 2006 · 穿普拉达的女王",
+      "en": "Andy: \"I hate these ridiculous fashion shows.\" Emily: \"The feeling is mutual, Andy. I hate your attitude.\"",
+      "cn": "安迪：「我讨厌这些荒唐的时装秀。」艾米丽：「彼此彼此，安迪。我讨厌你的态度。」"
+    },
+    {
+      "source": "La La Land 2016 · 爱乐之城",
+      "en": "Sebastian: \"I love you.\" Mia: \"The feeling is mutual, Sebastian. Completely.\"",
+      "cn": "塞巴斯蒂安：「我爱你。」米娅：「我也爱你，塞巴斯蒂安。完全一样。」"
+    }
+  ]
+}

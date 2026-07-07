@@ -1,0 +1,12 @@
+{
+  "phrase_en": "I smell a rat",
+  "phrase_pron": "/aɪ smɛl ə ræt/",
+  "meaning_cn": "<em>直觉不对</em>/有猫腻",
+  "trap_x": "字面意思：闻到老鼠味",
+  "trap_check": "真正意思：直觉告诉你——有猫腻、不对劲",
+  "examples": [
+    {"source": "The Departed · 无间道风云", "en": "\"I smell a rat.\"", "cn": "我闻到老鼠味了——直觉告诉我有内鬼。"},
+    {"source": "BBC Learning English · 地道英语", "en": "\"The deal sounds too good — I smell a rat.\"", "cn": "这交易好得不像真的——我感觉有猫腻。"},
+    {"source": "日常对话 · 职场察觉", "en": "\"His story keeps changing — I smell a rat.\"", "cn": "他的说法一直变——我觉得不对劲。"}
+  ]
+}

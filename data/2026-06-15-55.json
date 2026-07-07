@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Bite your tongue!",
+  "phrase_pron": "/baɪt jɔːr tʌŋ/",
+  "meaning_cn": "<em>别胡说！</em> / 走开运",
+  "trap_x": "字面意思：咬你的舌头",
+  "trap_check": "真正意思：别乱说！（说了会带来厄运）",
+  "examples": [
+    {
+      "source": "Friends S4E07 · 老友记 第四季 第7集",
+      "en": "\"I hope we never have to see him again.\" \"Bite your tongue!\"",
+      "cn": "\"希望再也见不到他了。\" \"别胡说！\""
+    },
+    {
+      "source": "The Office S2E11 · 办公室 第二季 第11集",
+      "en": "\"Maybe the office will burn down.\" \"Bite your tongue!\"",
+      "cn": "\"也许办公室会着火。\" \"别乱说！\""
+    },
+    {
+      "source": "Seinfeld S6E09 · 宋飞正传 第六季 第9集",
+      "en": "\"I think the show is getting cancelled.\" \"Bite your tongue!\"",
+      "cn": "\"我觉得节目要被砍了。\" \"走开运！\""
+    }
+  ]
+}

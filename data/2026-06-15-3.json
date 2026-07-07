@@ -1,0 +1,24 @@
+{
+  "phrase_en": "I rest my case.",
+  "phrase_pron": "/aɪ rɛst maɪ keɪs/",
+  "meaning_cn": "<em>我陈述完毕。</em> / 我说完了",
+  "trap_x": "字面意思：我休息我的案子",
+  "trap_check": "真正意思：我的论点已经说完（不用再辩）",
+  "examples": [
+    {
+      "source": "The West Wing · 白宫风云",
+      "en": "\"I rest my case.\" (closing argument)",
+      "cn": "\"我陈述完毕。\"（结案陈词）"
+    },
+    {
+      "source": "Friends S4E16 · 老友记 第四季 第16集",
+      "en": "\"So she's clearly lying.\" \"I rest my case.\"",
+      "cn": "\"所以她明显在撒谎。\" \"我说完了。\""
+    },
+    {
+      "source": "The Good Wife · 傲骨贤妻",
+      "en": "\"I rest my case, Your Honor.\"",
+      "cn": "\"我陈述完毕，法官大人。\""
+    }
+  ]
+}

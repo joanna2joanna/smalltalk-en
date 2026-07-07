@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Live and learn.",
+  "phrase_pron": "/lɪv ənd lɜːrn/",
+  "meaning_cn": "<em>吃一堑长一智</em> / 人非圣贤孰能无过",
+  "trap_x": "字面意思：活着并且学习",
+  "trap_check": "真正意思：犯了错就吸取教训，继续往前走（不是劝你去上学）",
+  "examples": [
+    {
+      "source": "Seinfeld S6E18 · 宋飞正传",
+      "en": "Jerry: \"I left my bag on the subway again.\" George: \"Live and learn, Jerry. Live and learn.\"",
+      "cn": "杰瑞：「我又把包落在地铁上了。」乔治：「吃一堑长一智吧，杰瑞。吃一堑长一智。」"
+    },
+    {
+      "source": "The Big Bang Theory S7E14 · 生活大爆炸",
+      "en": "Sheldon: \"I trusted him and he stole my idea.\" Leonard: \"Live and learn, Sheldon. Not everyone is trustworthy.\"",
+      "cn": "谢尔顿：「我信任他，结果他偷了我的创意。」莱纳德：「吃一堑长一智，谢尔顿。不是谁都值得信任。」"
+    },
+    {
+      "source": "Modern Family S8E22 · 摩登家庭",
+      "en": "Claire: \"I bought the wrong size for the party hats.\" Phil: \"Live and learn, Claire. Next time we measure first.\"",
+      "cn": "克莱尔：「我买错了派对帽的尺寸。」菲尔：「吃一堑长一智，克莱尔。下次我们先量尺寸。」"
+    }
+  ]
+}

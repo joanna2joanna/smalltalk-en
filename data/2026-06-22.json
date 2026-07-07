@@ -1,0 +1,12 @@
+{
+  "phrase_en": "You don't say.",
+  "phrase_pron": "/juː doʊnt seɪ/",
+  "meaning_cn": "<em>真的假的？！</em>",
+  "trap_x": "字面意思：你别说 / 别说了",
+  "trap_check": "真正意思：真的吗？（表惊讶或讽刺，不是让人闭嘴）",
+  "examples": [
+    {"source": "Friends S1E05 · 老友记", "en": "\"Looks like rain.\" \"You don't say.\"", "cn": "好像要下雨了。"},
+    {"source": "The Office US S3E08 · 办公室", "en": "\"This meeting is pointless.\" \"You don't say.\"", "cn": "这会真没意义。"},
+    {"source": "Seinfeld S6E12 · 宋飞正传", "en": "\"Turns out I was right.\" \"You don't say.\"", "cn": "结果还是我对了。"}
+  ]
+}

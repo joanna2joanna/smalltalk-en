@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Take your time.",
+  "phrase_pron": "/teɪk jɔːr taɪm/",
+  "meaning_cn": "<em>不急</em> / 慢慢来",
+  "trap_x": "字面意思：拿走你的时间",
+  "trap_check": "真正意思：不用着急、慢慢来（不是真的拿走时间）",
+  "examples": [
+    {
+      "source": "Friends S3E06 · 老友记 第三季 第6集",
+      "en": "Take your time. We're not in any rush.",
+      "cn": "慢慢来，我们不赶时间。"
+    },
+    {
+      "source": "The Big Bang Theory S1E15 · 生活大爆炸 第一季 第15集",
+      "en": "Take your time. I'll be right here.",
+      "cn": "不急，我就在这儿等。"
+    },
+    {
+      "source": "Modern Family S4E10 · 摩登家庭 第四季 第10集",
+      "en": "Take your time with that form. No hurry at all.",
+      "cn": "慢慢填那个表，完全不急。"
+    }
+  ]
+}

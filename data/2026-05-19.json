@@ -1,0 +1,24 @@
+{
+  "phrase_en": "You don't say!",
+  "phrase_pron": "/juː doʊnt seɪ/",
+  "meaning_cn": "<em>真的假的？不会吧！</em> 说下去 / 感兴趣",
+  "trap_x": "字面意思：你别说！/ 闭嘴！",
+  "trap_check": "真正意思：不会吧？快说下去！",
+  "examples": [
+    {
+      "source": "Friends S1E01 · 老友记",
+      "en": "\"You don't say! That's incredible!\"",
+      "cn": "真的假的？太不可思议了！"
+    },
+    {
+      "source": "The Office US S7E12 · 办公室",
+      "en": "\"I got promoted.\" \"You don't say! Congratulations!\"",
+      "cn": "\"我升职了。\" \"不会吧！恭喜恭喜！\""
+    },
+    {
+      "source": "The Simpsons S6E19 · 辛普森一家",
+      "en": "\"You don't say, tell me more about it.\"",
+      "cn": "不会吧？再详细说说！"
+    }
+  ]
+}

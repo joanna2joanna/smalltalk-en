@@ -1,0 +1,12 @@
+{
+  "phrase_en": "In your dreams!",
+  "phrase_pron": "/ɪn jɔːr driːmz/",
+  "meaning_cn": "<em>做梦去吧！</em>",
+  "trap_x": "字面意思：在你的梦里",
+  "trap_check": "真正意思：做梦去吧！（是说你痴心妄想，不是字面做梦）",
+  "examples": [
+    {"source": "Friends S7E22 · 老友记", "en": "\"I think she likes me.\" \"In your dreams!\"", "cn": "我觉得她喜欢我。/ 做梦去吧！"},
+    {"source": "Mean Girls · 贱女孩", "en": "\"I could date her.\" \"In your dreams!\"", "cn": "我能追到她。/ 想得美！"},
+    {"source": "Stranger Things S1E06 · 怪奇物语", "en": "\"We'll win this time.\" \"In your dreams!\"", "cn": "这次我们能赢。/ 做梦！"}
+  ]
+}

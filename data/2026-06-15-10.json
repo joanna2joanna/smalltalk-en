@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's cooking?",
+  "phrase_pron": "/wʌts ˈkʊkɪŋ/",
+  "meaning_cn": "<em>最近怎样？</em> / 有什么新鲜事",
+  "trap_x": "字面意思：在煮什么？",
+  "trap_check": "真正意思：问候近况（不是真要查你厨房）",
+  "examples": [
+    {
+      "source": "Friends S3E04 · 老友记 第三季 第4集",
+      "en": "\"What's cooking, buddy?\" \"Not much, just work.\"",
+      "cn": "\"最近怎样，哥们？\" \"老样子，就是上班。\""
+    },
+    {
+      "source": "The Office S2E06 · 办公室 第二季 第6集",
+      "en": "\"What's cooking?\" \"Not much, just another boring day.\"",
+      "cn": "\"怎样啊？\" \"老样子，又是无聊的一天。\""
+    },
+    {
+      "source": "Seinfeld S4E09 · 宋飞正传 第四季 第9集",
+      "en": "\"What's cooking with you?\" \"Oh, nothing special.\"",
+      "cn": "\"你最近怎样？\" \"哦，没什么特别的。\""
+    }
+  ]
+}

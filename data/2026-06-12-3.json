@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Make yourself at home.",
+  "phrase_pron": "/meɪk jɔːrˈself ət hoʊm/",
+  "meaning_cn": "<em>别拘束</em> / 当自己家",
+  "trap_x": "字面意思：让你自己在家",
+  "trap_check": "真正意思：请随意、别客气，像在自己家一样（不是字面「在家」）",
+  "examples": [
+    {
+      "source": "Friends S2E14 · 老友记 第二季 第14集",
+      "en": "Come on in. Make yourself at home.",
+      "cn": "进来吧，别拘束。"
+    },
+    {
+      "source": "The Office S2E07 · 办公室 第二季 第7集",
+      "en": "Make yourself at home. There's beer in the fridge.",
+      "cn": "当自己家。啤酒在冰箱里。"
+    },
+    {
+      "source": "Modern Family S1E03 · 摩登家庭 第一季 第3集",
+      "en": "Make yourself at home. I'll be right back.",
+      "cn": "随便坐，我马上回来。"
+    }
+  ]
+}

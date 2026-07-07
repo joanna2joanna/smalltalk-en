@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Beat around the bush.",
+  "phrase_pron": "/biːt əˈraʊnd ðə bʊʃ/",
+  "meaning_cn": "<em>绕弯子</em> / 避重就轻",
+  "trap_x": "字面意思：绕着灌木打",
+  "trap_check": "真正意思：回避重点/说话不直接（不是打猎）",
+  "examples": [
+    {
+      "source": "Friends S4E13 · 老友记 第四季 第13集",
+      "en": "\"Stop beating around the bush.\"",
+      "cn": "\"别绕弯子了。\""
+    },
+    {
+      "source": "The Office S2E15 · 办公室 第二季 第15集",
+      "en": "\"Don't beat around the bush, Michael.\"",
+      "cn": "\"Michael，别避重就轻。\""
+    },
+    {
+      "source": "House of Cards S1E02 · 纸牌屋 第一季 第2集",
+      "en": "\"Stop beating around the bush.\"",
+      "cn": "\"别绕弯子了。\""
+    }
+  ]
+}

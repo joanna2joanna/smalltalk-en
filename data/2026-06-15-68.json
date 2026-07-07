@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Get a life!",
+  "phrase_pron": "/ɡɛt ə laɪf/",
+  "meaning_cn": "<em>做点正经事吧！</em> / 别无聊了",
+  "trap_x": "字面意思：拿一个人生",
+  "trap_check": "真正意思：别浪费时间在无聊事上（不是字面上的「拿人生」）",
+  "examples": [
+    {
+      "source": "Friends S5E07 · 老友记 第五季 第7集",
+      "en": "\"I counted all the rice in my kitchen.\" \"Get a life!\"",
+      "cn": "\"我数了厨房里所有的米。\" \"做点正经事吧！\""
+    },
+    {
+      "source": "The Office S3E12 · 办公室 第三季 第12集",
+      "en": "\"Get a life, Michael.\"",
+      "cn": "\"做点正经事吧，Michael。\""
+    },
+    {
+      "source": "Clueless · 独领风骚",
+      "en": "\"Get a life, okay?\"",
+      "cn": "\"别无聊了，行吗？\""
+    }
+  ]
+}

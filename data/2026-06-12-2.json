@@ -1,0 +1,24 @@
+{
+  "phrase_en": "You bet.",
+  "phrase_pron": "/juː bet/",
+  "meaning_cn": "<em>当然！</em> / 那还用说",
+  "trap_x": "字面意思：你赌",
+  "trap_check": "真正意思：当然/没问题（表示强烈肯定，跟赌博无关）",
+  "examples": [
+    {
+      "source": "Friends S4E08 · 老友记 第四季 第8集",
+      "en": "\"Can I count on you for this?\" \"You bet.\"",
+      "cn": "\"这事我能指望你吗？\"\"那还用说。\""
+    },
+    {
+      "source": "The Big Bang Theory S3E15 · 生活大爆炸 第三季 第15集",
+      "en": "\"Are you coming to Comic-Con?\" \"You bet I am.\"",
+      "cn": "\"你会去漫展吗？\"\"当然去。\""
+    },
+    {
+      "source": "Modern Family S2E06 · 摩登家庭 第二季 第6集",
+      "en": "\"You think you can fix this?\" \"You bet.\"",
+      "cn": "\"你觉得你能修好？\"\"没问题。\""
+    }
+  ]
+}

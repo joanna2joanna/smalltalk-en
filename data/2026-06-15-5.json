@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Get lost!",
+  "phrase_pron": "/ɡɛt lɔst/",
+  "meaning_cn": "<em>滚开！</em> / 走远点",
+  "trap_x": "字面意思：迷路去吧",
+  "trap_check": "真正意思：走开/别烦我（不是真的让你迷路）",
+  "examples": [
+    {
+      "source": "Friends S3E07 · 老友记 第三季 第7集",
+      "en": "\"Get lost, okay?\"",
+      "cn": "\"滚开，行吗？\""
+    },
+    {
+      "source": "The Office S2E04 · 办公室 第二季 第4集",
+      "en": "\"Get lost, Dwight.\"",
+      "cn": "\"走开，Dwight。\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"Get lost!\" (strong dismissal)",
+      "cn": "\"滚开！\"（强烈驱赶）"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrase_en": "The jig is up.",
+  "phrase_pron": "/ðə dʒɪɡ ɪz ʌp/",
+  "meaning_cn": "<em>完蛋了！</em> / 秘密暴露了",
+  "trap_x": "字面意思：那支舞结束了",
+  "trap_check": "真正意思：阴谋败露/完蛋了（不是跳舞）",
+  "examples": [
+    {
+      "source": "The Sopranos S1E05 · 索普兰诺斯 第一季 第5集",
+      "en": "\"The jig is up, Tony.\"",
+      "cn": "\"完蛋了，Tony。\""
+    },
+    {
+      "source": "Breaking Bad S4E11 · 绝命毒师 第四季 第11集",
+      "en": "\"The jig is up, guys. They know.\"",
+      "cn": "\"完蛋了哥们，他们知道了。\""
+    },
+    {
+      "source": "The Wire S2E04 · 火线 第二季 第4集",
+      "en": "\"The jig is up. We got nothing left.\"",
+      "cn": "\"完蛋了，我们什么都没了。\""
+    }
+  ]
+}

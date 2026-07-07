@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Think again!",
+  "phrase_pron": "/θɪŋk əˈɡɛn/",
+  "meaning_cn": "<em>再想想吧！</em> / 你错了",
+  "trap_x": "字面意思：再想一次",
+  "trap_check": "真正意思：你大错特错了（不是让你真的再想一次）",
+  "examples": [
+    {
+      "source": "Friends S4E16 · 老友记 第四季 第16集",
+      "en": "\"I think I'm right.\" \"Think again!\"",
+      "cn": "\"我觉得我是对的。\" \"再想想吧！\""
+    },
+    {
+      "source": "The Office S4E09 · 办公室 第四季 第9集",
+      "en": "\"Think again, Jim.\"",
+      "cn": "\"再想想吧，Jim。\""
+    },
+    {
+      "source": "The Dark Knight · 黑暗骑士（经典电影）",
+      "en": "\"Think again.\"",
+      "cn": "\"再想想吧。\""
+    }
+  ]
+}

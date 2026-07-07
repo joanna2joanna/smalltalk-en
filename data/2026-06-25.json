@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Face the music.",
+  "phrase_pron": "/feɪs ðə ˈmjuːzɪk/",
+  "meaning_cn": "<em>承担后果；接受惩罚</em>",
+  "trap_x": "字面意思：面朝音乐",
+  "trap_check": "真正意思：承担后果（不是去听歌，是去挨训/受罚/收拾烂摊子）",
+  "examples": [
+    {"source": "The Devil Wears Prada · 穿普拉达的女王", "en": "\"Miranda wants you.\" \"Time to face the music.\"", "cn": "Miranda 叫你。/ 该去挨训了。"},
+    {"source": "The Office US S4E07 · 办公室", "en": "\"I blew the pitch.\" \"Face the music.\"", "cn": "我把提案搞砸了。/ 去面对吧。"},
+    {"source": "Breaking Bad S2E10 · 绝命毒师", "en": "\"Boss is furious.\" \"Guess I'll face the music.\"", "cn": "老板气炸了。/ 我猜我得去认栽了。"}
+  ]
+}

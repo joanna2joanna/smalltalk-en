@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Flat as a pancake.",
+  "phrase_pron": "/flæt æz ə ˈpænkeɪk/",
+  "meaning_cn": "<em>平得不能再平了</em> / 彻底扁了",
+  "trap_x": "字面意思：像薄饼一样平",
+  "trap_check": "真正意思：非常平/毫无起伏（字面引申）",
+  "examples": [
+    {
+      "source": "Friends S3E13 · 老友记 第三季 第13集",
+      "en": "\"The tyre is flat as a pancake.\"",
+      "cn": "\"轮胎彻底扁了。\""
+    },
+    {
+      "source": "The Office S4E12 · 办公室 第四季 第12集",
+      "en": "\"Flat as a pancake, Dwight.\"",
+      "cn": "\"平得不能再平了，Dwight。\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"The landscape is flat as a pancake.\"",
+      "cn": "\"这片地平得不能再平了。\""
+    }
+  ]
+}

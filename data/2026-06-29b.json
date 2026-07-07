@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Spill the tea",
+  "phrase_pron": "/spɪl ðə tiː/",
+  "meaning_cn": "<em>快说八卦！交瓜！</em>",
+  "trap_x": "字面：把茶洒了",
+  "trap_check": "真意：快说八卦！茶洒了不擦先吃瓜——源自drag文化",
+  "examples": [
+    {"source": "RuPaul's Drag Race S6 · 鲁保罗变装皇后秀", "en": "\"Girl, what happened last night?\" \"Spill the tea!\"", "cn": "姐们儿，昨晚怎么了？/ 快把瓜交出来！"},
+    {"source": "Schitt's Creek S5 · 富家穷路", "en": "\"You and Patrick?\" \"Spill the tea, David!\"", "cn": "你和Patrick？/ David快说！"},
+    {"source": "Riverdale S3 · 河谷镇", "en": "\"I heard something about Veronica.\" \"Spill.\"", "cn": "我听说了一些Veronica的事。/ 说。"}
+  ]
+}

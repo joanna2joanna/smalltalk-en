@@ -1,0 +1,24 @@
+{
+  "phrase_en": "You wish!",
+  "phrase_pron": "/juː wɪʃ/",
+  "meaning_cn": "<em>做梦！</em> / 想得美",
+  "trap_x": "字面意思：你许愿",
+  "trap_check": "真正意思：那不可能发生（嘲讽式拒绝）",
+  "examples": [
+    {
+      "source": "Friends S5E03 · 老友记 第五季 第3集",
+      "en": "\"Maybe one day we'll get back together.\" \"You wish!\"",
+      "cn": "\"也许有一天我们会复合。\" \"做梦！\""
+    },
+    {
+      "source": "The Office S5E14 · 办公室 第五季 第14集",
+      "en": "\"Think you'll get the promotion?\" \"You wish!\"",
+      "cn": "\"觉得你会升职？\" \"想得美！\""
+    },
+    {
+      "source": "Mean Girls · 贱女孩",
+      "en": "\"Maybe if you're nice to me, we could be friends.\" \"You wish!\"",
+      "cn": "\"如果你对我好，我们也许能当朋友。\" \"做梦去吧！\""
+    }
+  ]
+}

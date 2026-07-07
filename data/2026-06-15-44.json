@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the news?",
+  "phrase_pron": "/wʌts ðə njuːz/",
+  "meaning_cn": "<em>有什么新鲜事？</em>",
+  "trap_x": "字面意思：那个新闻是什么",
+  "trap_check": "真正意思：近况如何/有什么新鲜事（不是真问新闻报道）",
+  "examples": [
+    {
+      "source": "Friends S3E05 · 老友记 第三季 第5集",
+      "en": "\"What's the news?\" \"Not much.\"",
+      "cn": "\"有什么新鲜事？\" \"没什么。\""
+    },
+    {
+      "source": "The Office S2E08 · 办公室 第二季 第8集",
+      "en": "\"What's the news, Jim?\"",
+      "cn": "\"有什么新鲜事，Jim？\""
+    },
+    {
+      "source": "Seinfeld S4E07 · 宋飞正传 第四季 第7集",
+      "en": "\"What's the news, Jerry?\"",
+      "cn": "\"有什么新鲜事，Jerry？\""
+    }
+  ]
+}

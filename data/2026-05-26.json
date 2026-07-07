@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Suit yourself.",
+  "phrase_pron": "/suːt jɔːrˈsɛlf/",
+  "meaning_cn": "<em>随你便吧。</em> / 你开心就好",
+  "trap_x": "字面意思：穿上你的西装吧",
+  "trap_check": "真正意思：随你便 / 随便你（被动攻击语气）",
+  "examples": [
+    {
+      "source": "Friends S5E11 · 老友记 第五季",
+      "en": "\"Suit yourself. But don't come crying to me later.\"",
+      "cn": "\"随你便，到时候别哭着来找我。\""
+    },
+    {
+      "source": "The Office US S2E17 · 办公室 第二季",
+      "en": "\"Okay, suit yourself. Just remember who warned you.\"",
+      "cn": "\"行吧，随你。记住是谁提醒过你。\""
+    },
+    {
+      "source": "Breaking Bad S4E06 · 绝命毒师 第四季",
+      "en": "\"Suit yourself, Skyler.\"",
+      "cn": "\"随你便吧，Skyler。\""
+    }
+  ]
+}

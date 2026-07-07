@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Hear! Hear!",
+  "phrase_pron": "/hɪr hɪr/",
+  "meaning_cn": "<em>说得对！</em> / 我赞同",
+  "trap_x": "字面意思：听！听！",
+  "trap_check": "真正意思：我完全赞同（不是让你听）",
+  "examples": [
+    {
+      "source": "The West Wing · 白宫风云（经典美剧）",
+      "en": "\"She's absolutely right!\" \"Hear! Hear!\"",
+      "cn": "\"她完全是对的！\" \"说得对！\""
+    },
+    {
+      "source": "British Parliament · 英国议会传统用语",
+      "en": "\"Hear! Hear!\" (formal endorsement)",
+      "cn": "\"说得对！\"（正式表态）"
+    },
+    {
+      "source": "Friends S5E09 · 老友记 第五季 第9集",
+      "en": "\"That's exactly what I meant!\" \"Hear! Hear!\"",
+      "cn": "\"我就是那个意思！\" \"说得好！\""
+    }
+  ]
+}

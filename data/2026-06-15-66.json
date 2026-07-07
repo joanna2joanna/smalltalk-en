@@ -1,0 +1,24 @@
+{
+  "phrase_en": "You're on!",
+  "phrase_pron": "/jʊr ɑːn/",
+  "meaning_cn": "<em>赌就赌！</em> / 我接受挑战",
+  "trap_x": "字面意思：你在上面",
+  "trap_check": "真正意思：我接受你的打赌/挑战（不是物理位置）",
+  "examples": [
+    {
+      "source": "Friends S5E18 · 老友记 第五季 第18集",
+      "en": "\"I bet you can't do it.\" \"You're on!\"",
+      "cn": "\"我打赌你做不到。\" \"赌就赌！\""
+    },
+    {
+      "source": "The Office S4E01 · 办公室 第四季 第1集",
+      "en": "\"I bet I can sell more.\" \"You're on!\"",
+      "cn": "\"我打赌我能卖得更多。\" \"赌就赌！\""
+    },
+    {
+      "source": "Seinfeld S7E15 · 宋飞正传 第七季 第15集",
+      "en": "\"Ten bucks says she doesn't show up.\" \"You're on!\"",
+      "cn": "\"十块钱赌她不会来。\" \"好，我赌！\""
+    }
+  ]
+}

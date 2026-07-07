@@ -1,0 +1,24 @@
+{
+  "phrase_en": "God forbid!",
+  "phrase_pron": "/ɡɑːd fərˈbɪd/",
+  "meaning_cn": "<em>千万别！</em> / 但愿不会",
+  "trap_x": "字面意思：上帝禁止",
+  "trap_check": "真正意思：但愿那不会发生（表示强烈不希望）",
+  "examples": [
+    {
+      "source": "Friends S3E20 · 老友记 第三季 第20集",
+      "en": "\"What if he never calls?\" \"God forbid!\"",
+      "cn": "\"要是他再也不打电话呢？\" \"千万别！\""
+    },
+    {
+      "source": "The Big Bang Theory S2E22 · 生活大爆炸 第二季 第22集",
+      "en": "\"She might actually win.\" \"God forbid!\"",
+      "cn": "\"她说不定真会赢。\" \"可别！\""
+    },
+    {
+      "source": "Modern Family S3E12 · 摩登家庭 第三季 第12集",
+      "en": "\"What if the wedding gets cancelled?\" \"God forbid!\"",
+      "cn": "\"要是婚礼取消了呢？\" \"千万别！\""
+    }
+  ]
+}

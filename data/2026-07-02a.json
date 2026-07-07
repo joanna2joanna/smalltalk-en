@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Touch grass.",
+  "phrase_pron": "/tʌtʃ ɡræs/",
+  "meaning_cn": "<em>戒网出门</em>/回归现实",
+  "trap_x": "字面意思：去摸摸草",
+  "trap_check": "真正意思：你上网太久了，该回归现实世界了（不是字面摸草）",
+  "examples": [
+    {"source": "Pedro Pascal · Vanity Fair 2025", "en": "\"Leave your moldy house and touch grass.\"", "cn": "离开你发霉的房子，出去见见真实世界吧。"},
+    {"source": "The Office US · 办公室", "en": "\"You've been on Twitter for six hours. Touch grass.\"", "cn": "你刷了六小时推特——该出门了。"},
+    {"source": "日常对话 · 朋友吐槽", "en": "\"Chronically online lately. Go touch grass.\"", "cn": "你最近太沉迷上网了——出去走走。"}
+  ]
+}

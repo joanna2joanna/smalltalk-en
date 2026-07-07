@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Street smarts.",
+  "phrase_pron": "/striːt ˈsmɑːrts/",
+  "meaning_cn": "<em>街头智慧</em> / 生存之道",
+  "trap_x": "字面意思：聪明的街",
+  "trap_check": "真正意思：生活常识/应变能力（不是街道聪明）",
+  "examples": [
+    {
+      "source": "Friends S3E14 · 老友记 第三季 第14集",
+      "en": "\"You got no street smarts.\"",
+      "cn": "\"你一点街头智慧都没有。\""
+    },
+    {
+      "source": "The Wire S1E05 · 火线 第一季 第5集",
+      "en": "\"Street smarts, man. That's what matters.\"",
+      "cn": "\"街头智慧，老兄。那才重要。\""
+    },
+    {
+      "source": "Urban slang · 日常口语",
+      "en": "\"Street smarts > book smarts.\"",
+      "cn": "\"街头智慧 大于 书本智慧。\""
+    }
+  ]
+}

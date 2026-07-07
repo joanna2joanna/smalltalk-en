@@ -1,0 +1,24 @@
+{
+  "phrase_en": "It's on the house.",
+  "phrase_pron": "/ɪts ɑːn ðə haʊs/",
+  "meaning_cn": "<em>免费赠送</em> / 店家请客",
+  "trap_x": "字面意思：在房子上",
+  "trap_check": "真正意思：店家免单/赠送（跟「房子」没关系）",
+  "examples": [
+    {
+      "source": "Friends S8E10 · 老友记 第八季 第10集",
+      "en": "This round is on the house. You guys are my best customers.",
+      "cn": "这轮店家请。你们是我最好的客人。"
+    },
+    {
+      "source": "Seinfeld S5E08 · 宋飞正传 第五季 第8集",
+      "en": "The dessert is on the house, sir. Enjoy.",
+      "cn": "甜点免费，先生。请慢用。"
+    },
+    {
+      "source": "Breaking Bad S3E02 · 绝命毒师 第三季 第2集",
+      "en": "First drink is on the house.",
+      "cn": "第一杯免费。"
+    }
+  ]
+}

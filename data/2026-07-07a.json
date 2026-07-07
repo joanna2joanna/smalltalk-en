@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Go bananas!",
+  "phrase_pron": "/ɡoʊ bəˈnænəz/",
+  "meaning_cn": "<em>疯了</em>/失控了",
+  "trap_x": "字面意思：去摘香蕉！",
+  "trap_check": "真正意思：疯了、失控、激动到不行——跟香蕉树没关系",
+  "examples": [
+    {"source": "Better Call Saul · S01", "en": "\"If I don't get out of here, I'm gonna go bananas.\"", "cn": "再不走我就要疯了——Jimmy被困在收发室。"},
+    {"source": "MarketWatch · 2026.3", "en": "\"Bond vol goes bananas — then equity bleeds.\"", "cn": "债市一疯，股市跟着遭殃——分析师大实话。"},
+    {"source": "日常对话 · 孩子过生日", "en": "\"The kids will go bananas when they see the cake!\"", "cn": "孩子看到蛋糕肯定要疯——妈妈预判了。"}
+  ]
+}

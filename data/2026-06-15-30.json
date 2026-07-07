@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What gives?",
+  "phrase_pron": "/wʌt ɡɪvz/",
+  "meaning_cn": "<em>怎么回事？</em> / 什么原因",
+  "trap_x": "字面意思：什么给",
+  "trap_check": "真正意思：为什么/怎么回事（不是真给东西）",
+  "examples": [
+    {
+      "source": "Friends S6E09 · 老友记 第六季 第9集",
+      "en": "\"What gives, Ross?\" \"I-I don't know.\"",
+      "cn": "\"怎么回事，Ross？\" \"我……我不知道。\""
+    },
+    {
+      "source": "The Office S3E14 · 办公室 第三季 第14集",
+      "en": "\"What gives, Michael?\" \"N-nothing.\"",
+      "cn": "\"怎么回事，Michael？\" \"没……没什么。\""
+    },
+    {
+      "source": "Seinfeld S5E09 · 宋飞正传 第五季 第9集",
+      "en": "\"What gives with this?\" \"I don't know.\"",
+      "cn": "\"这是怎么回事？\" \"我不知道。\""
+    }
+  ]
+}

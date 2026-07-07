@@ -1,0 +1,24 @@
+{
+  "phrase_en": "How's tricks?",
+  "phrase_pron": "/haʊz trɪks/",
+  "meaning_cn": "<em>怎样啊？</em> / 近况可好（英式）",
+  "trap_x": "字面意思：把戏法怎样",
+  "trap_check": "真正意思：问候近况（英式俚语）",
+  "examples": [
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"How's tricks, love?\"",
+      "cn": "\"怎样啊，亲爱的？\""
+    },
+    {
+      "source": "The Office UK · 办公室（英版）",
+      "en": "\"How's tricks, David?\"",
+      "cn": "\"怎样啊，David？\""
+    },
+    {
+      "source": "British slang · 英式俚语",
+      "en": "\"How's tricks?\"",
+      "cn": "\"近况可好？\""
+    }
+  ]
+}

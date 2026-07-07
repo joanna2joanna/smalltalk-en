@@ -1,0 +1,12 @@
+{
+  "phrase_en": "随便",
+  "phrase_pron": "suí biàn",
+  "meaning_cn": "<em>Whatever</em> / Up to you / I'm easy",
+  "trap_x": "Lit: follow convenience / as you wish",
+  "trap_check": "Real: \"I don't want to decide\" — the person who says 随便 often vetoes every suggestion you make",
+  "examples": [
+    {"source": "日常对话 · ordering food", "en": "\"晚上吃什么？\" \"随便。\" \"火锅？\" \"太热。\" \"日料？\" \"昨天刚吃。\"", "cn": "\"What's for dinner?\" \"Whatever.\" \"Hot pot?\" \"Too hot.\" \"Japanese?\" \"Just had it.\""},
+    {"source": "日常对话 · making plans", "en": "\"周末去哪？\" \"随便，你定。\"", "cn": "\"Where to this weekend?\" \"Up to you.\""},
+    {"source": "爱情公寓 S1 · iPartment", "en": "\"那我可随便点了啊？\" \"随便随便！\"", "cn": "\"Then I'll just order anything?\" \"Go for it!\""}
+  ]
+}

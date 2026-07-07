@@ -1,0 +1,24 @@
+{
+  "phrase_en": "I wouldn't dream of it!",
+  "phrase_pron": "/aɪ ˈwʊdnt driːm əv ɪt/",
+  "meaning_cn": "<em>我绝对不会！</em> / 想都不会想",
+  "trap_x": "字面意思：我不会梦到它",
+  "trap_check": "真正意思：我绝不会做那种事（不是关于做梦）",
+  "examples": [
+    {
+      "source": "Friends S7E05 · 老友记 第七季 第5集",
+      "en": "\"Would you ever cheat on her?\" \"I wouldn't dream of it!\"",
+      "cn": "「你会劈腿吗？」「我绝对不会！」"
+    },
+    {
+      "source": "The Big Bang Theory S3E08 · 生活大爆炸 第三季 第8集",
+      "en": "\"Are you going to give up?\" \"I wouldn't dream of it!\"",
+      "cn": "「你要放弃吗？」「想都不会想！」"
+    },
+    {
+      "source": "Downton Abbey S1E03 · 唐顿庄园 第一季 第3集",
+      "en": "\"Would you betray the family?\" \"I wouldn't dream of it!\"",
+      "cn": "「你会背叛这个家族吗？」「绝不会！」"
+    }
+  ]
+}

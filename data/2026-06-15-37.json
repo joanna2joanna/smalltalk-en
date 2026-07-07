@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Nonsense!",
+  "phrase_pron": "/ˈnɑːnsens/",
+  "meaning_cn": "<em>胡说！</em> / 没道理",
+  "trap_x": "字面意思：没有意义",
+  "trap_check": "真正意思：我不同意/那太离谱了（不是哲学讨论）",
+  "examples": [
+    {
+      "source": "Friends S5E09 · 老友记 第五季 第9集",
+      "en": "\"We should break up.\" \"Nonsense!\"",
+      "cn": "\"我们应该分手。\" \"胡说！\""
+    },
+    {
+      "source": "The Office S2E13 · 办公室 第二季 第13集",
+      "en": "\"Nonsense, Michael.\"",
+      "cn": "\"胡说，Michael。\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"Nonsense! Absolute nonsense!\"",
+      "cn": "\"胡说！完全是胡说！\""
+    }
+  ]
+}

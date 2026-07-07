@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the deal?",
+  "phrase_pron": "/wʌts ðə diːl/",
+  "meaning_cn": "<em>什么情况？</em> / 怎么回事",
+  "trap_x": "字面意思：那个交易是什么",
+  "trap_check": "真正意思：近况怎样/什么情况（不是谈生意）",
+  "examples": [
+    {
+      "source": "Friends S5E12 · 老友记 第五季 第12集",
+      "en": "\"What's the deal, man?\"",
+      "cn": "\"什么情况，哥们？\""
+    },
+    {
+      "source": "The Office S3E10 · 办公室 第三季 第10集",
+      "en": "\"What's the deal, Dwight?\"",
+      "cn": "\"怎么回事，Dwight？\""
+    },
+    {
+      "source": "Seinfeld S6E07 · 宋飞正传 第六季 第7集",
+      "en": "\"What's the deal, Jerry?\"",
+      "cn": "\"什么情况，Jerry？\""
+    }
+  ]
+}

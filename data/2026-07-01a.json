@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Jump the shark",
+  "phrase_pron": "/dʒʌmp ðə ʃɑːrk/",
+  "meaning_cn": "<em>过气了，巅峰不再</em>",
+  "trap_x": "字面：从鲨鱼头上跳过去",
+  "trap_check": "真意：巅峰不再——Happy Days中Fonz穿皮衣滑水真跳过鲨鱼",
+  "examples": [
+    {"source": "Community S2E1 · 废柴联盟", "en": "\"We'll jump the shark!\" \"It was the best episode!\"", "cn": "一起住就过气了。/ 跳鲨鱼那集最棒！"},
+    {"source": "Supernatural S4E19 · 邪恶力量", "en": "\"Another brother?\" \"We just jumped the shark.\"", "cn": "还有个兄弟？/ 嗯。跳鲨鱼了。"},
+    {"source": "Arrested Development S2E13 · 发展受阻", "en": "\"Barry jumped a dead shark.\" \"He jumped the shark.\"", "cn": "Barry跳过一条死鲨鱼。/ 他跳了鲨鱼。"}
+  ]
+}

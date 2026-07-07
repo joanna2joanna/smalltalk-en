@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Sleep on it.",
+  "phrase_pron": "/sliːp ɒn ɪt/",
+  "meaning_cn": "<em>考虑一晚再决定</em>",
+  "trap_x": "字面意思：睡在上面",
+  "trap_check": "真正意思：好好考虑一晚上再说（不是让你当枕头睡上去）",
+  "examples": [
+    {"source": "Friends S2E06 · 老友记", "en": "\"Should I take the job?\" \"Sleep on it.\"", "cn": "我该接这个工作吗？/ 回去想一晚再定。"},
+    {"source": "The Social Network · 社交网络", "en": "\"Big decision.\" \"Sleep on it, no rush.\"", "cn": "这个决定太大了。/ 别急，回去睡一觉再说。"},
+    {"source": "Mad Men S1E03 · 广告狂人", "en": "\"I need an answer.\" \"Let me sleep on it.\"", "cn": "我需要答复。/ 让我考虑一晚。"}
+  ]
+}

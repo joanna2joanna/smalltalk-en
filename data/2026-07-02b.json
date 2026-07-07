@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Read the room.",
+  "phrase_pron": "/riːd ðə ruːm/",
+  "meaning_cn": "<em>看气氛</em>/有眼色",
+  "trap_x": "字面意思：阅读房间",
+  "trap_check": "真正意思：感知社交场合的气氛，调整言行（不是字面读房间）",
+  "examples": [
+    {"source": "Brooklyn Nine-Nine S5E09 · 神烦警探", "en": "\"Charles, a man has died. Read the room!\"", "cn": "Charles，刚死了人——看看气氛好吗！"},
+    {"source": "The Big Bang Theory S7E23 · 生活大爆炸", "en": "\"It's called reading the room, Amy.\"", "cn": "这叫察言观色，Amy。"},
+    {"source": "Modern Family · 摩登家庭", "en": "\"Honey, read the room — now is not the time.\"", "cn": "亲爱的，看场合——现在不是时候。"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrase_en": "That'll be the day!",
+  "phrase_pron": "/ðætəl bi ðə deɪ/",
+  "meaning_cn": "<em>那才怪了！</em> / 绝不可能",
+  "trap_x": "字面意思：那一天会到来的",
+  "trap_check": "真正意思：那永远不会发生（嘲讽式否定）",
+  "examples": [
+    {
+      "source": "Friends S5E14 · 老友记 第五季 第14集",
+      "en": "\"Maybe he'll apologize.\" \"That'll be the day!\"",
+      "cn": "\"他说不定会道歉。\" \"那才怪了！\""
+    },
+    {
+      "source": "The Simpsons · 辛普森一家",
+      "en": "\"Maybe he'll change.\" \"That'll be the day!\"",
+      "cn": "\"他说不定会变好。\" \"绝不可能！\""
+    },
+    {
+      "source": "Seinfeld S6E22 · 宋飞正传 第六季 第22集",
+      "en": "\"I might get a raise.\" \"That'll be the day!\"",
+      "cn": "\"我可能会涨薪。\" \"那才怪！\""
+    }
+  ]
+}

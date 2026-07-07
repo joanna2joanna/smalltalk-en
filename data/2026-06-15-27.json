@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the word?",
+  "phrase_pron": "/wʌts ðə wɜːrd/",
+  "meaning_cn": "<em>有什么消息？</em> / 最新情况是",
+  "trap_x": "字面意思：那个词是什么",
+  "trap_check": "真正意思：有什么最新消息（不是猜词游戏）",
+  "examples": [
+    {
+      "source": "Friends S5E13 · 老友记 第五季 第13集",
+      "en": "\"What's the word, Ross?\" \"N-nothing yet.\"",
+      "cn": "\"有什么消息，Ross？\" \"还……还没。\""
+    },
+    {
+      "source": "The Office S4E07 · 办公室 第四季 第7集",
+      "en": "\"What's the word on the transfer?\" \"N-nothing.\"",
+      "cn": "\"调职的事有消息吗？\" \"没有。\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"What's the word?\" \"All good.\"",
+      "cn": "\"有什么消息？\" \"一切都好。\""
+    }
+  ]
+}

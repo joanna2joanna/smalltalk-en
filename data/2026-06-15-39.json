@@ -1,0 +1,24 @@
+{
+  "phrase_en": "How's it hanging?",
+  "phrase_pron": "/haʊz ɪt ˈhæŋɪŋ/",
+  "meaning_cn": "<em>近况怎样？</em> / 还好吗",
+  "trap_x": "字面意思：它怎么挂着",
+  "trap_check": "真正意思：问候近况（不是真问悬挂）",
+  "examples": [
+    {
+      "source": "Friends S4E06 · 老友记 第四季 第6集",
+      "en": "\"How's it hanging?\" \"Not bad.\"",
+      "cn": "\"近况怎样？\" \"还不错。\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"How's it hanging, mate?\"",
+      "cn": "\"近况怎样，哥们？\""
+    },
+    {
+      "source": "Seinfeld S5E09 · 宋飞正传 第五季 第9集",
+      "en": "\"How's it hanging, Jerry?\"",
+      "cn": "\"怎样啊，Jerry？\""
+    }
+  ]
+}

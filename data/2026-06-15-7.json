@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Cut to the chase!",
+  "phrase_pron": "/kʌt tuː ðə tʃeɪs/",
+  "meaning_cn": "<em>别废话，直说！</em>",
+  "trap_x": "字面意思：切到追车戏",
+  "trap_check": "真正意思：别绕弯子，直接说重点（不是拍电影）",
+  "examples": [
+    {
+      "source": "Friends S5E18 · 老友记 第五季 第18集",
+      "en": "\"Cut to the chase, Ross.\"",
+      "cn": "\"别废话了，Ross。\""
+    },
+    {
+      "source": "The Office S4E11 · 办公室 第四季 第11集",
+      "en": "\"Can we cut to the chase?\"",
+      "cn": "\"我们能直入主题吗？\""
+    },
+    {
+      "source": "Modern Family S2E09 · 摩登家庭 第二季 第9集",
+      "en": "\"Dad, cut to the chase.\"",
+      "cn": "\"爸，别绕弯子了。\""
+    }
+  ]
+}

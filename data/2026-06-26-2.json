@@ -1,0 +1,12 @@
+{
+  "phrase_en": "My bad!",
+  "phrase_pron": "/maɪ bæd/",
+  "meaning_cn": "<em>我的错；怪我</em>",
+  "trap_x": "字面意思：我的坏",
+  "trap_check": "真正意思：我的错（不是「我的坏」——bad 在这儿硬当名词用）",
+  "examples": [
+    {"source": "Brooklyn Nine-Nine S1E01 · 神烦警探", "en": "\"You stepped on my foot!\" \"My bad!\"", "cn": "你踩我脚了！/ 我的我的！"},
+    {"source": "Spider-Man: Into the Spider-Verse · 蜘蛛侠", "en": "\"Wrong floor, kid.\" \"Oh, my bad!\"", "cn": "小子，你走错楼层了。/ 哦，我的错！"},
+    {"source": "The Office US S2E10 · 办公室", "en": "\"Your coffee.\" \"Ah, my bad! Forgot to order.\"", "cn": "你的咖啡呢。/ 啊怪我！忘点了。"}
+  ]
+}

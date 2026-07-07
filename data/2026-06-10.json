@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Don't get me started.",
+  "phrase_pron": "/doʊnt ɡɛt miː ˈstɑːrtɪd/",
+  "meaning_cn": "<em>别提了！</em> / 一说我就停不住",
+  "trap_x": "字面意思：别让我开始",
+  "trap_check": "真正意思：这事儿我有一肚子话要说（通常是吐槽），一提我就停不下来",
+  "examples": [
+    {"source": "Friends S7E02 · 老友记", "en": "\"How's your new boss?\" \"Don't get me started.\"", "cn": "你新老板怎么样？/ 哎呀别提了。"},
+    {"source": "The Office US S3E08 · 办公室", "en": "\"What do you think of the merger?\" \"Don't get me started.\"", "cn": "合并的事你怎么看？/ 一说我就收不住。"},
+    {"source": "Modern Family S4E12 · 摩登家庭", "en": "\"How was PTA?\" \"Don't get me started on those parents.\"", "cn": "家长会怎样？/ 别提那些家长了，一说就来气。"}
+  ]
+}

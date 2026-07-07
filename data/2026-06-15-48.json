@@ -1,0 +1,24 @@
+{
+  "phrase_en": "My lips are sealed.",
+  "phrase_pron": "/maɪ lɪps ɑːr siːld/",
+  "meaning_cn": "<em>我什么也不说</em> / 我嘴严",
+  "trap_x": "字面意思：我的嘴唇被封住了",
+  "trap_check": "真正意思：我会保密的（不是嘴唇真的被封）",
+  "examples": [
+    {
+      "source": "Friends S6E12 · 老友记 第六季 第12集",
+      "en": "\"Who told you that?\" \"My lips are sealed.\"",
+      "cn": "\"谁告诉你的？\" \"我什么也不说。\""
+    },
+    {
+      "source": "The Office S3E20 · 办公室 第三季 第20集",
+      "en": "Don't worry, my lips are sealed.",
+      "cn": "别担心，我嘴严。"
+    },
+    {
+      "source": "Breaking Bad S2E05 · 绝命毒师 第二季 第5集",
+      "en": "\"You won't tell anyone, right?\" \"My lips are sealed.\"",
+      "cn": "\"你不会告诉任何人，对吧？\" \"我守口如瓶。\""
+    }
+  ]
+}

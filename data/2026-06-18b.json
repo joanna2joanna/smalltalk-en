@@ -1,0 +1,24 @@
+{
+  "phrase_en": "On the fence.",
+  "phrase_pron": "/ɒn ðə fɛns/",
+  "meaning_cn": "<em>犹豫不决</em> / 还没拿定主意",
+  "trap_x": "字面意思：坐在栅栏上",
+  "trap_check": "真正意思：还没决定，两边摇摆！",
+  "examples": [
+    {
+      "source": "Breaking Bad S2E04 · 绝命毒师",
+      "en": "I'm still on the fence about moving to Albuquerque.",
+      "cn": "搬到阿尔伯克基这事，我还在犹豫。"
+    },
+    {
+      "source": "How I Met Your Mother S4E07 · 老爸老妈浪漫史",
+      "en": "She's on the fence. One more good date and she'll say yes.",
+      "cn": "她还没决定。再来一次好的约会她就答应了。"
+    },
+    {
+      "source": "Grey's Anatomy S6E15 · 实习医生格蕾",
+      "en": "I'm on the fence about this surgery. The risks are too high.",
+      "cn": "这场手术我拿不定主意，风险太高了。"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the verdict?",
+  "phrase_pron": "/wʌts ðə ˈvɜːrdɪkt/",
+  "meaning_cn": "<em>结论是什么？</em> / 决定怎样了",
+  "trap_x": "字面意思：那个判决书是什么",
+  "trap_check": "真正意思：结果/决定了吗（不是法庭判决）",
+  "examples": [
+    {
+      "source": "Friends S4E17 · 老友记 第四季 第17集",
+      "en": "\"What's the verdict?\" \"She said yes!\"",
+      "cn": "\"结论是什么？\" \"她答应了！\""
+    },
+    {
+      "source": "The Office S3E19 · 办公室 第三季 第19集",
+      "en": "\"What's the verdict, Dwight?\"",
+      "cn": "\"决定怎样了，Dwight？\""
+    },
+    {
+      "source": "Seinfeld S5E14 · 宋飞正传 第五季 第14集",
+      "en": "\"What's the verdict, Jerry?\"",
+      "cn": "\"怎么说，Jerry？\""
+    }
+  ]
+}

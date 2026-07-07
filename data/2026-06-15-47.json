@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Spit it out!",
+  "phrase_pron": "/spɪt ɪt aʊt/",
+  "meaning_cn": "<em>快说！</em> / 别吞吞吐吐",
+  "trap_x": "字面意思：吐出来",
+  "trap_check": "真正意思：快说！别犹豫了（不是真让人吐东西）",
+  "examples": [
+    {
+      "source": "Friends S3E15 · 老友记 第三季 第15集",
+      "en": "\"Come on, spit it out!\" \"OK... I kinda like you.\"",
+      "cn": "\"说吧，快说！\" \"好吧……我有点喜欢你。\""
+    },
+    {
+      "source": "The Office S4E08 · 办公室 第四季 第8集",
+      "en": "Spit it out, Jim. What's on your mind?",
+      "cn": "说吧，Jim。你在想什么？"
+    },
+    {
+      "source": "Seinfeld S5E11 · 宋飞正传 第五季 第11集",
+      "en": "\"I have this feeling...\" \"Spit it out, Jerry!\"",
+      "cn": "\"我有个感觉……\" \"说出来，Jerry！\""
+    }
+  ]
+}

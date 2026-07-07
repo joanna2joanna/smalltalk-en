@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Get out of here!",
+  "phrase_pron": "/ɡet aʊt əv hɪr/",
+  "meaning_cn": "<em>不会吧！</em> / 少来了",
+  "trap_x": "字面意思：离开这里",
+  "trap_check": "真正意思：表示惊讶或不信（不是真的叫人走）",
+  "examples": [
+    {
+      "source": "Friends S6E15 · 老友记 第六季 第15集",
+      "en": "You got the job? Get out of here!",
+      "cn": "你得到那份工作了？不会吧！"
+    },
+    {
+      "source": "Seinfeld S3E10 · 宋飞正传 第三季 第10集",
+      "en": "She said yes? Get out of here!",
+      "cn": "她答应了？少来了！"
+    },
+    {
+      "source": "The Office S4E03 · 办公室 第四季 第3集",
+      "en": "They gave you a raise? Get out of here!",
+      "cn": "他们给你涨薪了？不可能！"
+    }
+  ]
+}

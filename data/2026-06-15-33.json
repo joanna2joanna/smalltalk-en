@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the scoop?",
+  "phrase_pron": "/wʌts ðə skuːp/",
+  "meaning_cn": "<em>有什么内幕？</em> / 最新消息是",
+  "trap_x": "字面意思：什么是勺子",
+  "trap_check": "真正意思：有啥新闻/内幕（不是餐具）",
+  "examples": [
+    {
+      "source": "Friends S5E08 · 老友记 第五季 第8集",
+      "en": "\"What's the scoop?\" \"Nothing new.\"",
+      "cn": "\"有啥内幕？\" \"没什么新的。\""
+    },
+    {
+      "source": "The Office S3E15 · 办公室 第三季 第15集",
+      "en": "\"What's the scoop, Dwight?\"",
+      "cn": "\"有啥消息，Dwight？\""
+    },
+    {
+      "source": "Seinfeld S6E09 · 宋飞正传 第六季 第9集",
+      "en": "\"What's the scoop, Jerry?\"",
+      "cn": "\"有啥内幕，Jerry？\""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Drop it!",
+  "phrase_pron": "/drɑp ɪt/",
+  "meaning_cn": "<em>别说了！</em> / 到此为止",
+  "trap_x": "字面意思：把它扔了",
+  "trap_check": "真正意思：别再提了（不是真让你扔东西）",
+  "examples": [
+    {
+      "source": "Friends S3E21 · 老友记 第三季 第21集",
+      "en": "\"But why did he...\" \"Drop it, okay?\"",
+      "cn": "\"可是他为什么……\" \"别说了，行吗？\""
+    },
+    {
+      "source": "The Office S2E09 · 办公室 第二季 第9集",
+      "en": "\"I think maybe we should discuss...\" \"Drop it!\"",
+      "cn": "\"我觉得我们应该讨论一下……\" \"到此为止！\""
+    },
+    {
+      "source": "Modern Family S1E08 · 摩登家庭 第一季 第8集",
+      "en": "\"I just want to say one more thing...\" \"Drop it, Dad.\"",
+      "cn": "\"我就想再说一句……\" \"算了吧，爸。\""
+    }
+  ]
+}

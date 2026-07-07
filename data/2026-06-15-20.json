@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Dead as a dodo.",
+  "phrase_pron": "/dɛd æz ə ˈdoʊdoʊ/",
+  "meaning_cn": "<em>彻底过时了</em> / 死透了",
+  "trap_x": "字面意思：像渡渡鸟一样死",
+  "trap_check": "真正意思：完全过时/没用了（不是真死）",
+  "examples": [
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"That trend is dead as a dodo.\"",
+      "cn": "\"那个潮流彻底过时了。\""
+    },
+    {
+      "source": "Modern Family S3E18 · 摩登家庭 第三季 第18集",
+      "en": "\"My career is dead as a dodo.\"",
+      "cn": "\"我的事业彻底没戏了。\""
+    },
+    {
+      "source": "Seinfeld S4E16 · 宋飞正传 第四季 第16集",
+      "en": "\"Dead as a dodo, Jerry.\"",
+      "cn": "\"彻底完蛋了，Jerry。\""
+    }
+  ]
+}

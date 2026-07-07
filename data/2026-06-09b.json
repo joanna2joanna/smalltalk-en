@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Good luck with that.",
+  "phrase_pron": "/ɡʊd lʌk wɪð ðæt/",
+  "meaning_cn": "<em>祝你好运吧（才怪）</em> / 你觉得可能吗？",
+  "trap_x": "字面意思：祝你成功！",
+  "trap_check": "真正意思：你不可能做到的（讽刺性 dismissing）",
+  "examples": [
+    {"source": "The Office US S3E08 · 办公室", "en": "\"I'm going to make Michael promote me.\" \"Good luck with that.\"", "cn": "我今天要让Michael给我升职。/ 做你的梦吧。"},
+    {"source": "Friends S5E10 · 老友记", "en": "\"I can get Ross to forgive me by Friday.\" \"Good luck with that.\"", "cn": "我觉得周五前能让Ross原谅我。/ 祝你好运吧。"},
+    {"source": "Modern Family S2E11 · 摩登家庭", "en": "\"I'm getting a motorcycle.\" \"Good luck with that.\"", "cn": "我要买辆摩托。/ 你觉得可能吗？"}
+  ]
+}

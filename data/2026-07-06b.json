@@ -1,0 +1,12 @@
+{
+  "phrase_en": "When pigs fly!",
+  "phrase_pron": "/wɛn pɪɡz flaɪ/",
+  "meaning_cn": "<em>绝不可能</em>/下辈子吧",
+  "trap_x": "字面意思：猪会飞的时候！",
+  "trap_check": "真正意思：绝不可能发生——不是真的在等猪飞起来",
+  "examples": [
+    {"source": "The Simpsons · S07E05", "en": "\"I'll donate a million dollars... when pigs fly!\"", "cn": "捐一百万？等猪会飞吧——话落烤猪飞过窗前。"},
+    {"source": "Alice in Wonderland · Lewis Carroll", "en": "\"I suppose you'll be nicer when pigs fly.\"", "cn": "等猪飞了你才会变好——你大概是改不了了。"},
+    {"source": "日常对话 · 同事打赌", "en": "\"He said he'd finish by Friday — when pigs fly!\"", "cn": "他说周五前做完——等猪会飞吧！"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Hold your horses!",
+  "phrase_pron": "/hoʊld jɔːr ˈhɔːrsɪz/",
+  "meaning_cn": "<em>慢着！</em> / 别急",
+  "trap_x": "字面意思：抓住你的马",
+  "trap_check": "真正意思：等一下/别着急（不是真抓马）",
+  "examples": [
+    {
+      "source": "Friends S4E09 · 老友记 第四季 第9集",
+      "en": "\"Hold your horses! Let me think.\"",
+      "cn": "\"慢着！让我想想。\""
+    },
+    {
+      "source": "The Office S3E07 · 办公室 第三季 第7集",
+      "en": "\"Hold your horses, Michael.\"",
+      "cn": "\"别急，Michael。\""
+    },
+    {
+      "source": "Seinfeld S5E12 · 宋飞正传 第五季 第12集",
+      "en": "\"Hold your horses, Jerry!\"",
+      "cn": "\"慢着，Jerry！\""
+    }
+  ]
+}

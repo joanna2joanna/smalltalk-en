@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Don't I know it!",
+  "phrase_pron": "/doʊnt aɪ noʊ ɪt/",
+  "meaning_cn": "<em>我太同意了！</em> / 何止是",
+  "trap_x": "字面意思：我难道不知道吗？",
+  "trap_check": "真正意思：我完全同意（不是反问「我不知道吗」）",
+  "examples": [
+    {
+      "source": "Friends S5E08 · 老友记 第五季 第8集",
+      "en": "\"This heat is unbearable.\" \"Don't I know it!\"",
+      "cn": "\"这热得受不了。\" \"我太同意了！\""
+    },
+    {
+      "source": "The Office S4E15 · 办公室 第四季 第15集",
+      "en": "\"Monday mornings are the worst.\" \"Don't I know it!\"",
+      "cn": "\"周一早晨最要命。\" \"何止是！\""
+    },
+    {
+      "source": "Seinfeld S7E05 · 宋飞正传 第七季 第5集",
+      "en": "\"Traffic was a nightmare.\" \"Don't I know it!\"",
+      "cn": "\"堵车堵死了。\" \"我太懂了！\""
+    }
+  ]
+}

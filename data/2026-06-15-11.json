@@ -1,0 +1,24 @@
+{
+  "phrase_en": "I'm toast.",
+  "phrase_pron": "/aɪm toʊst/",
+  "meaning_cn": "<em>我完蛋了！</em> / 我死定了",
+  "trap_x": "字面意思：我是吐司",
+  "trap_check": "真正意思：我完蛋了/要倒大霉了（不是面包）",
+  "examples": [
+    {
+      "source": "Friends S4E07 · 老友记 第四季 第7集",
+      "en": "\"If she sees this, I'm toast.\"",
+      "cn": "\"如果她看到这个，我就完蛋了。\""
+    },
+    {
+      "source": "The Office S3E11 · 办公室 第三季 第11集",
+      "en": "\"One more mistake and you're toast.\"",
+      "cn": "\"再错一次你就完蛋了。\""
+    },
+    {
+      "source": "Breaking Bad S2E08 · 绝命毒师 第二季 第8集",
+      "en": "\"We don't deliver, we're toast.\"",
+      "cn": "\"交不了差，我们就完蛋了。\""
+    }
+  ]
+}

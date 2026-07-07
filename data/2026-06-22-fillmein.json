@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Fill me in.",
+  "phrase_pron": "/fɪl mi ɪn/",
+  "meaning_cn": "<em>告诉我详情</em> / 给我补一下",
+  "trap_x": "字面意思：把我填满",
+  "trap_check": "真正意思：请告诉我详情（不是字面填满）",
+  "examples": [
+    {"source": "Suits S1E01 · 金装律师", "en": "\"Fill me in on the client.\"", "cn": "把客户的情况告诉我。"},
+    {"source": "The Office S4E08 · 办公室", "en": "\"What did I miss? Fill me in.\"", "cn": "我错过了什么？给我讲讲。"},
+    {"source": "Grey's Anatomy S2E05 · 实习医生格蕾", "en": "\"You weren't there — fill me in.\"", "cn": "你不在场——跟我说说怎么回事。"}
+  ]
+}

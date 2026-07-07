@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Bite the bullet!",
+  "phrase_pron": "/baɪt ðə ˈbʊlɪt/",
+  "meaning_cn": "<em>咬牙硬撑！</em> / 硬着头皮上",
+  "trap_x": "字面意思：咬子弹",
+  "trap_check": "真正意思：硬着头皮做困难的事（不是真咬子弹）",
+  "examples": [
+    {
+      "source": "Friends S5E16 · 老友记 第五季 第16集",
+      "en": "\"Just bite the bullet and tell her.\"",
+      "cn": "\"咬牙硬撑，去告诉她。\""
+    },
+    {
+      "source": "The Office S4E18 · 办公室 第四季 第18集",
+      "en": "\"Bite the bullet, Michael. It's your job.\"",
+      "cn": "\"硬着头皮上吧 Michael，这是你的工作。\""
+    },
+    {
+      "source": "Rocky · 洛奇（经典电影）",
+      "en": "\"Bite the bullet, Rock. You got this.\"",
+      "cn": "\"咬牙撑住，Rock。你能行。\""
+    }
+  ]
+}

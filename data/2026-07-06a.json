@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Put a sock in it!",
+  "phrase_pron": "/pʊt ə sɑːk ɪn ɪt/",
+  "meaning_cn": "<em>闭嘴</em>/别说了",
+  "trap_x": "字面意思：把袜子塞进去！",
+  "trap_check": "真正意思：别说了，闭嘴！——不是真让你塞袜子",
+  "examples": [
+    {"source": "The Simpsons · S08E14", "en": "\"Put a sock in it, Roy.\"", "cn": "闭嘴吧，罗伊——Homer对新角色毫不客气。"},
+    {"source": "BBC Learning English · 地道英语", "en": "\"Got nothing nice to say? Put a sock in it.\"", "cn": "没好话就别说——把袜子塞进去。"},
+    {"source": "日常对话 · 朋友吐槽", "en": "\"An hour of complaining — put a sock in it!\"", "cn": "抱怨一小时了——消停会儿吧！"}
+  ]
+}

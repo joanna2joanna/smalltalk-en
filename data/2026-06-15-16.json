@@ -1,0 +1,24 @@
+{
+  "phrase_en": "The plot thickens!",
+  "phrase_pron": "/ðə plɑt ˈθɪkənz/",
+  "meaning_cn": "<em>事情复杂了！</em> / 有好戏看了",
+  "trap_x": "字面意思：情节变厚了",
+  "trap_check": "真正意思：局势越来越复杂（不是小说情节）",
+  "examples": [
+    {
+      "source": "Friends S5E14 · 老友记 第五季 第14集",
+      "en": "\"The plot thickens.\" \"Tell me about it.\"",
+      "cn": "\"事情复杂了。\" \"可不是。\""
+    },
+    {
+      "source": "The Office S4E16 · 办公室 第四季 第16集",
+      "en": "\"The plot thickens, folks.\"",
+      "cn": "\"各位，事情复杂了。\""
+    },
+    {
+      "source": "Seinfeld S6E08 · 宋飞正传 第六季 第8集",
+      "en": "\"The plot thickens...\" \"Oh boy.\"",
+      "cn": "\"事情越来越复杂了……\" \"噢天哪。\""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Winter is coming",
+  "phrase_pron": "/ˈwɪntər ɪz ˈkʌmɪŋ/",
+  "meaning_cn": "<em>大难将至，早做准备</em>",
+  "trap_x": "字面：冬天快到了",
+  "trap_check": "真意：大难临头的警告——史塔克世代族语",
+  "examples": [
+    {"source": "Game of Thrones S1E1 · 权力的游戏", "en": "\"Winter is coming.\" \"I know, Father.\"", "cn": "凛冬将至。/ 我知道，父亲。"},
+    {"source": "Game of Thrones S3E5 · 权力的游戏", "en": "\"Starks are always right.\" \"Winter is coming.\"", "cn": "史塔克永远是对的。/ 凛冬将至。"},
+    {"source": "South Park S17E7 · 南方公园", "en": "\"Winter is coming!\" \"Dude, put the sword down.\"", "cn": "凛冬将至！/ 哥们，把剑放下。"}
+  ]
+}

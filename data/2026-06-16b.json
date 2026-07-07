@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Keep me posted.",
+  "phrase_pron": "/kiːp miː ˈpoʊstɪd/",
+  "meaning_cn": "<em>随时告诉我进展</em> / 保持联系",
+  "trap_x": "字面意思：把我张贴/邮寄",
+  "trap_check": "真正意思：有消息随时知会我（和邮寄张贴无关，职场高频用法）",
+  "examples": [
+    {
+      "source": "The Devil Wears Prada · 穿普拉达的女王",
+      "en": "Miranda: \"Keep me posted on the Paris trip.\"",
+      "cn": "米兰达：「巴黎行程随时跟我汇报。」"
+    },
+    {
+      "source": "Suits S1E01 · 金装律师",
+      "en": "Jessica: \"Keep me posted, Harvey.\"",
+      "cn": "杰西卡：「有进展告诉我，哈维。」"
+    },
+    {
+      "source": "Friends S2E21 · 老友记",
+      "en": "Monica: \"Keep me posted about the audition.\"",
+      "cn": "莫妮卡：「试镜结果告诉我一声。」"
+    }
+  ]
+}

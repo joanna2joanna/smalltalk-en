@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the good word?",
+  "phrase_pron": "/wʌts ðə ɡʊd wɜːrd/",
+  "meaning_cn": "<em>有什么好消息？</em> / 近况如何",
+  "trap_x": "字面意思：哪个好词",
+  "trap_check": "真正意思：近况怎样/有啥好消息（不是猜词游戏）",
+  "examples": [
+    {
+      "source": "Friends S3E11 · 老友记 第三季 第11集",
+      "en": "\"What's the good word?\" \"Not much.\"",
+      "cn": "\"有什么好消息？\" \"老样子。\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"What's the good word, love?\"",
+      "cn": "\"有什么好消息，亲爱的？\""
+    },
+    {
+      "source": "Seinfeld S4E13 · 宋飞正传 第四季 第13集",
+      "en": "\"What's the good word?\" \"Same old.\"",
+      "cn": "\"有啥好消息？\" \"老样子。\""
+    }
+  ]
+}

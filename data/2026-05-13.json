@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Tell me about it.",
+  "phrase_pron": "/tɛl miː əˈbaʊt ɪt/",
+  "meaning_cn": "<em>可不是嘛！</em>我太懂了！",
+  "trap_x": "字面意思：请告诉我",
+  "trap_check": "真正意思：我完全同意！",
+  "examples": [
+    {
+      "source": "Seinfeld S4E11",
+      "en": "\"Tell me about it. I haven't slept in three days.\"",
+      "cn": "可不是嘛，我已经三天没睡了。"
+    },
+    {
+      "source": "Breaking Bad S2E7",
+      "en": "\"Tell me about it... I've been dealing with this all week.\"",
+      "cn": "可不是嘛…这破事我搞了一整周。"
+    },
+    {
+      "source": "Reddit r/antiwork",
+      "en": "\"Tell me about it. Corporate culture is a scam.\"",
+      "cn": "可不是嘛。职场文化就是个骗局。"
+    }
+  ]
+}

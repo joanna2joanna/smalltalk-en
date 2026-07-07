@@ -1,0 +1,24 @@
+{
+  "phrase_en": "It is what it is.",
+  "phrase_pron": "/ɪt ɪz wʌt ɪt ɪz/",
+  "meaning_cn": "<em>就这样吧</em> / 木已成舟，接受现实",
+  "trap_x": "字面意思：它是它是什么",
+  "trap_check": "真正意思：事情已经这样了，别纠结了，接受吧（一种无奈的释然）",
+  "examples": [
+    {
+      "source": "The Walking Dead S3E04 · 行尸走肉",
+      "en": "Rick: \"The prison is overrun. We have nowhere to go.\" Daryl: \"It is what it is, Rick. We keep moving.\"",
+      "cn": "瑞克：「监狱被攻陷了。我们没地方去了。」达里尔：「就这样吧，瑞克。我们继续走。」"
+    },
+    {
+      "source": "Grey's Anatomy S12E10 · 实习医生格蕾",
+      "en": "Meredith: \"The surgery didn't work. The tumor is inoperable.\" Dr. Bailey: \"It is what it is, Meredith. We did our best.\"",
+      "cn": "梅雷迪斯：「手术没成功。肿瘤无法切除。」贝莉医生：「木已成舟，梅雷迪斯。我们尽力了。」"
+    },
+    {
+      "source": "The Crown S2E06 · 王冠",
+      "en": "Prince Philip: \"The press is attacking us again.\" Queen Elizabeth: \"It is what it is. We carry on.\"",
+      "cn": "菲利普亲王：「媒体又在攻击我们了。」伊丽莎白女王：「就这样吧。我们继续前行。」"
+    }
+  ]
+}

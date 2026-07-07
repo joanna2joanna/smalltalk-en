@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Knock yourself out.",
+  "phrase_pron": "/nɑːk jərˈself aʊt/",
+  "meaning_cn": "<em>随便你。</em> / 请便 / 尽管去",
+  "trap_x": "字面意思：把自己打晕/击倒",
+  "trap_check": "真正意思：随便你 / 请便 / 尽管去（你开心就好）",
+  "examples": [
+    {
+      "source": "The Office US S7E19 · 办公室 第七季",
+      "en": "\"There's cake in the break room. Knock yourself out.\"",
+      "cn": "\"休息室有蛋糕。随便吃吧。\""
+    },
+    {
+      "source": "Brooklyn Nine-Nine S2E04 · 神烦警探 第二季",
+      "en": "\"You want to dig through ten years of paperwork? Knock yourself out.\"",
+      "cn": "\"你想翻十年的文件？请便吧。\""
+    },
+    {
+      "source": "Parks and Recreation S5E02 · 公园与游憩 第五季",
+      "en": "\"If you want to review all 200 pages, knock yourself out.\"",
+      "cn": "\"如果你想看完全部200页，请便。\""
+    }
+  ]
+}

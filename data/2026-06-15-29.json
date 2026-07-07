@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's shaking?",
+  "phrase_pron": "/wʌts ˈʃeɪkɪŋ/",
+  "meaning_cn": "<em>怎样了？</em> / 有什么动静",
+  "trap_x": "字面意思：什么在摇晃",
+  "trap_check": "真正意思：近况如何（不是地震）",
+  "examples": [
+    {
+      "source": "Friends S3E06 · 老友记 第三季 第6集",
+      "en": "\"What's shaking, guys?\" \"N-not much.\"",
+      "cn": "\"怎样了哥们？\" \"没……没什么。\""
+    },
+    {
+      "source": "The Office S2E10 · 办公室 第二季 第10集",
+      "en": "\"What's shaking, Jim?\" \"N-nothing.\"",
+      "cn": "\"怎样了，Jim？\" \"没什么。\""
+    },
+    {
+      "source": "Seinfeld S4E11 · 宋飞正传 第四季 第11集",
+      "en": "\"What's shaking with you?\" \"N-nothing.\"",
+      "cn": "\"你那边怎样？\" \"老样子。\""
+    }
+  ]
+}

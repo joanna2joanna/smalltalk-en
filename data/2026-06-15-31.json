@@ -1,0 +1,24 @@
+{
+  "phrase_en": "What's the hurry?",
+  "phrase_pron": "/wʌts ðə ˈhʌri/",
+  "meaning_cn": "<em>急什么？</em> / 慢慢来",
+  "trap_x": "字面意思：什么是匆忙",
+  "trap_check": "真正意思：你急什么（不是问「匆忙」的定义）",
+  "examples": [
+    {
+      "source": "Friends S4E05 · 老友记 第四季 第5集",
+      "en": "\"What's the hurry?\" \"I gotta go.\"",
+      "cn": "\"急什么？\" \"我得走了。\""
+    },
+    {
+      "source": "The Office S2E12 · 办公室 第二季 第12集",
+      "en": "\"What's the hurry, Jim?\"",
+      "cn": "\"急什么，Jim？\""
+    },
+    {
+      "source": "Seinfeld S5E07 · 宋飞正传 第五季 第7集",
+      "en": "\"What's the hurry?\" \"No reason.\"",
+      "cn": "\"急什么？\" \"没什么理由。\""
+    }
+  ]
+}

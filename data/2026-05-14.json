@@ -1,0 +1,24 @@
+{
+  "phrase_en": "I'll bite.",
+  "phrase_pron": "/aɪl baɪt/",
+  "meaning_cn": "<em>好吧我上钩了 / 你倒是说啊 / 我服了，快讲</em>",
+  "trap_x": "字面意思：我要咬了",
+  "trap_check": "真正意思：我好奇心被勾住了，快说",
+  "examples": [
+    {
+      "source": "《老友记》Friends S5E14",
+      "en": "\"You won't believe what happened…\"",
+      "cn": "\"你绝对猜不到发生了什么…\" — \"好吧我上钩了。\""
+    },
+    {
+      "source": "《怪奇物语》Stranger Things S2E4",
+      "en": "\"I found something in the basement…\"",
+      "cn": "\"我在地下室发现了点东西…\" — \"快说，发现了什么？\""
+    },
+    {
+      "source": "Twitter / X 好莱坞八卦话题",
+      "en": "\"The sequel is getting an unexpected director…\"",
+      "cn": "\"续集要请一个意想不到的导演…\" — \"我服了快说，谁？\""
+    }
+  ]
+}

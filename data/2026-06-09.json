@@ -1,0 +1,12 @@
+{
+  "phrase_en": "You can say that again.",
+  "phrase_pron": "/juː kən seɪ ðæt əˈɡen/",
+  "meaning_cn": "<em>可不是嘛！</em> / 说得太对了！",
+  "trap_x": "字面意思：你可以再说一遍",
+  "trap_check": "真正意思：我完全同意！（不是叫你重复）",
+  "examples": [
+    {"source": "Friends S9E04 · 老友记", "en": "\"This party is insane!\" \"You can say that again!\"", "cn": "这派对太疯了。/ 可不是嘛！"},
+    {"source": "The Office US S5E13 · 办公室", "en": "\"These rules are ridiculous.\" \"You can say that again.\"", "cn": "这些规定太离谱了。/ 说得太对了！"},
+    {"source": "Seinfeld S8E14 · 宋飞正传", "en": "\"NY summers are brutal.\" \"You can say that again.\"", "cn": "纽约夏天太折磨人了。/ 可不是嘛！"}
+  ]
+}

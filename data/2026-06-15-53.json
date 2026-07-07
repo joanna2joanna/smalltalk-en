@@ -1,0 +1,24 @@
+{
+  "phrase_en": "I'll say!",
+  "phrase_pron": "/aɪl seɪ/",
+  "meaning_cn": "<em>说得对！</em> / 我强烈同意",
+  "trap_x": "字面意思：我会说",
+  "trap_check": "真正意思：强烈赞同（不是\"我会说\"这个动作）",
+  "examples": [
+    {
+      "source": "Friends S2E09 · 老友记 第二季 第9集",
+      "en": "\"That was awkward.\" \"I'll say!\"",
+      "cn": "\"太尴尬了。\" \"说得对！\""
+    },
+    {
+      "source": "The Big Bang Theory S1E12 · 生活大爆炸 第一季 第12集",
+      "en": "\"Sheldon can be annoying.\" \"I'll say!\"",
+      "cn": "\"Sheldon 有时候很烦人。\" \"何止是！\""
+    },
+    {
+      "source": "Seinfeld S4E18 · 宋飞正传 第四季 第18集",
+      "en": "\"What a disaster.\" \"I'll say!\"",
+      "cn": "\"真是灾难。\" \"没错！\""
+    }
+  ]
+}

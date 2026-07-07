@@ -1,0 +1,24 @@
+{
+  "phrase_en": "You got it.",
+  "phrase_pron": "/juː ɡɑːt ɪt/",
+  "meaning_cn": "<em>没问题</em> / 包在我身上",
+  "trap_x": "字面意思：你得到它了",
+  "trap_check": "真正意思：没问题、这就办（不是指你得到了某样东西）",
+  "examples": [
+    {
+      "source": "Friends S1E04 · 老友记",
+      "en": "Ross: \"Can you grab my coat?\" Chandler: \"You got it.\"",
+      "cn": "罗斯：「帮我拿外套？」钱德勒：「没问题。」"
+    },
+    {
+      "source": "The Office S3E05 · 办公室",
+      "en": "Michael: \"Get me a coffee.\" Dwight: \"You got it, boss.\"",
+      "cn": "迈克尔：「给我杯咖啡。」德怀特：「好的老板。」"
+    },
+    {
+      "source": "Pulp Fiction · 低俗小说",
+      "en": "Vincent: \"You got it, Jules.\"",
+      "cn": "文森特：「没问题，朱尔斯。」"
+    }
+  ]
+}

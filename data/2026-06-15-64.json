@@ -1,0 +1,24 @@
+{
+  "phrase_en": "No offense!",
+  "phrase_pron": "/noʊ əˈfɛns/",
+  "meaning_cn": "<em>没冒犯的意思！</em> / 别往心里去",
+  "trap_x": "字面意思：没有进攻",
+  "trap_check": "真正意思：我先声明不是针对你（不是体育运动）",
+  "examples": [
+    {
+      "source": "Friends S4E12 · 老友记 第四季 第12集",
+      "en": "\"No offense, but your hair looks weird.\"",
+      "cn": "\"没冒犯的意思，但你头发看起来怪怪的。\""
+    },
+    {
+      "source": "The Big Bang Theory S2E14 · 生活大爆炸 第二季 第14集",
+      "en": "\"No offense, Sheldon, but nobody likes you.\"",
+      "cn": "\"没冒犯的意思，Sheldon，但没人喜欢你。\""
+    },
+    {
+      "source": "Seinfeld S3E09 · 宋飞正传 第三季 第9集",
+      "en": "\"No offense, but you sing terribly.\"",
+      "cn": "\"没冒犯的意思，但你唱得真烂。\""
+    }
+  ]
+}

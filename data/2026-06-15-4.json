@@ -1,0 +1,24 @@
+{
+  "phrase_en": "You're history!",
+  "phrase_pron": "/jʊr ˈhɪstəri/",
+  "meaning_cn": "<em>你完蛋了！</em> / 你要倒霉了",
+  "trap_x": "字面意思：你是历史",
+  "trap_check": "真正意思：你马上要倒大霉（不是学历史）",
+  "examples": [
+    {
+      "source": "Terminator 2 · 终结者2（经典电影）",
+      "en": "\"Hasta la vista, baby. You're history.\"",
+      "cn": "\"再见吧，宝贝。你完蛋了。\""
+    },
+    {
+      "source": "The Simpsons · 辛普森一家",
+      "en": "\"One more word and you're history.\"",
+      "cn": "\"再说一个字你就完蛋了。\""
+    },
+    {
+      "source": "Friends S6E08 · 老友记 第六季 第8集",
+      "en": "\"If Monica finds out, you're history.\"",
+      "cn": "\"如果Monica发现，你就完蛋了。\""
+    }
+  ]
+}

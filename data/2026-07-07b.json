@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Eat your words!",
+  "phrase_pron": "/iːt jər wɜːrdz/",
+  "meaning_cn": "<em>认错</em>/收回前言",
+  "trap_x": "字面意思：把你的话吃下去！",
+  "trap_check": "真正意思：承认说错、收回之前的话——不是真把字典拌沙拉吃",
+  "examples": [
+    {"source": "Charlize Theron · Vanity Fair 访谈", "en": "\"I bet he's eating his words now.\"", "cn": "说好不拍剧呢？现在打脸了。"},
+    {"source": "BBC Learning English · 地道英语", "en": "\"You said I'd fail — now eat your words!\"", "cn": "你说我会失败——现在把话吞回去吧！"},
+    {"source": "日常对话 · 同事打脸", "en": "\"Swore it'd take a month — eating his words now.\"", "cn": "他信誓旦旦说这个功能要一个月——现在打脸了。"}
+  ]
+}

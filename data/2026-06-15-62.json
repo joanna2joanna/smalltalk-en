@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Go figure!",
+  "phrase_pron": "/ɡoʊ ˈfɪɡər/",
+  "meaning_cn": "<em>真搞不懂！</em> / 你去想吧",
+  "trap_x": "字面意思：去算吧",
+  "trap_check": "真正意思：这事儿没道理（不是让你去算数学）",
+  "examples": [
+    {
+      "source": "Friends S4E11 · 老友记 第四季 第11集",
+      "en": "\"He got the job and he can't even code.\" \"Go figure!\"",
+      "cn": "\"他拿到工作了，可他连代码都不会写。\" \"真搞不懂！\""
+    },
+    {
+      "source": "The Office S3E16 · 办公室 第三季 第16集",
+      "en": "\"She hates him but they're getting married.\" \"Go figure!\"",
+      "cn": "\"她恨他，但他们要结婚了。\" \"你去想吧！\""
+    },
+    {
+      "source": "Seinfeld S5E21 · 宋飞正传 第五季 第21集",
+      "en": "\"He's never on time but always gets promoted.\" \"Go figure!\"",
+      "cn": "\"他从不准时，却总是升职。\" \"真是这样！\""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Don't mention it.",
+  "phrase_pron": "/doʊnt ˈmenʃən ɪt/",
+  "meaning_cn": "<em>不客气</em> / 小事一桩",
+  "trap_x": "字面意思：别提它",
+  "trap_check": "真正意思：不客气（回谢的谦辞，不是真的让你别提某事）",
+  "examples": [
+    {
+      "source": "Friends S1E05 · 老友记 第一季 第5集",
+      "en": "\"Thanks for helping me move.\" \"Don't mention it.\"",
+      "cn": "\"谢谢你帮我搬家。\"\"不客气。\""
+    },
+    {
+      "source": "The Big Bang Theory S2E10 · 生活大爆炸 第二季 第10集",
+      "en": "\"I owe you one.\" \"Don't mention it.\"",
+      "cn": "\"我欠你一个人情。\"\"小事。\""
+    },
+    {
+      "source": "Modern Family S3E08 · 摩登家庭 第三季 第8集",
+      "en": "\"Really appreciate it, Jay.\" \"Don't mention it.\"",
+      "cn": "\"真的很感谢，Jay。\"\"别提了。\""
+    }
+  ]
+}

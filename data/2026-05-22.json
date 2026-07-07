@@ -1,0 +1,24 @@
+{
+  "phrase_en": "That's rich.",
+  "phrase_pron": "/ðæts rɪtʃ/",
+  "meaning_cn": "<em>真讽刺。</em> / 真好意思说",
+  "trap_x": "字面意思：那好有钱 / 那很富有",
+  "trap_check": "真正意思：真讽刺 / 真好意思说——反讽对方的虚伪或双标",
+  "examples": [
+    {
+      "source": "Friends S5E08 · 老友记 第五季",
+      "en": "\"You're lecturing me about being controlling? That's rich.\"",
+      "cn": "\"你教训我控制欲太强？真好意思说。\""
+    },
+    {
+      "source": "The Office US S3E16 · 办公室 第三季",
+      "en": "\"You're telling me to be professional? That's rich.\"",
+      "cn": "\"你教我做事要专业？这话真讽刺。\""
+    },
+    {
+      "source": "Seinfeld S7E13 · 宋飞正传 第七季",
+      "en": "\"That's rich, coming from a guy who just set his kitchen on fire.\"",
+      "cn": "\"真好意思说，一个刚把自己厨房点了的人。\""
+    }
+  ]
+}

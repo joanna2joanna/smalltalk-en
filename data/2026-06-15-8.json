@@ -1,0 +1,24 @@
+{
+  "phrase_en": "The ball is in your court.",
+  "phrase_pron": "/ðə bɔːl ɪz ɪn jɔːr kɔːrt/",
+  "meaning_cn": "<em>现在轮到你了。</em> / 你看着办吧",
+  "trap_x": "字面意思：球在你场地上",
+  "trap_check": "真正意思：该你做决定了（不是打网球）",
+  "examples": [
+    {
+      "source": "Friends S3E19 · 老友记 第三季 第19集",
+      "en": "\"The ball is in your court.\" \"I know.\"",
+      "cn": "\"现在轮到你了。\" \"我知道。\""
+    },
+    {
+      "source": "The West Wing · 白宫风云",
+      "en": "\"The ball is in your court, Mr. President.\"",
+      "cn": "\"现在轮到您决定了，总统先生。\""
+    },
+    {
+      "source": "Suits S1E06 · 诉讼双雄 第一季 第6集",
+      "en": "\"The ball is in your court.\"",
+      "cn": "\"现在该你出手了。\""
+    }
+  ]
+}

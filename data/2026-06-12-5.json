@@ -1,0 +1,24 @@
+{
+  "phrase_en": "No hard feelings.",
+  "phrase_pron": "/noʊ hɑːrd ˈfiːlɪŋz/",
+  "meaning_cn": "<em>别往心里去</em> / 没有芥蒂",
+  "trap_x": "字面意思：没有硬的感受",
+  "trap_check": "真正意思：不记仇、没有怨恨（跟「硬的感觉」无关）",
+  "examples": [
+    {
+      "source": "Friends S2E08 · 老友记 第二季 第8集",
+      "en": "I hope there are no hard feelings about what happened.",
+      "cn": "希望之前的事你没往心里去。"
+    },
+    {
+      "source": "The Office S3E13 · 办公室 第三季 第13集",
+      "en": "No hard feelings, okay? It's just business.",
+      "cn": "别记仇啊？就是公事公办。"
+    },
+    {
+      "source": "Breaking Bad S1E06 · 绝命毒师 第一季 第6集",
+      "en": "No hard feelings. You did what you had to do.",
+      "cn": "不怪你。你做你该做的。"
+    }
+  ]
+}

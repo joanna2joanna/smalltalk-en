@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Shame on you!",
+  "phrase_pron": "/ʃeɪm ɑːn juː/",
+  "meaning_cn": "<em>你真不害臊！</em> / 你应该感到羞愧",
+  "trap_x": "字面意思：羞愧在你身上",
+  "trap_check": "真正意思：你应该感到羞愧（不是真的「在身上」）",
+  "examples": [
+    {
+      "source": "Friends S4E13 · 老友记 第四季 第13集",
+      "en": "\"Shame on you, Ross!\"",
+      "cn": "\"你真不害臊，Ross！\""
+    },
+    {
+      "source": "The Office S2E18 · 办公室 第二季 第18集",
+      "en": "\"Shame on you, Michael.\"",
+      "cn": "\"你真不害臊，Michael。\""
+    },
+    {
+      "source": "British TV · 英国日常对话",
+      "en": "\"Shame on you!\"",
+      "cn": "\"你应该感到羞愧！\""
+    }
+  ]
+}

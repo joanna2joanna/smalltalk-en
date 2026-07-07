@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Way to go!",
+  "phrase_pron": "/weɪ tə ɡoʊ/",
+  "meaning_cn": "<em>干得好！</em> / 真有你的",
+  "trap_x": "字面意思：路上去吧",
+  "trap_check": "真正意思：赞扬（真诚）或讽刺（反话），取决于语气",
+  "examples": [
+    {
+      "source": "The Office S3E12 · 办公室",
+      "en": "Jim: \"I finished the report in one hour.\" Dwight: \"Way to go, Jim. Finally showing some initiative.\"",
+      "cn": "吉姆：「我一小时就写完了报告。」德怀特：「干得好，吉姆。总算有点主动性了。」"
+    },
+    {
+      "source": "Friends S5E08 · 老友记",
+      "en": "Chandler: \"I bought a $600 limited-edition comic book.\" Joey: \"Way to go, Chandler. You're a real grown-up.\"",
+      "cn": "钱德勒：「我买了一本 600 美元的限量版漫画。」乔伊：「真有你的，钱德勒。你真是个成熟的大人了。」（讽刺）"
+    },
+    {
+      "source": "Brooklyn Nine-Nine S4E09 · 神烦警探",
+      "en": "Captain Holt: \"You solved the case in record time.\" Jake: \"Way to go, Captain! Oh wait, that's me.\"",
+      "cn": "霍尔特队长：「你破案速度创了纪录。」杰克：「干得漂亮，队长！哦等等，那是说我。」"
+    }
+  ]
+}

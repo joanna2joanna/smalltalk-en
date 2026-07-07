@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Beats me.",
+  "phrase_pron": "/biːts miː/",
+  "meaning_cn": "<em>把我问住了 / 我哪知道 / 纯懵</em>",
+  "trap_x": "字面意思：打了我",
+  "trap_check": "真正意思：我完全不知道",
+  "examples": [
+    {
+      "source": "《神烦警探》Brooklyn Nine-Nine S2E1",
+      "en": "\"Where's the captain? Beats me.\"",
+      "cn": "\"队长呢？把我问住了。\""
+    },
+    {
+      "source": "《生活大爆炸》The Big Bang Theory S4E5",
+      "en": "\"You want me to explain string theory? Beats me, dude.\"",
+      "cn": "\"让我解释弦理论？兄弟，我哪知道。\""
+    },
+    {
+      "source": "BBC News 脱欧专题报道",
+      "en": "\"When asked about the economic impact, one trader replied: 'Beats me.'\"",
+      "cn": "\"被问及经济影响时，一位交易员回答：'我哪知道。'\""
+    }
+  ]
+}
