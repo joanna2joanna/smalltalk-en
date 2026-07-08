@@ -6,7 +6,7 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#1a1a1a;display:flex;justify-content:center;padding:0}
-.card{width:1080px;min-height:1440px;height:auto;background:#1A1A2E;position:relative;overflow:hidden;font-family:'Helvetica Neue','PingFang SC',sans-serif;display:flex;flex-direction:column;align-items:center;padding:72px 72px 90px 72px}
+.card{width:1080px;min-height:1440px;height:auto;background:#1A1A2E;position:relative;font-family:'Helvetica Neue','PingFang SC',sans-serif;display:flex;flex-direction:column;align-items:center;padding:72px 72px 90px 72px}
 .grid-bg{position:absolute;top:0;left:0;right:0;bottom:0;background-image:linear-gradient(rgba(255,255,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.03) 1px,transparent 1px);background-size:60px 60px;pointer-events:none}
 .glow{position:absolute;top:-100px;right:-100px;width:500px;height:500px;background:radial-gradient(circle,rgba(240,165,0,0.13) 0%,transparent 70%);border-radius:50%;pointer-events:none}
 .glow2{position:absolute;bottom:-80px;left:-80px;width:350px;height:350px;background:radial-gradient(circle,rgba(199,125,32,0.10) 0%,transparent 70%);border-radius:50%;pointer-events:none}
@@ -36,6 +36,10 @@ body{background:#1a1a1a;display:flex;justify-content:center;padding:0}
 .ex-source{font-size:28px;color:#F0A500;font-weight:600;margin-bottom:6px;letter-spacing:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ex-en{font-size:34px;color:rgba(255,255,255,0.88);line-height:1.35;font-style:italic;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
 .ex-cn{font-size:28px;color:rgba(255,255,255,0.4);margin-top:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.nav-fixed{position:fixed;bottom:28px;right:28px;z-index:9999;display:flex;flex-direction:column;gap:12px}
+.nav-btn{width:48px;height:48px;border-radius:50%;background:rgba(0,0,0,0.5);border:1px solid rgba(255,255,255,0.2);color:#fff;font-size:22px;cursor:pointer;display:flex;align-items:center;justify-content:center;text-decoration:none;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);transition:background .2s;line-height:1;user-select:none}
+.nav-btn:hover{background:rgba(0,0,0,0.7)}
+#back-to-top{display:none}
 </style>
 </head>
 <body>
@@ -84,5 +88,16 @@ body{background:#1a1a1a;display:flex;justify-content:center;padding:0}
     </div>
   </div>
 </div>
+<div class="nav-fixed">
+<a id="back-to-top" class="nav-btn" href="#" title="回到顶部">&uarr;</a>
+<a class="nav-btn" href="../review.html" title="回到首页">&lceil;</a>
+</div>
+<script>
+(function(){
+var b=document.getElementById('back-to-top');
+window.addEventListener('scroll',function(){b.style.display=window.scrollY>400?'flex':'none'});
+b.addEventListener('click',function(e){e.preventDefault();window.scrollTo({top:0,behavior:'smooth'})});
+})();
+</script>
 </body>
 </html>
