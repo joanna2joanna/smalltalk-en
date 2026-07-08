@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>You're on! — Small Talk 2026-06-15-66</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#1a1a1a;display:flex;justify-content:center;padding:20px 0;min-height:100vh}
+.card{width:1080px;min-height:1440px;height:auto;background:#1A1A2E;position:relative;font-family:'Helvetica Neue','PingFang SC',sans-serif;display:flex;flex-direction:column;align-items:center;padding:72px 72px 90px 72px}
+.grid-bg{position:absolute;top:0;left:0;right:0;bottom:0;background-image:linear-gradient(rgba(255,255,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.03) 1px,transparent 1px);background-size:60px 60px;pointer-events:none}
+.glow{position:absolute;top:-100px;right:-100px;width:500px;height:500px;background:radial-gradient(circle,rgba(240,165,0,0.13) 0%,transparent 70%);border-radius:50%;pointer-events:none}
+.glow2{position:absolute;bottom:-80px;left:-80px;width:350px;height:350px;background:radial-gradient(circle,rgba(199,125,32,0.10) 0%,transparent 70%);border-radius:50%;pointer-events:none}
+.top-bar{position:absolute;top:0;left:0;right:0;height:6px;background:linear-gradient(90deg,#F0A500,#C77D20,#0F3460)}
+.header{text-align:center;margin-bottom:48px}
+.title-en{font-size:28px;color:rgba(255,255,255,0.5);letter-spacing:4px;text-transform:uppercase;font-weight:500;display:block}
+.title-cn{font-size:20px;color:rgba(255,255,255,0.3);letter-spacing:3px;font-weight:400;display:block;margin-top:6px}
+.phrase-area{text-align:center;margin-bottom:48px}
+.phrase-en{font-size:120px;font-weight:700;color:#fff;line-height:1.05;text-shadow:0 0 80px rgba(240,165,0,0.30);overflow-wrap:break-word;overflow:hidden;max-width:100%}
+.phrase-en.long-phrase{font-size:105px}
+.phrase-en.vlong-phrase{font-size:90px}
+.phrase-pron{font-size:34px;color:#F0A500;margin-top:10px;letter-spacing:3px;font-style:italic;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.meaning-area{text-align:center;margin-bottom:48px;max-width:100%}
+.meaning-cn{font-size:48px;color:#fff;font-weight:400;line-height:1.5;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.meaning-cn em{color:#F0A500;font-style:normal;font-weight:600}
+.trap-card{width:100%;background:rgba(240,165,0,0.08);border:1px solid rgba(240,165,0,0.3);border-radius:16px;padding:24px 30px;margin-bottom:48px}
+.trap-header{font-size:28px;color:#F0A500;letter-spacing:4px;text-transform:uppercase;margin-bottom:16px;font-weight:600}
+.trap-row{display:flex;align-items:flex-start;gap:20px;margin-bottom:10px}
+.trap-row:last-child{margin-bottom:0}
+.trap-x{font-size:34px;color:#E94560;font-weight:700;flex-shrink:0;line-height:1.2}
+.trap-text{font-size:28px;color:rgba(255,255,255,0.4);text-decoration:line-through;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.trap-check{font-size:34px;color:#00E676;font-weight:700;flex-shrink:0;line-height:1.2}
+.trap-right{font-size:28px;color:#fff;font-weight:500;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.examples{width:100%}
+.ex-item{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-radius:14px;padding:18px 24px;margin-bottom:20px}
+.ex-item:last-child{margin-bottom:0}
+.ex-source{font-size:28px;color:#F0A500;font-weight:600;margin-bottom:6px;letter-spacing:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ex-en{font-size:34px;color:rgba(255,255,255,0.88);line-height:1.35;font-style:italic;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.ex-cn{font-size:28px;color:rgba(255,255,255,0.4);margin-top:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.nav-fixed{position:fixed;bottom:28px;right:28px;z-index:9999;display:flex;flex-direction:column;gap:12px}
+.nav-btn{width:48px;height:48px;border-radius:50%;background:rgba(0,0,0,0.5);border:1px solid rgba(255,255,255,0.2);color:#fff;font-size:22px;cursor:pointer;display:flex;align-items:center;justify-content:center;text-decoration:none;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);transition:background .2s;line-height:1;user-select:none}
+.nav-btn:hover{background:rgba(0,0,0,0.7)}
+#back-to-top{display:none}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="grid-bg"></div>
+  <div class="glow"></div>
+  <div class="glow2"></div>
+  <div class="top-bar"></div>
+  <div class="header">
+    <span class="title-en">DAILY SMALL TALK</span>
+    <span class="title-cn">李大妈碎碎念</span>
+  </div>
+  <div class="phrase-area">
+    <div class="phrase-en">You're on!</div>
+    <div class="phrase-pron">/jʊr ɑːn/</div>
+  </div>
+  <div class="meaning-area">
+    <div class="meaning-cn"><em>赌就赌！</em> / 我接受挑战</div>
+  </div>
+  <div class="trap-card">
+    <div class="trap-header">GOTCHA!</div>
+    <div class="trap-row">
+      <span class="trap-x">X</span>
+      <span class="trap-text">字面意思：你在上面</span>
+    </div>
+    <div class="trap-row">
+      <span class="trap-check">&#10003;</span>
+      <span class="trap-right">真正意思：我接受你的打赌/挑战（不是物理位置）</span>
+    </div>
+  </div>
+  <div class="examples">
+    <div class="ex-item">
+      <div class="ex-source">Friends S5E18 · 老友记 第五季 第18集</div>
+      <div class="ex-en">"I bet you can't do it." "You're on!"</div>
+      <div class="ex-cn">"我打赌你做不到。" "赌就赌！"</div>
+    </div>
+    <div class="ex-item">
+      <div class="ex-source">The Office S4E01 · 办公室 第四季 第1集</div>
+      <div class="ex-en">"I bet I can sell more." "You're on!"</div>
+      <div class="ex-cn">"我打赌我能卖得更多。" "赌就赌！"</div>
+    </div>
+    <div class="ex-item">
+      <div class="ex-source">Seinfeld S7E15 · 宋飞正传 第七季 第15集</div>
+      <div class="ex-en">"Ten bucks says she doesn't show up." "You're on!"</div>
+      <div class="ex-cn">"十块钱赌她不会来。" "好，我赌！"</div>
+    </div>
+  </div>
+</div>
+<div class="nav-fixed">
+<a id="back-to-top" class="nav-btn" href="#" title="回到顶部">&uarr;</a>
+<a class="nav-btn" href="../review.html" title="回到首页">&lceil;</a>
+</div>
+<script>
+(function(){
+var b=document.getElementById('back-to-top');
+window.addEventListener('scroll',function(){b.style.display=window.scrollY>400?'flex':'none'});
+b.addEventListener('click',function(e){e.preventDefault();window.scrollTo({top:0,behavior:'smooth'})});
+})();
+</script>
+</body>
+</html>
