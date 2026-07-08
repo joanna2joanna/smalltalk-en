@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Chew the fat!",
+  "phrase_pron": "/tʃuː ðə fæt/",
+  "meaning_cn": "<em>闲聊</em>/唠嗑",
+  "trap_x": "字面意思：嚼肥肉！",
+  "trap_check": "真正意思：坐下来悠闲闲聊、唠嗑——跟肥肉没关系，就是花时间慢慢聊",
+  "examples": [
+    {"source": "Chewing The Fat 播客 · 2024.10", "en": "\"Let's chew the fat!\"", "cn": "抗癌播客开场招呼——来唠吧。"},
+    {"source": "日常对话 · 邻居招手", "en": "\"We were just chewing the fat over a glass of wine.\"", "cn": "正喝着酒瞎聊呢——进来坐。"},
+    {"source": "日常对话 · 老友叙旧", "en": "\"We sat on the porch chewing the fat all afternoon.\"", "cn": "门廊坐一下午——纯聊。"}
+  ]
+}

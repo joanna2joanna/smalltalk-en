@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Go cold turkey!",
+  "phrase_pron": "/ɡoʊ koʊld ˈtɜːrki/",
+  "meaning_cn": "<em>突然戒断</em>/硬扛",
+  "trap_x": "字面意思：去变成一只冷火鸡！",
+  "trap_check": "真正意思：突然彻底戒掉一个瘾或习惯——不逐步减量，全凭意志力硬扛",
+  "examples": [
+    {"source": "Charles Barkley · Inside the NBA", "en": "\"Probably best for me to go cold turkey.\"", "cn": "巴克利戒可乐——这决心一集都没撑过。"},
+    {"source": "WSJ · 2025.12.26", "en": "\"You can't just go cold turkey on these things.\"", "cn": "停药不能硬来——WSJ受访者原话。"},
+    {"source": "日常对话 · 戒社交媒体", "en": "\"Went cold turkey on Instagram — never looked back.\"", "cn": "卸载Ins不回头——说戒就戒。"}
+  ]
+}
