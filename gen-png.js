@@ -29,7 +29,10 @@ async function main() {
   await page.setContent(html, { waitUntil: 'networkidle' });
 
   const card = await page.$('.card');
-  await card.screenshot({ path: outputPath, type: 'png', scale: 'css' });
+  const box = await card.boundingBox();
+  // card 用 height:auto+min-height，Chromium 行为变动后会撑到 2960px。
+  // 用 page.screenshot({ clip }) 裁到卡片设计尺寸 1080×1440。
+  await page.screenshot({ path: outputPath, type: 'png', scale: 'css', clip: { x: box.x, y: box.y, width: 1080, height: 1440 } });
 
   await browser.close();
   console.log('PNG saved:', outputPath);
