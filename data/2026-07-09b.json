@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Call the shots!",
+  "phrase_pron": "/kɔːl ðə ʃɒts/",
+  "meaning_cn": "<em>做主</em>/说了算",
+  "trap_x": "字面意思：喊射击！",
+  "trap_check": "真正意思：做主、发号施令——谁喊开枪谁说了算，跟靶场没关系",
+  "examples": [
+    {"source": "Trump · Financial Times专访", "en": "\"I alone call the shots.\"", "cn": "川普：只有我说了算。白宫记者拿原话怼回去。"},
+    {"source": "BBC · 2025.12.28", "en": "\"Ministers act like mayors and call the shots.\"", "cn": "印度邦长像超级市长一样拍板——BBC原句。"},
+    {"source": "LA Times · 2026.2.5", "en": "\"Coaches call the shots for young athletes.\"", "cn": "花滑教练替选手定一切——衣服音乐全没得选。"}
+  ]
+}

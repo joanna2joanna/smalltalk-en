@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Cut the cheese!",
+  "phrase_pron": "/kʌt ðə tʃiːz/",
+  "meaning_cn": "<em>放屁</em>/悄咪排气",
+  "trap_x": "字面意思：切奶酪！",
+  "trap_check": "真正意思：放屁——跟厨房没关系，是小朋友最爱说的排气委婉语",
+  "examples": [
+    {"source": "That '70s Show · The Career Day", "en": "\"May I cut the cheese?\"", "cn": "Fez在食品课上无辜问出双关——全班憋笑。"},
+    {"source": "Two and a Half Men · Fish in a Drawer", "en": "\"So, I can cut the cheese? Get it?\"", "cn": "Jake说完自己先笑——典型情景喜剧屁梗。"},
+    {"source": "日常对话 · 车里密闭空间", "en": "\"Who cut the cheese?\"", "cn": "谁放屁了——车里最怕听到的一句。"}
+  ]
+}
