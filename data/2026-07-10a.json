@@ -1,0 +1,12 @@
+{
+  "phrase_en": "In a pickle",
+  "phrase_pron": "/ɪn ə ˈpɪkəl/",
+  "meaning_cn": "<em>陷入困境</em>/进退两难",
+  "trap_x": "字面意思：在腌黄瓜里！",
+  "trap_check": "真正意思：陷入困境、左右为难——跟泡菜坛子没关系，莎士比亚《暴风雨》里就在用了",
+  "examples": [
+    {"source": "Slate · 2026.3.14", "en": "\"The US attorney is in a pickle of his own making.\"", "cn": "联邦检察官自找麻烦——Slate原句。"},
+    {"source": "Barron's · 2025.12.4", "en": "\"Noise complaints left authorities in a pickle.\"", "cn": "噪音投诉让当局头疼——Barron's。"},
+    {"source": "Shakespeare · The Tempest", "en": "\"How cam'st thou in this pickle?\"", "cn": "阿隆索问：你怎么喝成这样——四百年前的出处。"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "phrase_en": "For the birds",
+  "phrase_pron": "/fɔːr ðə bɜːrdz/",
+  "meaning_cn": "<em>毫无价值</em>/纯属扯淡",
+  "trap_x": "字面意思：给鸟的！",
+  "trap_check": "真正意思：毫无价值、纯属胡扯——二战美军见鸟啄马粪才造的词，不是喂鸟",
+  "examples": [
+    {"source": "BBC · 2026.2.7", "en": "\"Calling this 'private' is for the birds.\"", "cn": "说是私事纯属扯淡——BBC原句。"},
+    {"source": "Hitchcock · Torn Curtain", "en": "\"Do you still say 'strictly for the birds'?\"", "cn": "东德间谍：你们美国人还这么说？"},
+    {"source": "Salinger · The Catcher in the Rye", "en": "\"It was strictly for the birds.\"", "cn": "Holden吐槽学校广告——1951年经典。"}
+  ]
+}
