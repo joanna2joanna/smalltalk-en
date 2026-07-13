@@ -68,7 +68,7 @@ process.stdin.on('end', () => {
     ['{{PHRASE_PRON}}', data.phrase_pron || ''],
     ['{{MEANING_CN}}', data.meaning_cn || ''],
     ['{{TRAP_X}}', data.trap_x || ''],
-    ['{{TRAP_CHECK}}', data.trap_check || ''],
+    ['{{TRAP_CHECK}}', nl2br(data.trap_check || '')],
     ['{{EX1_SOURCE}}', nl2br(data.examples?.[0]?.source || data.ex1_source || '')],
     ['{{EX1_EN}}', nl2br(data.examples?.[0]?.en || data.ex1_en || '')],
     ['{{EX1_CN}}', nl2br(data.examples?.[0]?.cn || data.ex1_cn || '')],
