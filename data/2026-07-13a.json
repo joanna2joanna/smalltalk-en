@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Bury the hatchet",
+  "phrase_pron": "/ˈbɛri ðə ˈhætʃɪt/",
+  "meaning_cn": "<em>言归于好</em>/冰释前嫌",
+  "trap_x": "字面意思：埋一把斧头！",
+  "trap_check": "真正意思：化干戈为玉帛——源自北美原住民部落停战后埋武器的仪式",
+  "examples": [
+    {"source": "BBC · 2025.4.10", "en": "\"Madonna bury the hatchet with Elton John.\"", "cn": "麦当娜与埃尔顿·约翰多年互怼后言和。"},
+    {"source": "LA Times · 2026.3.25", "en": "\"Rivals appeared to bury the hatchet.\"", "cn": "真人秀对手刚和解又撕——LA Times。"},
+    {"source": "Working Girl · 1988", "en": "\"Let's just bury the hatchet, OK?\"", "cn": "梅兰妮·格里菲斯经典台词：把斧头埋了吧。"}
+  ]
+}

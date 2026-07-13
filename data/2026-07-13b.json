@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Jump the gun",
+  "phrase_pron": "/dʒʌmp ðə ɡʌn/",
+  "meaning_cn": "<em>操之过急</em>/抢跑",
+  "trap_x": "字面意思：跳过枪！",
+  "trap_check": "真正意思：操之过急、抢先行动——源自田径赛发令枪未响就起跑犯规",
+  "examples": [
+    {"source": "Slate · 2026.4.23", "en": "\"Lower courts have no license to jump the gun.\"", "cn": "下级法院无权抢先——Slate。"},
+    {"source": "Friends S3E11", "en": "\"Look, I may have jumped the gun here.\"", "cn": "钱德勒吻了乔伊妹后追悔——Friends。"},
+    {"source": "Downton Abbey", "en": "\"Things will get settled — I mustn't jump the gun.\"", "cn": "唐顿庄园：千万别操之过急——英伦优雅版。"}
+  ]
+}
