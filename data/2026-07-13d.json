@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Been there",
+  "phrase_pron": "/bɪn ðɛr/",
+  "meaning_cn": "<em>我也经历过</em>/就是懂",
+  "trap_x": "字面意思：去过那儿！",
+  "trap_check": "真正意思：我懂你、我也这样过——\n不是说真的去过那个地方",
+  "examples": [
+    {"source": "New Yorker · 2025.6.2", "en": "\"And oh, how I can relate. Been there.\"", "cn": "纽约客：「别提了，经历过。」" },
+    {"source": "Podcast · 2025", "en": "\"Lost in Tokyo? Been there.\"", "cn": "播客聊天：迷失东京？我也搭错过。" },
+    {"source": "Everyday chat", "en": "\"Been there. Done that.\"", "cn": "日常脱口语：就这事儿啊，谁没经历过。" }
+  ]
+}

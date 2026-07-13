@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Get over it",
+  "phrase_pron": "/ɡɛt ˈoʊvər ɪt/",
+  "meaning_cn": "<em>别纠结了</em>/翻篇吧",
+  "trap_x": "字面意思：从上面爬过去！",
+  "trap_check": "真正意思：别想不开啦，翻篇吧——\n不是让你翻墙翻栏杆",
+  "examples": [
+    {"source": "BBC · 2026.6.20", "en": "\"To get over all of that and score again.\"", "cn": "BBC评凯恩：放下包袱再罚进。"},
+    {"source": "Salon · 2026.6.21", "en": "\"We can all just get over it.\"", "cn": "Salon讽刺：我们就翻篇吧。"},
+    {"source": "Friends S1E3", "en": "\"He's a big boy, he'll get over it.\"", "cn": "老友记：他是个大人了，会想开的。"}
+  ]
+}
