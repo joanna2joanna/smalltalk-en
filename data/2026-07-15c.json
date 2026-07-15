@@ -1,0 +1,12 @@
+{
+  "phrase_en": "No biggie.",
+  "phrase_pron": "/noʊ ˈbɪɡi/",
+  "meaning_cn": "<em>小事</em>/没关系",
+  "trap_x": "字面意思：没有大东西？",
+  "trap_check": "真正意思：没关系、小意思——\n不是说东西大小",
+  "examples": [
+    {"source": "Barron's · 2025.11.28", "en": "\"...the losses are no biggie for the Fed.\"", "cn": "联储眼里这点亏损不算事。" },
+    {"source": "LA Times · 2025.5.12", "en": "\"No biggie: He could just stand there.\"", "cn": "小事一桩，站着扶一下就行。" },
+    {"source": "Everyday chat", "en": "\"Sorry I'm late!\" \"No biggie.\"", "cn": "日常对话：没事，不急。" }
+  ]
+}

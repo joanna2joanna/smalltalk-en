@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Bring it on!",
+  "phrase_pron": "/brɪŋ ɪt ɑːn/",
+  "meaning_cn": "<em>放马过来</em>/奉陪",
+  "trap_x": "字面意思：把它带过来！",
+  "trap_check": "真正意思：放马过来、我奉陪——\n不是让你拿东西过来",
+  "examples": [
+    {"source": "The Emperor's New Groove", "en": "\"Sharp rocks at the bottom?\" \"Bring it on.\"", "cn": "变身国王：掉下去？来吧奉陪。" },
+    {"source": "Bring It On · 2000", "en": "\"When you go to Nationals, bring it.\"", "cn": "啦啦队电影：别放水，拿出真本事。" },
+    {"source": "Cambridge Dictionary", "en": "\"You think you can beat me? Bring it on!\"", "cn": "你觉得能赢我？来啊！" }
+  ]
+}

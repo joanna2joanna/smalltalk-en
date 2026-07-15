@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Snap out of it!",
+  "phrase_pron": "/snæp aʊt ʌv ɪt/",
+  "meaning_cn": "<em>振作</em>/别丧了",
+  "trap_x": "字面意思：啪地弹出去？",
+  "trap_check": "真正意思：别消沉了、打起精神——\n跟掰断东西没关系",
+  "examples": [
+    {"source": "Moonstruck · 1987", "en": "\"Snap out of it!\"", "cn": "Cher一巴掌扇醒Nicolas Cage。" },
+    {"source": "NYT · 2026.2.7", "en": "\"...a desperate search for a way to snap out of it.\"", "cn": "纽约时报：拼命想从低迷里走出来。" },
+    {"source": "WSJ · 2026.1.22", "en": "\"...become aware, and snap out of it.\"", "cn": "华尔街日报：意识到，然后振作起来。" }
+  ]
+}

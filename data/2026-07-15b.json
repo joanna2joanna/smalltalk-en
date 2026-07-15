@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Ring a bell?",
+  "phrase_pron": "/rɪŋ ə bɛl/",
+  "meaning_cn": "<em>耳熟</em>/有印象？",
+  "trap_x": "字面意思：按个门铃？",
+  "trap_check": "真正意思：听起来熟悉、有印象——\n不是在问铃铛",
+  "examples": [
+    {"source": "The Wolf of Wall Street", "en": "\"Does that ring a bell?\"", "cn": "小李子推销话术：有印象吧？" },
+    {"source": "Friends S01", "en": "\"Well, it does not ring a bell with me.\"", "cn": "老友记：我完全没印象。" },
+    {"source": "WSJ · 2026.2.6", "en": "\"They don't ring a bell when it's time to get out.\"", "cn": "市场从来不会提前按铃提醒你。" }
+  ]
+}
