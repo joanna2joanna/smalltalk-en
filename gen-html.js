@@ -51,6 +51,9 @@ process.stdin.on('end', () => {
   // ⚠️ nl2br：JSON.parse 后 \n 已变成真正的换行符(ASCII 10)
   // 用 split/join 避开正则转义歧义，可靠地将换行符转为 <br>
   const nl2br = (s) => (s || '').split('\n').join('<br>');
+  // nl2sep：examples 的 en/cn 字段不能 <br>，否则多行撑高卡片被 clip 裁掉
+  // 把 \n 换成单行分隔符，保对话感又不撑高
+  const nl2sep = (s) => (s || '').split('\n').join(' — ');
 
   // Auto-detect phrase length and apply size class
   // Default 120px; >15 chars → 105px (long); >22 chars → 90px (vlong)
@@ -70,14 +73,14 @@ process.stdin.on('end', () => {
     ['{{TRAP_X}}', data.trap_x || ''],
     ['{{TRAP_CHECK}}', nl2br(data.trap_check || '')],
     ['{{EX1_SOURCE}}', nl2br(data.examples?.[0]?.source || data.ex1_source || '')],
-    ['{{EX1_EN}}', nl2br(data.examples?.[0]?.en || data.ex1_en || '')],
-    ['{{EX1_CN}}', nl2br(data.examples?.[0]?.cn || data.ex1_cn || '')],
+    ['{{EX1_EN}}', nl2sep(data.examples?.[0]?.en || data.ex1_en || '')],
+    ['{{EX1_CN}}', nl2sep(data.examples?.[0]?.cn || data.ex1_cn || '')],
     ['{{EX2_SOURCE}}', nl2br(data.examples?.[1]?.source || data.ex2_source || '')],
-    ['{{EX2_EN}}', nl2br(data.examples?.[1]?.en || data.ex2_en || '')],
-    ['{{EX2_CN}}', nl2br(data.examples?.[1]?.cn || data.ex2_cn || '')],
+    ['{{EX2_EN}}', nl2sep(data.examples?.[1]?.en || data.ex2_en || '')],
+    ['{{EX2_CN}}', nl2sep(data.examples?.[1]?.cn || data.ex2_cn || '')],
     ['{{EX3_SOURCE}}', nl2br(data.examples?.[2]?.source || data.ex3_source || '')],
-    ['{{EX3_EN}}', nl2br(data.examples?.[2]?.en || data.ex3_en || '')],
-    ['{{EX3_CN}}', nl2br(data.examples?.[2]?.cn || data.ex3_cn || '')],
+    ['{{EX3_EN}}', nl2sep(data.examples?.[2]?.en || data.ex3_en || '')],
+    ['{{EX3_CN}}', nl2sep(data.examples?.[2]?.cn || data.ex3_cn || '')],
   ];
 
   for (const [placeholder, value] of replacements) {
