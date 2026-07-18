@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Try me.",
+  "phrase_pron": "/traɪ mi/",
+  "meaning_cn": "<em>尽管说</em>/你问吧",
+  "trap_x": "字面意思：你试试我？来挑战我？",
+  "trap_check": "真正意思：尽管说、尽管问——\n对方犹豫时给的友好邀请，不是挑衅",
+  "examples": [
+    {"source": "The Graduate · 1967", "en": "\"I don't believe you.\"\n\"Try me.\"", "cn": "我不信你敢。\n你试试看。" },
+    {"source": "Johnny Guitar · 1954", "en": "\"You don't have the nerve.\"\n\"Try me.\"", "cn": "你没那个胆。\n试试就知道了。" },
+    {"source": "The Master · S1E5 · 1984", "en": "\"You'll be sorry you did that, kid.\"\n\"Try me.\"", "cn": "你会后悔的，小子。\n放马过来。" }
+  ]
+}

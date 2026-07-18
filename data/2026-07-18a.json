@@ -1,0 +1,12 @@
+{
+  "phrase_en": "You lost me.",
+  "phrase_pron": "/ju lɒst mi/",
+  "meaning_cn": "<em>没跟上</em>/听不懂了",
+  "trap_x": "字面意思：你把我弄丢了？",
+  "trap_check": "真正意思：我跟不上了、没听懂——\n跟「失去」半毛钱关系没有",
+  "examples": [
+    {"source": "Friends · NBC", "en": "Ross讲恐龙化石滔滔不绝，Rachel打断：\"You lost me.\"", "cn": "你说得我跟不上了。" },
+    {"source": "OITNB · S1E13", "en": "观众喊：\"It lost me at the umbrellas.\"", "cn": "从雨伞那里我就没跟上这笑话。" },
+    {"source": "Blended · 2014", "en": "Sandler：\"You've lost me.\" 顿了下：\"You've found me.\"", "cn": "被你绕晕了……啊又绕回来了。" }
+  ]
+}
