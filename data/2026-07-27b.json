@@ -1,0 +1,12 @@
+{
+  "phrase_en": "No filter",
+  "phrase_pron": "/noʊ ˈfɪltər/",
+  "meaning_cn": "<em>说话不过脑</em>/太直白",
+  "trap_x": "字面意思：没加滤镜",
+  "trap_check": "真正意思：说话不经过大脑，想到什么\n说什么，不拐弯抹角。跟照片滤镜无关",
+  "examples": [
+    {"source": "Grey's Anatomy · 实习医生格蕾", "en": "\"...you have no filter.\"", "cn": "你说话真是不经大脑。"},
+    {"source": "Glee cast interview · 欢乐合唱团", "en": "\"Sue has no filter and people love that.\"", "cn": "苏说话不过脑子，大家就爱这点。"},
+    {"source": "Urban Dictionary · 都市词典", "en": "\"She has no filter — brutally honest 24/7.\"", "cn": "她嘴没把门的，一天到晚实话实说。"}
+  ]
+}

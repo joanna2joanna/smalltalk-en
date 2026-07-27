@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Make a killing",
+  "phrase_pron": "/meɪk ə ˈkɪlɪŋ/",
+  "meaning_cn": "<em>赚翻了</em>/狠赚一笔",
+  "trap_x": "字面意思：大开杀戒",
+  "trap_check": "短时间内轻松赚大钱。\nkilling=打到猎物。赚钱如「猎」利润，跟暴力无关",
+  "examples": [
+    {"source": "Billions S03E07 · 亿万", "en": "\"One particular fund made a killing that day.\"", "cn": "有一只基金那天大赚了一笔。"},
+    {"source": "WSJ · 华尔街日报（2026.4）", "en": "\"You're not going to make a killing off it.\"", "cn": "别指望靠它发大财。"},
+    {"source": "Longman Dictionary · 朗文当代", "en": "\"They made a killing on the stock exchange.\"", "cn": "他们在股市狠狠赚了一笔。"}
+  ]
+}
