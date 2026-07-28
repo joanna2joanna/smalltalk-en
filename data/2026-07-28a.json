@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Suck it up",
+  "phrase_pron": "/sʌk ɪt ʌp/",
+  "meaning_cn": "<em>忍一忍</em>/别抱怨了",
+  "trap_x": "字面意思：吸上来/吸进去",
+  "trap_check": "把抱怨和自怜「吞下去」，硬撑\n着往前走。跟吸吮吸入没关系",
+  "examples": [
+    {"source": "Friends S2E19 · 老友记", "en": "\"So suck it up man, it's a job, it's money.\"", "cn": "忍忍吧兄弟，有工有钱就是好事。"},
+    {"source": "BBC · 英广新闻（2025.11）", "en": "\"She told party members to suck it up.\"", "cn": "她叫党内成员别再抱怨忍着点。"},
+    {"source": "Monk S02 · 神探阿蒙", "en": "\"Oh, suck it up.\"", "cn": "行了，忍忍吧。"}
+  ]
+}

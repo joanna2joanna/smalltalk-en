@@ -1,0 +1,12 @@
+{
+  "phrase_en": "Get off my back",
+  "phrase_pron": "/ɡɛt ɔf maɪ bæk/",
+  "meaning_cn": "<em>别烦我</em>/别唠叨",
+  "trap_x": "字面意思：从我背上下来",
+  "trap_check": "别再唠叨催我。\n注意：get off YOUR back\n正相反，叫你起来干活",
+  "examples": [
+    {"source": "Friends S2E17 · 老友记", "en": "\"You wanna get off my back?\"", "cn": "你能别唠叨了吗？"},
+    {"source": "TBBT S4E21 · 生活大爆炸", "en": "\"They were out of menthols! Get off my back!\"", "cn": "薄荷烟卖完了！别烦我！"},
+    {"source": "Modern Family S01E20 · 摩登家庭", "en": "\"Maybe just to get your dad off your back.\"", "cn": "大概就是让你爸别再唠叨了。"}
+  ]
+}
