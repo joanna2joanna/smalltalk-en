@@ -1,0 +1,12 @@
+{
+  "phrase_en": "I'm down.",
+  "phrase_pron": "/aɪm daʊn/",
+  "meaning_cn": "<em>我加入</em>/我愿意",
+  "trap_x": "字面意思：我低落/我在下面",
+  "trap_check": "表达愿意加入、同意提议。\n跟\"I feel down\"只差一个词，\n意思完全相反",
+  "examples": [
+    {"source": "Criminal Minds S10 · 犯罪心理", "en": "\"Whatever. I'm down.\"", "cn": "无所谓，算我一个。"},
+    {"source": "Cafetalk · 英语教学（2025）", "en": "\"Wanna grab food?\" \"I'm down!\"", "cn": "「吃饭去？」「走起！」"},
+    {"source": "GrammarWaves · 用法示例", "en": "\"I'm down for pizza.\"", "cn": "披萨我可以，走一个。"}
+  ]
+}

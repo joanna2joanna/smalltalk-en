@@ -1,0 +1,12 @@
+{
+  "phrase_en": "I'm all ears.",
+  "phrase_pron": "/aɪm ɔːl ɪərz/",
+  "meaning_cn": "<em>我认真听</em>/你说吧",
+  "trap_x": "字面意思：我浑身都是耳朵",
+  "trap_check": "全神贯注听你说话。\n不是浑身长满耳朵，\n是「尽管说，我认真听。」",
+  "examples": [
+    {"source": "Young Sheldon S2E15 · 小谢尔顿", "en": "\"Go ahead, Sheldon, I'm all ears.\"", "cn": "说吧谢尔顿，我认真听着。"},
+    {"source": "Better Call Saul S1 · 绝命律师", "en": "\"Ricky, I'm all ears.\"", "cn": "里奇，我洗耳恭听。"},
+    {"source": "WSJ · 华尔街日报（2026.05）", "en": "\"If you say 'I think that,' I'm all ears.\"", "cn": "你只要开口，我随时倾听。"}
+  ]
+}
