@@ -1,0 +1,24 @@
+{
+  "phrase_en": "throw shade",
+  "phrase_pron": "/θroʊ ʃeɪd/",
+  "meaning_cn": "<em>阴阳怪气</em>地暗中讽刺",
+  "trap_x": "字面意思：投下阴影 / 扔一把影子",
+  "trap_check": "真正意思：不点名讽刺\n但人人都知道在说谁",
+  "examples": [
+    {
+      "source": "RuPaul's Drag Race S2E12",
+      "en": "\"We asked you to throw shade in front of everyone.\"",
+      "cn": "请你当着大家的面阴阳一把。"
+    },
+    {
+      "source": "BBC Learning English",
+      "en": "\"Neil said you were throwing shade at me.\"",
+      "cn": "Neil说你一直在阴阳我。"
+    },
+    {
+      "source": "Celebrity Big Brother UK",
+      "en": "\"Do not throw shade up here at me!\"",
+      "cn": "别在这儿阴阳我！"
+    }
+  ]
+}
