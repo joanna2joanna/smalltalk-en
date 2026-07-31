@@ -1,0 +1,19 @@
+{
+  "phrase_en": "living rent free",
+  "phrase_pron": "/ˈlɪvɪŋ rɛnt friː/",
+  "meaning_cn": "赖在脑子里<em>挥之不去</em>",
+  "trap_x": "字面意思：免租金白住",
+  "trap_check": "真正意思：赖在脑子里不走\n像不交租的房客，赶都赶不走",
+  "examples": [
+    {
+      "source": "BBC The English We Speak",
+      "en": "\"Sounds like he's living rent-free in your head.\"",
+      "cn": "听起来他在你脑子里赖着不走。"
+    },
+    {
+      "source": "Meghan McCain on X",
+      "en": "\"My father lives rent free in your head.\"",
+      "cn": "你脑子里全是我爸，白住。"
+    }
+  ]
+}

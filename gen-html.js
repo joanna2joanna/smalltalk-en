@@ -48,6 +48,11 @@ process.stdin.on('end', () => {
 
   let template = fs.readFileSync(templatePath, 'utf8');
 
+  // Strip empty third example block when only 2 examples exist
+  if (!data.examples || data.examples.length < 3) {
+    template = template.replace(/    <div class="ex-item">\n      <div class="ex-source">\{\{EX3_SOURCE\}\}<\/div>\n      <div class="ex-en">\{\{EX3_EN\}\}<\/div>\n      <div class="ex-cn">\{\{EX3_CN\}\}<\/div>\n    <\/div>\n/, '');
+  }
+
   // ⚠️ nl2br：JSON.parse 后 \n 已变成真正的换行符(ASCII 10)
   // 用 split/join 避开正则转义歧义，可靠地将换行符转为 <br>
   const nl2br = (s) => (s || '').split('\n').join('<br>');

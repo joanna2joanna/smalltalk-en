@@ -1,0 +1,19 @@
+{
+  "phrase_en": "it's giving",
+  "phrase_pron": "/ɪts ˈɡɪvɪŋ/",
+  "meaning_cn": "自带<em>某种</em>氛围感",
+  "trap_x": "字面意思：它在给……\n（给什么？话没说完？）",
+  "trap_check": "真正意思：自带氛围感的描述\n不是话没说完，后面接名词就行",
+  "examples": [
+    {
+      "source": "BBC The English We Speak",
+      "en": "\"It's totally giving summer.\"",
+      "cn": "你这身完全是夏日氛围。"
+    },
+    {
+      "source": "NPR Code Switch",
+      "en": "\"I heard a kid say, it's giving Christmas.\"",
+      "cn": "我听到有小孩说：圣诞氛围拉满。"
+    }
+  ]
+}
