@@ -1,0 +1,24 @@
+{
+  "phrase_en": "break a leg",
+  "phrase_pron": "/breɪk ə leɡ/",
+  "meaning_cn": "祝你好运，祝你成功",
+  "trap_x": "对方说 Break a leg，不是咒你摔断腿",
+  "trap_check": "剧院迷信：直接说 good luck 反招霉运\n所以上台前反着说，是真心祝福",
+  "examples": [
+    {
+      "source": "《Goldbergs》剧集 台词",
+      "en": "Murray: break an egg.\nAdam: It's break a leg.",
+      "cn": "儿纠正爸：是 break a leg"
+    },
+    {
+      "source": "Elon Musk 嘉宾主持 SNL 前，妈妈叮嘱",
+      "en": "Break a leg tonight, she told her son.",
+      "cn": "今晚祝你成功，她叮嘱儿子"
+    },
+    {
+      "source": "Maya Angelou 戏剧台词",
+      "en": "Okay Rita, break a leg.",
+      "cn": "好，Rita，祝你成功"
+    }
+  ]
+}
