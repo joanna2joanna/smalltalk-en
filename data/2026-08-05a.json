@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Not gonna lie",
+  "phrase_pron": "/ˌnɑt ˈɡʌnə laɪ/",
+  "meaning_cn": "老实说，讲真话",
+  "trap_x": "字面是\"我不撒谎\"\n实际是\"讲真\"，重点在后句",
+  "trap_check": "夸人时说 Not gonna lie\n对方反问：你以前骗过我？\n你在暗示以前骗过",
+  "examples": [
+    {
+      "source": "BBC The English We Speak 专集",
+      "en": "Not gonna lie, it's the best roast in town!",
+      "cn": "讲真，这是全城最好的烤肉"
+    },
+    {
+      "source": "BBC The English We Speak 专集",
+      "en": "Not gonna lie, you do look a little tired.",
+      "cn": "讲真，你看着有点累"
+    },
+    {
+      "source": "小红书 网友真实对话分享",
+      "en": "Not gonna lie, you look good. → What do you mean?",
+      "cn": "夸人却被反问：你骗过我？"
+    }
+  ]
+}
