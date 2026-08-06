@@ -1,0 +1,24 @@
+{
+  "phrase_en": "lowkey",
+  "phrase_pron": "/ˈloʊˌki/",
+  "meaning_cn": "有点、算是、其实",
+  "trap_x": "字面是低调不张扬\n实际是有点、算是，承认时的软化剂",
+  "trap_check": "Lowkey want pizza.\n字面：低调地要披萨\n实际：有点想吃而已",
+  "examples": [
+    {
+      "source": "BBC The English We Speak Lowkey 专集",
+      "en": "I lowkey love watching romantic comedies.",
+      "cn": "我其实有点爱看爱情片"
+    },
+    {
+      "source": "BBC The English We Speak Lowkey 专集",
+      "en": "I lowkey fell over walking to the shops.",
+      "cn": "我走路去商店时悄悄摔了一跤"
+    },
+    {
+      "source": "BBC The English We Speak Lowkey 专集",
+      "en": "I am lowkey addicted to playing it.",
+      "cn": "我有点玩上瘾了"
+    }
+  ]
+}
