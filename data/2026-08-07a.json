@@ -1,0 +1,24 @@
+{
+  "phrase_en": "dead to me",
+  "phrase_pron": "/ˈdɛd tə mi/",
+  "meaning_cn": "彻底绝交、一刀两断",
+  "trap_x": "字面：对方死了\n实际：绝交宣言，关系判死刑\n不是生死，是情断",
+  "trap_check": "You're dead to me.\n字面：你人没了？\n实际：咱俩完了，断交",
+  "examples": [
+    {
+      "source": "Marvel's Daredevil S02E12 (Karen)",
+      "en": "That's it. You're dead to me. Do you hear me?",
+      "cn": "行了，咱俩绝交，听见没"
+    },
+    {
+      "source": "True Blood S02E09 (Eric to Lorena)",
+      "en": "You may be immortal, Lorena, but you are dead to me.",
+      "cn": "你可能永生不死，但你在我心里已经死了"
+    },
+    {
+      "source": "Britannia S01E03 (2018)",
+      "en": "Whatever the Druids decide, you are dead to me.",
+      "cn": "德鲁伊怎么决定都一样，你对我已经死了"
+    }
+  ]
+}
