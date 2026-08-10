@@ -1,0 +1,19 @@
+{
+  "phrase_en": "ghosting",
+  "phrase_pron": "/ˈɡoʊstɪŋ/",
+  "meaning_cn": "突然消失不回消息",
+  "trap_x": "字面：闹鬼，变幽灵\n实际：突然消失不解释\n真·人间蒸发",
+  "trap_check": "He's ghosting you.\n字面：他在闹鬼？\n实际：他压根不回你",
+  "examples": [
+    {
+      "source": "Queen of Swords Podcast E18",
+      "en": "45% confessed to ghosting someone else.",
+      "cn": "45%承认也干过这事"
+    },
+    {
+      "source": "English & Beyond Podcast E74",
+      "en": "There is more than one type of ghosting, right?",
+      "cn": "消失也分好几种，对吧"
+    }
+  ]
+}
