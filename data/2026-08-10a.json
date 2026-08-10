@@ -1,0 +1,24 @@
+{
+  "phrase_en": "the ick",
+  "phrase_pron": "/ðiː ɪk/",
+  "meaning_cn": "对喜欢的人突然下头",
+  "trap_x": "字面：噫，好恶心\n实际：对喜欢的人突然反感\n好感瞬间清零",
+  "trap_check": "You give me the ick.\n字面：你让我恶心\n实际：你让我下头",
+  "examples": [
+    {
+      "source": "Olivia Attwood, Love Island (2017)",
+      "en": "He's giving me the ick.",
+      "cn": "他让我瞬间下头"
+    },
+    {
+      "source": "Leanne Amaning, Love Island 2020",
+      "en": "Now I've got the ick, everything he does annoys me.",
+      "cn": "我现在对他下头了，他干啥都烦"
+    },
+    {
+      "source": "Love Island UK S12, Toni & Ben (2026)",
+      "en": "You're giving me the ick.",
+      "cn": "你让我下头了"
+    }
+  ]
+}
