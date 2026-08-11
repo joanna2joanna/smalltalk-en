@@ -1,0 +1,19 @@
+{
+  "phrase_en": "situationship",
+  "phrase_pron": "/ˌsɪtʃuˈeɪʃənˌʃɪp/",
+  "meaning_cn": "友情以上恋爱未满",
+  "trap_x": "字面：名字带 relationship\n实际：谁都不肯给名分\n啥都算又啥都不算",
+  "trap_check": "It's a situationship.\n字面：这算关系？\n实际：谁都没名分",
+  "examples": [
+    {
+      "source": "BBC Radio Scotland《Situationships》",
+      "en": "It's a Situationship.",
+      "cn": "这就是一段没名分的关系"
+    },
+    {
+      "source": "Threads @amybcarrington (2024)",
+      "en": "one month no contact with my situationship",
+      "cn": "跟这段说不清的关系断联一个月了"
+    }
+  ]
+}
