@@ -2,8 +2,8 @@
   "phrase_en": "the ick",
   "phrase_pron": "/ðiː ɪk/",
   "meaning_cn": "对喜欢的人突然下头",
-  "trap_x": "字面：噫，好恶心\n实际：对喜欢的人突然反感\n好感瞬间清零",
-  "trap_check": "You give me the ick.\n字面：你让我恶心\n实际：你让我下头",
+  "trap_x": "字面意思：噫，好恶心",
+  "trap_check": "真正意思：明明喜欢，却突然反感",
   "examples": [
     {
       "source": "Olivia Attwood, Love Island (2017)",

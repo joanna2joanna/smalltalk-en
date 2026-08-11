@@ -2,8 +2,8 @@
   "phrase_en": "ghosting",
   "phrase_pron": "/ˈɡoʊstɪŋ/",
   "meaning_cn": "突然消失不回消息",
-  "trap_x": "字面：闹鬼，变幽灵\n实际：突然消失不解释\n真·人间蒸发",
-  "trap_check": "He's ghosting you.\n字面：他在闹鬼？\n实际：他压根不回你",
+  "trap_x": "字面意思：闹鬼，变幽灵",
+  "trap_check": "真正意思：突然消失，不解释",
   "examples": [
     {
       "source": "Queen of Swords Podcast E18",

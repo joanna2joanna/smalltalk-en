@@ -2,8 +2,8 @@
   "phrase_en": "dead to me",
   "phrase_pron": "/ˈdɛd tə mi/",
   "meaning_cn": "彻底绝交、一刀两断",
-  "trap_x": "字面：对方死了\n实际：绝交宣言，关系判死刑\n不是生死，是情断",
-  "trap_check": "You're dead to me.\n字面：你人没了？\n实际：咱俩完了，断交",
+  "trap_x": "字面意思：你死了",
+  "trap_check": "真正意思：咱俩完了，断交",
   "examples": [
     {
       "source": "Marvel's Daredevil S02E12 (Karen)",

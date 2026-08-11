@@ -2,8 +2,8 @@
   "phrase_en": "Not gonna lie",
   "phrase_pron": "/ˌnɑt ˈɡʌnə laɪ/",
   "meaning_cn": "老实说，讲真话",
-  "trap_x": "字面是\"我不撒谎\"\n实际是\"讲真\"，重点在后句",
-  "trap_check": "夸人时说 Not gonna lie\n对方反问：你以前骗过我？\n你在暗示以前骗过",
+  "trap_x": "字面意思：我不撒谎",
+  "trap_check": "真正意思：讲真，重点在后句",
   "examples": [
     {
       "source": "BBC The English We Speak 专集",

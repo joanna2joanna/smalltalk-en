@@ -2,8 +2,8 @@
   "phrase_en": "situationship",
   "phrase_pron": "/ˌsɪtʃuˈeɪʃənˌʃɪp/",
   "meaning_cn": "友情以上恋爱未满",
-  "trap_x": "字面：名字带 relationship\n实际：谁都不肯给名分\n啥都算又啥都不算",
-  "trap_check": "It's a situationship.\n字面：这算关系？\n实际：谁都没名分",
+  "trap_x": "字面意思：带 relationship 的关系",
+  "trap_check": "真正意思：比朋友近，比恋人远",
   "examples": [
     {
       "source": "BBC Radio Scotland《Situationships》",
