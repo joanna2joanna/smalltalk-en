@@ -1,0 +1,24 @@
+{
+  "phrase_en": "yapping",
+  "phrase_pron": "/ˈjæpɪŋ/",
+  "meaning_cn": "废话连篇，唠叨个没完",
+  "trap_x": "字面意思：小狗汪汪叫",
+  "trap_check": "真正意思：人絮叨个没完",
+  "examples": [
+    {
+      "source": "BBC《The English We Speak: Yap》2026.4",
+      "en": "Stop yapping!",
+      "cn": "别絮叨了！"
+    },
+    {
+      "source": "BBC《The English We Speak: Yap》2026.4",
+      "en": "What are you yapping about?",
+      "cn": "你在这絮叨啥呢？"
+    },
+    {
+      "source": "纽约巨人队新闻官 Hanlon 发帖 (2025)",
+      "en": "With all due respect, stop yapping.",
+      "cn": "冒昧说一句，别废话了"
+    }
+  ]
+}
