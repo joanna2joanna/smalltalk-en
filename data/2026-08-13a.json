@@ -1,0 +1,24 @@
+{
+  "phrase_en": "under the weather",
+  "phrase_pron": "/ˈʌndə ðə ˈweðə/",
+  "meaning_cn": "身体不舒服，没精神",
+  "trap_x": "字面意思：在天气底下",
+  "trap_check": "真正意思：人有点蔫，不舒服",
+  "examples": [
+    {
+      "source": "The Office S02E17 台词",
+      "en": "I am just feeling under the weather.",
+      "cn": "我就是有点不舒服"
+    },
+    {
+      "source": "Modern Family 台词",
+      "en": "I'm feeling a little under the weather.",
+      "cn": "我最近有点不舒服"
+    },
+    {
+      "source": "《曼哈顿》S1 台词",
+      "en": "I'm feeling a bit under the weather.",
+      "cn": "我有点不在状态"
+    }
+  ]
+}
