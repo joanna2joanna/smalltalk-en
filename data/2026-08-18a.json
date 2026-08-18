@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Dig in!",
+  "phrase_pron": "/dɪg ɪn/",
+  "meaning_cn": "开吃吧！放开吃",
+  "trap_x": "字面意思：拿刀叉往食物里挖",
+  "trap_check": "真正意思：开吃吧，\n劝大家动筷子放开吃",
+  "examples": [
+    {
+      "source": "《小鬼当家2》台词",
+      "en": "Everyone, let's dig in!",
+      "cn": "大家开吃吧！"
+    },
+    {
+      "source": "Collins 词典例句",
+      "en": "Pull up a chair and dig in!",
+      "cn": "搬把椅子，开吃吧！"
+    },
+    {
+      "source": "WordReference 例句",
+      "en": "Don't wait, just dig in",
+      "cn": "别等了，直接开吃"
+    }
+  ]
+}
