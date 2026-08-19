@@ -1,0 +1,24 @@
+{
+  "phrase_en": "cheesy",
+  "phrase_pron": "/ˈtʃiː.zi/",
+  "meaning_cn": "肉麻、俗气、刻意煽情",
+  "trap_x": "字面意思：奶酪味的",
+  "trap_check": "真正意思：嫌它刻意煽情，\n肉麻又做作",
+  "examples": [
+    {
+      "source": "Camila Morrone 上 Jimmy Fallon 秀 2026",
+      "en": "You're so cheesy",
+      "cn": "你太肉麻了"
+    },
+    {
+      "source": "Cambridge 词典例句",
+      "en": "Is it going to be too cheesy?",
+      "cn": "会不会太肉麻了？"
+    },
+    {
+      "source": "Collins 语料库例句",
+      "en": "I have a great love of a good cheesy pop song.",
+      "cn": "我就爱听俗气的口水歌"
+    }
+  ]
+}
