@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Call it a day",
+  "phrase_pron": "/kɔːl ɪt ə deɪ/",
+  "meaning_cn": "收工/今天到此为止",
+  "trap_x": "字面意思：管它叫一天",
+  "trap_check": "真正意思：今天到此为止，\n收工",
+  "examples": [
+    {
+      "source": "Troppo S1E6",
+      "en": "I'm tired. Let's call it a day.",
+      "cn": "我累了，收工吧。"
+    },
+    {
+      "source": "Catch-22 S1E6",
+      "en": "Let's call it a day. Let's go our separate ways.",
+      "cn": "今天到这吧，各走各的。"
+    },
+    {
+      "source": "Frampton 采访（DAZN）",
+      "en": "This might be the time to call it a day for Chris.",
+      "cn": "也许是时候让克里斯退役了。"
+    }
+  ]
+}
