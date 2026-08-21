@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Out of pocket",
+  "phrase_pron": "/ˌaʊt əv ˈpɑːkɪt/",
+  "meaning_cn": "离谱/太出格",
+  "trap_x": "字面意思：自掏腰包/花自己的钱",
+  "trap_check": "真正意思：离谱/太出格，\n越界了",
+  "examples": [
+    {
+      "source": "BlueSky @viperpitsfilly 2025.03",
+      "en": "You said something so out of pocket.",
+      "cn": "你说的话也太离谱了。"
+    },
+    {
+      "source": "Reddit @shaybaby_666 2024.10",
+      "en": "Dean was out of pocket for yelling at Luke.",
+      "cn": "Dean 冲 Luke 喊叫，太出格了。"
+    },
+    {
+      "source": "体育论坛球迷原话 2025",
+      "en": "That ref call was so outta pocket, bro.",
+      "cn": "裁判这判罚也太没边了吧。"
+    }
+  ]
+}
