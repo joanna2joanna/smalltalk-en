@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Over the moon",
+  "phrase_pron": "/ˌoʊvər ðə ˈmuːn/",
+  "meaning_cn": "高兴坏了·欣喜若狂",
+  "trap_x": "字面意思：在月亮上方，\n人飞到月亮上去",
+  "trap_check": "真正意思：高兴坏了，\n开心到飞起",
+  "examples": [
+    {
+      "source": "BBC Sport 2026.05",
+      "en": "\"I'm over the moon,\" Jones told BBC Sport.",
+      "cn": "我高兴坏了。"
+    },
+    {
+      "source": "People 2026.01 名人原话",
+      "en": "We're over the moon that our baby boy is here.",
+      "cn": "我们的儿子来了，高兴坏了。"
+    },
+    {
+      "source": "Meghan Trainor 2026.01",
+      "en": "We're over the moon in love with this precious girl.",
+      "cn": "我们爱惨了这个宝贝姑娘。"
+    }
+  ]
+}
