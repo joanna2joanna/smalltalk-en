@@ -1,0 +1,24 @@
+{
+  "phrase_en": "It's a steal",
+  "phrase_pron": "/ɪts ə stiːl/",
+  "meaning_cn": "太划算了·便宜到像白捡",
+  "trap_x": "字面意思：这是偷来的东西，\n有人在偷东西",
+  "trap_check": "真正意思：便宜得离谱，\n买到就是赚到",
+  "examples": [
+    {
+      "source": "BBC Learning English《The English We Speak》",
+      "en": "At £100 cheaper than the original price it's a steal",
+      "cn": "比原价便宜100英镑，捡到宝了。"
+    },
+    {
+      "source": "TheFreeDictionary·a steal 词条",
+      "en": "This suit is a steal at $80.",
+      "cn": "这套西装才80美元，太值了。"
+    },
+    {
+      "source": "Reverso 词典例句",
+      "en": "This phone for $50? It's a steal!",
+      "cn": "这手机50美元？太值了！"
+    }
+  ]
+}
