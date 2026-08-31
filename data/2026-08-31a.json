@@ -1,0 +1,24 @@
+{
+  "phrase_en": "bear with me",
+  "phrase_pron": "/ˌbɛr wɪð ˈmiː/",
+  "meaning_cn": "请耐心听我说",
+  "trap_x": "字面意思：熊跟我待着，\n一只熊陪着我",
+  "trap_check": "真正意思：请耐心听我说，\n比闲聊正式一档",
+  "examples": [
+    {
+      "source": "The Tedcast 播客",
+      "en": "bear with me, this email is going to be long-winded",
+      "cn": "稍等，这封邮件有点长"
+    },
+    {
+      "source": "dictionary.com 例句 2025",
+      "en": "We may be a little rusty, so bear with us",
+      "cn": "我们有点手生，见谅"
+    },
+    {
+      "source": "Lloyds 2026 技术故障声明",
+      "en": "bear with them while a technical issue was fixed",
+      "cn": "等他们修好技术故障"
+    }
+  ]
+}
