@@ -1,0 +1,24 @@
+{
+  "phrase_en": "lock in",
+  "phrase_pron": "/ˌlɑːk ˈɪn/",
+  "meaning_cn": "收心专注·排除杂念开干",
+  "trap_x": "字面意思：把自己锁起来，\n关屋里不出来了",
+  "trap_check": "真正意思：别分心，进入状态，\n一门心思把手头事干好",
+  "examples": [
+    {
+      "source": "BBC Learning English《Lock in》播客 2026",
+      "en": "I really had to lock in last night.",
+      "cn": "我昨晚真是拼了，专注复习"
+    },
+    {
+      "source": "LeBron James 2020 总决赛采访",
+      "en": "Until the series is completed, I stay locked in.",
+      "cn": "系列赛没打完前，我一直全神贯注"
+    },
+    {
+      "source": "BBC Learning English 听众例句 2026",
+      "en": "I just need to lock in and get some stuff done.",
+      "cn": "我就得进入状态，把手头事干完"
+    }
+  ]
+}
