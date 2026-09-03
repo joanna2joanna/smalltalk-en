@@ -1,0 +1,24 @@
+{
+  "phrase_en": "crash",
+  "phrase_pron": "/kræʃ/",
+  "meaning_cn": "借住一晚·累瘫倒头就睡",
+  "trap_x": "字面意思：撞车、\n哐当一声撞得稀碎",
+  "trap_check": "真正意思：借住一晚、\n或累坏了倒头就睡",
+  "examples": [
+    {
+      "source": "HiNative 用户提问",
+      "en": "Do you mind if I crash at your place tonight?",
+      "cn": "介意我去你那借住一晚吗？"
+    },
+    {
+      "source": "The Free Dictionary 例句",
+      "en": "I just crashed at Ben's place.",
+      "cn": "末班车没了，我在Ben家凑合了一晚"
+    },
+    {
+      "source": "Lingoland 词典例句",
+      "en": "After a long day, I just crashed on the sofa.",
+      "cn": "忙了一整天，累得在沙发上一头睡死"
+    }
+  ]
+}
