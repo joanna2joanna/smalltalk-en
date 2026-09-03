@@ -1,0 +1,24 @@
+{
+  "phrase_en": "no-brainer",
+  "phrase_pron": "/ˌnoʊ ˈbreɪnər/",
+  "meaning_cn": "显而易见的决定·想都不用想",
+  "trap_x": "字面意思：没脑子的事，\n听起来像在骂人蠢",
+  "trap_check": "真正意思：显而易见的决定，\n想都不用想就知道对",
+  "examples": [
+    {
+      "source": "Frimpong 2025-05 利物浦签约采访",
+      "en": "Obviously for me it was a no-brainer.",
+      "cn": "这决定显然想都不用想"
+    },
+    {
+      "source": "BBC Sport 2026-08 曼城新援专访",
+      "en": "It was a no-brainer when City call.",
+      "cn": "曼城一招手，想都不用想"
+    },
+    {
+      "source": "Piastri 2025-03 麦克拉伦续约采访",
+      "en": "For me, it seems like a no-brainer.",
+      "cn": "对我来说，这是不用想的决定"
+    }
+  ]
+}
