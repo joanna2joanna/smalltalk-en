@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Run it back!",
+  "phrase_pron": "/rʌn ɪt bæk/",
+  "meaning_cn": "再来一次/把刚才那遍再放一遍",
+  "trap_x": "字面意思：把它跑回去\n（像在指挥跑步动作）",
+  "trap_check": "真正意思：再来一次！\n体育里＝原班人马再打一场",
+  "examples": [
+    {
+      "source": "Sabrina Ionescu 纽约自由人挂旗仪式 2025-05",
+      "en": "We gotta run it back.",
+      "cn": "原班人马，再来一年！"
+    },
+    {
+      "source": "Merab Dvalishvili UFC323八角笼采访 2025-12",
+      "en": "I want a rematch. I want to run it back.",
+      "cn": "我想要复赛，把这场再打一遍。"
+    },
+    {
+      "source": "Magomed Ankalaev 社交喊话 Pereira 2025-03",
+      "en": "Let's run it back anytime you want.",
+      "cn": "你想约就约，随时再干一场。"
+    }
+  ]
+}
