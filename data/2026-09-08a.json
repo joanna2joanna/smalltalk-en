@@ -1,0 +1,19 @@
+{
+  "phrase_en": "out of left field",
+  "phrase_pron": "/aʊt əv ˌleft ˈfiːld/",
+  "meaning_cn": "毫无预兆·突然冒出",
+  "trap_x": "字面意思：球从棒球左外野\n飞过来（在聊球场走位？）",
+  "trap_check": "真正意思：毫无预兆突然冒出，\n比如聊着预算CEO宣布退休",
+  "examples": [
+    {
+      "source": "2026-02 早餐英语播客例句",
+      "en": "That came out of left field.",
+      "cn": "这消息来得毫无预兆"
+    },
+    {
+      "source": "2026-02 早餐英语播客·母语原声",
+      "en": "…it was so insane and out of left field.",
+      "cn": "（那事）离谱得毫无来由"
+    }
+  ]
+}
