@@ -1,0 +1,24 @@
+{
+  "phrase_en": "show up",
+  "phrase_pron": "/ʃoʊ ˈʌp/",
+  "meaning_cn": "人到场，说好就不缺席",
+  "trap_x": "字面意思：显示出来，\n像消息弹出来、东西浮现",
+  "trap_check": "真正意思：人到场，\n说好就来、关键时刻也在",
+  "examples": [
+    {
+      "source": "2025-07《Vogue》Anne Hathaway 谈《Mother Mary》",
+      "en": "…showing up every day knowing you're going to suck.",
+      "cn": "每天到场，明知会搞砸也来"
+    },
+    {
+      "source": "Cambridge Dictionary 例句",
+      "en": "He finally showed up, three hours late.",
+      "cn": "他终于来了，晚了三个小时"
+    },
+    {
+      "source": "Collins English Dictionary 例句",
+      "en": "She showed up for me when I needed a friend.",
+      "cn": "我需要朋友时，她一直挺我"
+    }
+  ]
+}
