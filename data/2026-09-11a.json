@@ -1,0 +1,24 @@
+{
+  "phrase_en": "cooked",
+  "phrase_pron": "/kʊkt/ 单音节，尾音 t 轻轻收住",
+  "meaning_cn": "完蛋了·彻底没救了",
+  "trap_x": "字面意思：被煮熟了，像在说一道菜",
+  "trap_check": "真正意思：完蛋了、没救了。跟做饭没关系",
+  "examples": [
+    {
+      "source": "Merriam-Webster 词典例句",
+      "en": "My phone is cooked.",
+      "cn": "我手机彻底废了"
+    },
+    {
+      "source": "Michigan Daily〈Chat, are we cooked?〉2025",
+      "en": "We're cooked. We're so cooked.",
+      "cn": "完了，彻底完了"
+    },
+    {
+      "source": "Mental Floss 2025 俚语词表",
+      "en": "You're cooked, bruh!",
+      "cn": "兄弟，你完蛋了"
+    }
+  ]
+}
