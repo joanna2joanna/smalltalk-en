@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Cabin fever",
+  "phrase_pron": "/ˈkæbɪn ˌfiːvər/ 重音在 cabin，fever 轻收",
+  "meaning_cn": "困在屋里太久·闷得想冲出去",
+  "trap_x": "字面意思：小木屋里的发烧",
+  "trap_check": "真正意思：不是发烧，是关在屋里太久憋得慌",
+  "examples": [
+    {
+      "source": "BBC·Tan Hill Inn 2025-01",
+      "en": "I think a lot of them had cabin fever.",
+      "cn": "我看他们大半已经憋疯了"
+    },
+    {
+      "source": "Muppet Treasure Island 1996〈Cabin Fever〉",
+      "en": "I got cabin fever, it's burning in my brain.",
+      "cn": "我得了木屋热，烧得脑子发烫"
+    },
+    {
+      "source": "Fox 13 Memphis 2026-01",
+      "en": "Cabin fever is very real.",
+      "cn": "闷在屋里太久，真会难受"
+    }
+  ]
+}
