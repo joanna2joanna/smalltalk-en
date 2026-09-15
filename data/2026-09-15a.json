@@ -3,7 +3,7 @@
   "phrase_pron": "/ˈɡæslaɪtɪŋ/ 重音在 gas",
   "meaning_cn": "精神操控，让你怀疑自己",
   "trap_x": "字面意思：煤气灯",
-  "trap_check": "真正意思：精神操控，让你怀疑自己的记忆和判断",
+  "trap_check": "真正意思：精神操控，让你怀疑自己\n源自1944年电影《煤气灯下》，丈夫调灯又否认",
   "examples": [
     {
       "source": "NME·Billie Eilish 2023",
@@ -12,8 +12,8 @@
     },
     {
       "source": "Married at First Sight 2023",
-      "en": "You're gaslighting me.",
-      "cn": "你在操控我"
+      "en": "You're gaslighting me. Textbook gaslighting.",
+      "cn": "你在操控我，教科书式的"
     },
     {
       "source": "Drama Queens 播客·Hilarie Burton",
