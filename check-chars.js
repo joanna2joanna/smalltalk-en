@@ -27,7 +27,7 @@ const limits = {
   phrase_pron: 45,
   meaning_cn: 18,
   trap_x: 40,
-  trap_check: 40,
+  trap_check: 60,
 };
 
 const exLimits = { source: 45, en: 52, cn: 22 };
