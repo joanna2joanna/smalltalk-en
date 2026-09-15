@@ -170,3 +170,4 @@ lock in
 crash
 no-brainer
 Cabin fever
+gaslighting
