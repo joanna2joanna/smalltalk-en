@@ -1,0 +1,24 @@
+{
+  "phrase_en": "gaslighting",
+  "phrase_pron": "/ˈɡæslaɪtɪŋ/ 重音在 gas",
+  "meaning_cn": "精神操控，让你怀疑自己",
+  "trap_x": "字面意思：煤气灯",
+  "trap_check": "真正意思：精神操控，让你怀疑自己的记忆和判断",
+  "examples": [
+    {
+      "source": "NME·Billie Eilish 2023",
+      "en": "I feel like my body was gaslighting me for years.",
+      "cn": "我的身体骗了我好多年"
+    },
+    {
+      "source": "Married at First Sight 2023",
+      "en": "You're gaslighting me.",
+      "cn": "你在操控我"
+    },
+    {
+      "source": "Drama Queens 播客·Hilarie Burton",
+      "en": "He was completely gaslighting me.",
+      "cn": "他彻底在操控我"
+    }
+  ]
+}
