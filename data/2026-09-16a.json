@@ -1,0 +1,24 @@
+{
+  "phrase_en": "whatchamacallit",
+  "phrase_pron": "/ˈwɒtʃəməˌkɔːlɪt/ 重音在 whatch，call 次重",
+  "meaning_cn": "那个叫什么来着的玩意儿",
+  "trap_x": "字面意思：随你怎么叫它（what you may call it）",
+  "trap_check": "真正意思：不是让你起名，是我忘了这玩意儿叫啥",
+  "examples": [
+    {
+      "source": "McGraw-Hill 美国俚语词典",
+      "en": "I lost my—you know—my whatchamacallit—my watch!",
+      "cn": "我把那个叫什么来着的手表弄丢了"
+    },
+    {
+      "source": "Ella Mai〈Whatchamacallit〉2018",
+      "en": "It ain't cheating, it's a whatchamacallit.",
+      "cn": "这不叫出轨，这叫那个啥"
+    },
+    {
+      "source": "The People Next Door 话剧 1969",
+      "en": "You must be the whatchamacallit, huh?",
+      "cn": "你就是那个谁，对吧？"
+    }
+  ]
+}
