@@ -1,0 +1,24 @@
+{
+  "phrase_en": "you-know-what",
+  "phrase_pron": "/juː nəʊ wɒt/ 重音在 know",
+  "meaning_cn": "那个不便明说的事（你懂的）",
+  "trap_x": "字面意思：你知道吗（当成起头语）",
+  "trap_check": "真正意思：不是问你知不知道，是不想直说那件事",
+  "examples": [
+    {
+      "source": "美众议员MTG·CNN采访 2025-11",
+      "en": "It's basically a you-know-what measuring contest.",
+      "cn": "说白了就是场比谁厉害的较劲"
+    },
+    {
+      "source": "Merriam-Webster 词典例句",
+      "en": "This year, however, it's all gone to you-know-what.",
+      "cn": "不过今年算是全搞砸了"
+    },
+    {
+      "source": "Bloodhound Gang〈Foxtrot Uniform Charlie Kilo〉",
+      "en": "Put the you-know-what in the you-know-where.",
+      "cn": "把「那啥」放进「那地方」"
+    }
+  ]
+}
