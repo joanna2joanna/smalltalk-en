@@ -1,0 +1,24 @@
+{
+  "phrase_en": "circle back",
+  "phrase_pron": "/ˈsɜːrkl bæk/",
+  "meaning_cn": "回头再谈、稍后再跟进",
+  "trap_x": "字面意思：绕个圈再回来",
+  "trap_check": "真正意思：回头再谈、稍后跟进",
+  "examples": [
+    {
+      "source": "白宫发言人 Psaki 记者会 2021",
+      "en": "I'm happy to circle back with you.",
+      "cn": "我很乐意回头再跟你细说"
+    },
+    {
+      "source": "Business Weekly 例句",
+      "en": "I'll circle back with you once I have an update.",
+      "cn": "一有进展我就回来跟你同步"
+    },
+    {
+      "source": "Glassdoor 求职者引述",
+      "en": "We'll circle back soon.",
+      "cn": "我们很快会再联系你"
+    }
+  ]
+}
