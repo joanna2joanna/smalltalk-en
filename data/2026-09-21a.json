@@ -1,0 +1,24 @@
+{
+  "phrase_en": "touch base",
+  "phrase_pron": "/tʌtʃ beɪs/",
+  "meaning_cn": "碰个面、简短同步一下",
+  "trap_x": "字面意思：碰触棒球垒包",
+  "trap_check": "真正意思：碰面、简短同步进度",
+  "examples": [
+    {
+      "source": "红人队总裁 Krall 2026",
+      "en": "We've touched base with just about every team.",
+      "cn": "我们差不多跟每支队都碰过了"
+    },
+    {
+      "source": "The Free Dictionary 例句",
+      "en": "I touched base with John on this matter.",
+      "cn": "就这事我跟 John 碰过了"
+    },
+    {
+      "source": "Ludwig 语料例句",
+      "en": "Let's touch base next week to see where we are.",
+      "cn": "下周碰一下，看看进展到哪了"
+    }
+  ]
+}
