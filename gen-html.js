@@ -64,7 +64,9 @@ process.stdin.on('end', () => {
   // Default 120px; >15 chars → 105px (long); >22 chars → 90px (vlong)
   const phrase = data.phrase_en || '';
   let phraseHtml = phrase;
-  if (phrase.length > 22) {
+  if (data.phrase_size === 'long') {
+    phraseHtml = `<div class="phrase-en long-phrase">${phrase}</div>`;
+  } else if (phrase.length > 22) {
     phraseHtml = `<div class="phrase-en vlong-phrase">${phrase}</div>`;
   } else if (phrase.length > 15) {
     phraseHtml = `<div class="phrase-en long-phrase">${phrase}</div>`;
