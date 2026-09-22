@@ -1,0 +1,24 @@
+{
+  "phrase_en": "move the needle",
+  "phrase_pron": "/muːv ðə ˈniːdl/",
+  "meaning_cn": "带来实质进展、真见效",
+  "trap_x": "字面意思：拨动指针",
+  "trap_check": "真正意思：带来实质进展、见效（职场正式场合·非闲聊）",
+  "examples": [
+    {
+      "source": "CoreWeave CEO Intrator 财报会",
+      "en": "They will move the needle.",
+      "cn": "这些会带来实质影响"
+    },
+    {
+      "source": "Okta CEO McKinnon 财报会",
+      "en": "It's not really moving that needle yet.",
+      "cn": "这还没真正带来实质变化"
+    },
+    {
+      "source": "Palo Alto CEO Arora（CNBC）",
+      "en": "Those concerns have already moved the needle.",
+      "cn": "那些担忧已经带来实质影响了"
+    }
+  ]
+}
