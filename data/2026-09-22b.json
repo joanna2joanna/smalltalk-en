@@ -1,0 +1,24 @@
+{
+  "phrase_en": "loop in",
+  "phrase_pron": "/luːp ɪn/",
+  "meaning_cn": "把人拉进对话、同步信息",
+  "trap_x": "字面意思：圈进来",
+  "trap_check": "真正意思：把人拉进来、同步信息（职场正式场合·非闲聊）",
+  "examples": [
+    {
+      "source": "职场邮件例句",
+      "en": "I'll loop you in once I hear back from legal.",
+      "cn": "法务一回复我就同步给你"
+    },
+    {
+      "source": "FluentAtDesk 例句",
+      "en": "Can you loop me in on the client discussion?",
+      "cn": "客户讨论能把我拉进来吗"
+    },
+    {
+      "source": "教学例句",
+      "en": "I wasn't looped in on that decision.",
+      "cn": "那个决定没人同步给我"
+    }
+  ]
+}
