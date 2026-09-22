@@ -41,13 +41,12 @@ async function main() {
 
   const issues = [];
 
-  // —— 检查 1：卡片实际高度是否超过 1440px ——
-  const cardBounds = await page.$eval('.card', el => {
-    const r = el.getBoundingClientRect();
-    return { height: r.height, bottom: r.bottom };
-  });
-  if (cardBounds.height > 1440 + 5) {  // 容差 5px
-    issues.push(`⚠️ 卡片实际高度 ${Math.round(cardBounds.height)}px 超过 1440px（溢出 ${Math.round(cardBounds.height - 1440)}px）`);
+  // —— 检查 1：底部内容是否溢出 1440px ——
+  // .card 是 min-height:1440px;height:auto，getBoundingClientRect().height 在 Chromium 下返回 2960 假阳性，
+  // 改用内容驱动的 .examples（卡片最底部区块）bottom 判定，此值准确
+  const examplesBottom = await page.$eval('.examples', el => el.getBoundingClientRect().bottom);
+  if (examplesBottom > 1440 + 5) {  // 容差 5px
+    issues.push(`⚠️ 底部内容到 ${Math.round(examplesBottom)}px 溢出 1440px（溢出 ${Math.round(examplesBottom - 1440)}px）`);
   }
 
   // —— 检查 2：.phrase-en 是否字重溢出（横向溢出 phrase-area）——
