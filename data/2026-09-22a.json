@@ -1,0 +1,24 @@
+{
+  "phrase_en": "take it offline",
+  "phrase_pron": "/teɪk ɪt ˌɔfˈlaɪn/",
+  "meaning_cn": "会后私下聊、不占大家时间",
+  "trap_x": "字面意思：把它断网、下线",
+  "trap_check": "真正意思：会后私下单独谈",
+  "examples": [
+    {
+      "source": "职场会议黑话例句",
+      "en": "Let's take this offline.",
+      "cn": "这事我们私下再聊"
+    },
+    {
+      "source": "FluentAtDesk 例句",
+      "en": "That's a good point, but let's take it offline.",
+      "cn": "说得对，但这个我们回头单独谈"
+    },
+    {
+      "source": "Speak 教学例句",
+      "en": "Why don't we take this offline?",
+      "cn": "要不这个我们私下聊"
+    }
+  ]
+}
