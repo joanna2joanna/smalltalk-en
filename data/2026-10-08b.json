@@ -1,0 +1,24 @@
+{
+  "phrase_en": "the GOAT",
+  "phrase_pron": "/ðə ɡoʊt/",
+  "meaning_cn": "史上最强、历史最佳",
+  "trap_x": "字面意思：那只山羊",
+  "trap_check": "真正意思：史上最强（Greatest Of All Time）",
+  "examples": [
+    {
+      "source": "Toto Wolff（F1 领队，2025）",
+      "en": "He's the GOAT and he will always be the GOAT.",
+      "cn": "他是历史最佳，永远都是"
+    },
+    {
+      "source": "Nick Khan（WWE 总裁，2025）",
+      "en": "When you talk about the GOAT, that's GOAT mentality.",
+      "cn": "说到历史最佳，就是 GOAT 的心态"
+    },
+    {
+      "source": "Benzema 采访（2025-02）",
+      "en": "Cristiano said he is the GOAT?",
+      "cn": "C罗说他是历史最佳？"
+    }
+  ]
+}
