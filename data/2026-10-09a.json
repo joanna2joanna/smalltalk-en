@@ -1,0 +1,24 @@
+{
+  "phrase_en": "deep dive",
+  "phrase_pron": "/ˌdiːp ˈdaɪv/",
+  "meaning_cn": "深入分析、仔细研究",
+  "trap_x": "字面意思：真的深潜下水",
+  "trap_check": "真正意思：深入分析、仔细研究\n口语、职场常见，名词动词都能用",
+  "examples": [
+    {
+      "source": "Forbes（2025-09）",
+      "en": "Here's a deep dive into the data.",
+      "cn": "这组数据，仔细扒一遍"
+    },
+    {
+      "source": "Billboard（2026-01）",
+      "en": "Time to get moving on a deep dive, people.",
+      "cn": "各位，该好好深挖了"
+    },
+    {
+      "source": "Vogue（2025-10）",
+      "en": "Hailey Bieber loves an archival deep dive.",
+      "cn": "她爱深挖时尚档案"
+    }
+  ]
+}
