@@ -1,0 +1,24 @@
+{
+  "phrase_en": "double down",
+  "phrase_pron": "/ˈdʌbəl daʊn/",
+  "meaning_cn": "被质疑后更坚持、加码不松口",
+  "trap_x": "字面意思：加倍下注",
+  "trap_check": "真正意思：被质疑后更坚持、加码不松口",
+  "examples": [
+    {
+      "source": "Jeff Bezos·Fortune（2025-10）",
+      "en": "If something is working, double down on it.",
+      "cn": "行得通的，就加倍投入"
+    },
+    {
+      "source": "Nancy Mace·Axios（2025-09）",
+      "en": "I'm going to double down on this.",
+      "cn": "这事我要加码、绝不收回"
+    },
+    {
+      "source": "Peter Dutton·ABC News（2025-04）",
+      "en": "You double down and I think that is important.",
+      "cn": "你选择加码坚持，这很重要"
+    }
+  ]
+}
