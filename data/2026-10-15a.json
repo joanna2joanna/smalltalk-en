@@ -1,0 +1,24 @@
+{
+  "phrase_en": "lore",
+  "phrase_pron": "/lɔːr/",
+  "meaning_cn": "背景故事、来龙去脉",
+  "trap_x": "字面意思：传说、民间学问",
+  "trap_check": "真正意思：背景故事、来龙去脉",
+  "examples": [
+    {
+      "source": "Ayo Edebiri·People（2025-10）",
+      "en": "My lore is crazy.",
+      "cn": "我的背景故事太离谱了"
+    },
+    {
+      "source": "Cambridge Dictionary",
+      "en": "That's part of her lore as an astronaut.",
+      "cn": "那是她当宇航员的背景故事"
+    },
+    {
+      "source": "Hofstra Chronicle（2026）",
+      "en": "Taylor Swift's lore is bigger than her music.",
+      "cn": "她的背景故事比音乐本身还大"
+    }
+  ]
+}
