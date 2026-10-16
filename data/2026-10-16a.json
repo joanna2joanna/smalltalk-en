@@ -1,0 +1,24 @@
+{
+  "phrase_en": "let him cook",
+  "phrase_pron": "/let hɪm kʊk/",
+  "meaning_cn": "别打断、让他放手发挥",
+  "trap_x": "字面意思：让他下厨做饭",
+  "trap_check": "真正意思：别打断、让他放手发挥",
+  "examples": [
+    {
+      "source": "CBS Sports（2025-11）",
+      "en": "Let him cook, let him play.",
+      "cn": "让他发挥，让他放开踢"
+    },
+    {
+      "source": "ESPN（2025-07）",
+      "en": "Let her cook. In the words of GloRilla.",
+      "cn": "让她发挥，GloRilla 原话"
+    },
+    {
+      "source": "Collins（2025-07）",
+      "en": "Let him cook, he's already a pro at this game!",
+      "cn": "让他发挥，这游戏他早就是高手"
+    }
+  ]
+}
