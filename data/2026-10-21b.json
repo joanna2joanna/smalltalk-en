@@ -1,0 +1,24 @@
+{
+  "phrase_en": "gatekeep",
+  "phrase_pron": "/ˈɡeɪtkiːp/ 美音，重读 gate",
+  "meaning_cn": "藏着掖着，好东西不分享",
+  "trap_x": "字面意思：守大门、把入口看住",
+  "trap_check": "真正意思：知道好东西却不说，自己藏着",
+  "examples": [
+    {
+      "source": "Tyler, The Creator，The Cut（2025-06）",
+      "en": "Love gatekeeping.",
+      "cn": "我就爱把好东西藏着"
+    },
+    {
+      "source": "BBC Learning English（2026-05）",
+      "en": "Don't gatekeep.",
+      "cn": "别藏着掖着，说出来"
+    },
+    {
+      "source": "Daily Tar Heel 专栏标题",
+      "en": "Stop gatekeeping. Spread the wealth.",
+      "cn": "别再藏着，分享出来"
+    }
+  ]
+}
