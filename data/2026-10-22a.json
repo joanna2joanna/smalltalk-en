@@ -1,0 +1,24 @@
+{
+  "phrase_en": "salty",
+  "phrase_pron": "/ˈsɔːlti/",
+  "meaning_cn": "输了不服气，酸溜溜",
+  "trap_x": "字面意思：咸的、盐放多了",
+  "trap_check": "真正意思：输了不服气，酸溜溜地抱怨",
+  "examples": [
+    {
+      "source": "Stephen A. Smith，ESPN（2026-01）",
+      "en": "I don't blame you for feeling salty.",
+      "cn": "你会觉得酸，我不怪你"
+    },
+    {
+      "source": "Andrew Whitworth，Fitz & Whit 播客（2026）",
+      "en": "I'm still salty about it.",
+      "cn": "这事我到现在还咽不下"
+    },
+    {
+      "source": "Ritz 超级碗广告 · Aubrey Plaza（2025-02）",
+      "en": "I'm the saltiest.",
+      "cn": "论酸，谁也不如我"
+    }
+  ]
+}
