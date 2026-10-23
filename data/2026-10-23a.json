@@ -1,0 +1,24 @@
+{
+  "phrase_en": "receipts",
+  "phrase_pron": "/rɪˈsiːts/ 美音，重读第二音节",
+  "meaning_cn": "实锤、拿得出手的证据",
+  "trap_x": "字面意思：买东西的小票、收据",
+  "trap_check": "真正意思：能证明某事的证据，截图、聊天记录都算",
+  "examples": [
+    {
+      "source": "Whitney Houston，Diane Sawyer 专访（2002）",
+      "en": "I wanna see the receipts.",
+      "cn": "我要看实锤"
+    },
+    {
+      "source": "Myleene Klass，Instagram 发文（2025-07）",
+      "en": "I have receipts.",
+      "cn": "我手里有证据"
+    },
+    {
+      "source": "Jared Isaacman，NASA 局长，X（2026-10-07）",
+      "en": "I quite literally have the receipts.",
+      "cn": "我确确实实有证据"
+    }
+  ]
+}
