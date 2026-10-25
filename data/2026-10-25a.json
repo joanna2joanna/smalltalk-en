@@ -1,0 +1,24 @@
+{
+  "phrase_en": "optics",
+  "phrase_pron": "/ˈɒptɪks/ 英音；美音 /ˈɑːptɪks/",
+  "meaning_cn": "公众观感、外在形象",
+  "trap_x": "字面意思：光学、镜片那套东西",
+  "trap_check": "真正意思：别人看着像什么，跟事情对不对无关",
+  "examples": [
+    {
+      "source": "Micheál Martin，爱尔兰时报（2019）",
+      "en": "It's all about optics, it's all about spinning.",
+      "cn": "讲的全是观感，玩的都是话术。"
+    },
+    {
+      "source": "J.J. Watt，The Pat McAfee Show（2025-12）",
+      "en": "There is a responsibility on the optics.",
+      "cn": "这是观感问题，得担着责任。"
+    },
+    {
+      "source": "The Block 报道（2025-07-08）",
+      "en": "Pump.fun's token sale has bad optics.",
+      "cn": "这次代币发售，观感很差。"
+    }
+  ]
+}
