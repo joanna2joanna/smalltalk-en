@@ -1,0 +1,24 @@
+{
+  "phrase_en": "clap back",
+  "phrase_pron": "/klæp bæk/ 英音美音相同",
+  "meaning_cn": "被指责后犀利回怼",
+  "trap_x": "字面意思：在后面鼓掌",
+  "trap_check": "真正意思：被人指责后，一句怼回去，还怼得漂亮",
+  "examples": [
+    {
+      "source": "Tiffany Stratton，Babyfaces 播客（2025）",
+      "en": "I don't think she expected me to, almost clap back.",
+      "cn": "她大概没想到我敢顶她，差点就当场开怼。"
+    },
+    {
+      "source": "HiphopMecca 报道（2026-01）",
+      "en": "GloRilla claps back at critics over a mirror selfie.",
+      "cn": "GloRilla 晒自拍被喷，直接开怼。"
+    },
+    {
+      "source": "Meghan Trainor，ET 采访（2025-11）",
+      "en": "Meghan Trainor claps back at weight-loss criticism.",
+      "cn": "有人说她瘦太多了，她当场回怼。"
+    }
+  ]
+}
