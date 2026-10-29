@@ -1,0 +1,24 @@
+{
+  "phrase_en": "in hot water",
+  "phrase_pron": "/ɪn hɒt ˈwɔːtə/ 英音；美音 /ɪn hɑːt ˈwɔːtər/",
+  "meaning_cn": "惹上麻烦，正在挨批",
+  "trap_x": "字面意思：泡在热水里",
+  "trap_check": "真正意思：闯了祸，正被人追着问责",
+  "examples": [
+    {
+      "source": "briefed.ro 报道（2025）",
+      "en": "Clarkson is in hot water over an F1 remark.",
+      "cn": "Clarkson 调侃车手，惹上麻烦。"
+    },
+    {
+      "source": "USA Today 报道（2026-04）",
+      "en": "McDonald's CEO landed in hot water over a tiny bite.",
+      "cn": "麦当劳 CEO 咬了一小口，被骂惨了。"
+    },
+    {
+      "source": "1029 The Buzz 报道（2026-06）",
+      "en": "A principal is in hot water over a yearbook quote.",
+      "cn": "校长因年鉴上的一句引言被追责。"
+    }
+  ]
+}
