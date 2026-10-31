@@ -1,0 +1,24 @@
+{
+  "phrase_en": "in the clear",
+  "phrase_pron": "/ɪn ðə klɪə/ 英音；美音 /ɪn ðə klɪr/",
+  "meaning_cn": "洗清嫌疑，没事了",
+  "trap_x": "字面意思：待在一片清澈透明里",
+  "trap_check": "真正意思：嫌疑洗清了，不再有麻烦",
+  "examples": [
+    {
+      "source": "Nicola Sturgeon，STV News（2025-03-20）",
+      "en": "I am completely in the clear.",
+      "cn": "我彻底洗清了嫌疑。"
+    },
+    {
+      "source": "Merriam-Webster 词典例句",
+      "en": "The jury's decision was that he was in the clear.",
+      "cn": "陪审团裁定他没有嫌疑。"
+    },
+    {
+      "source": "Sky News Australia（2025）",
+      "en": "I think he's in the clear.",
+      "cn": "我认为他已经没事了。"
+    }
+  ]
+}
