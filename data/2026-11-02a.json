@@ -1,0 +1,24 @@
+{
+  "phrase_en": "take the fall",
+  "phrase_pron": "/teɪk ðə fɔːl/ 美音 /teɪk ðə fɑːl/",
+  "meaning_cn": "替人背锅、顶罪",
+  "trap_x": "字面意思：接受这次摔倒",
+  "trap_check": "真正意思：替别人背锅、顶罪",
+  "examples": [
+    {
+      "source": "Cambridge 习语词典例句",
+      "en": "Who will take the fall for the scandal?",
+      "cn": "这桩丑闻谁来背锅？"
+    },
+    {
+      "source": "Farlex Dictionary of Idioms",
+      "en": "He'll get one of his associates to take the fall.",
+      "cn": "他会找个手下替他顶罪。"
+    },
+    {
+      "source": "Thesaurus.com 例句（2025）",
+      "en": "Matthew Mott was dispensable enough to take the fall",
+      "cn": "莫特无足轻重，只能去背锅。"
+    }
+  ]
+}
