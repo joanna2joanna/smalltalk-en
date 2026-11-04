@@ -1,0 +1,24 @@
+{
+  "phrase_en": "no notes",
+  "phrase_pron": "/noʊ noʊts/ 美音 /nəʊ nəʊts/",
+  "meaning_cn": "无可挑剔、挑不出一点毛病",
+  "trap_x": "字面意思：没带笔记、没留批注",
+  "trap_check": "真正意思：完美，挑不出任何毛病",
+  "examples": [
+    {
+      "source": "BBC The English We Speak（2026-08-24）",
+      "en": "I loved it – no notes.",
+      "cn": "我太喜欢了，无可挑剔。"
+    },
+    {
+      "source": "BBC The English We Speak（2026-08-24）",
+      "en": "Wow. Your outfit is stunning. No notes.",
+      "cn": "天啊，你这身太好看了，挑不出毛病。"
+    },
+    {
+      "source": "Google 评论（爱丁堡 Pomelo 餐厅）",
+      "en": "A genuine 10/10 with absolutely no notes.",
+      "cn": "实打实十分，一点毛病没有。"
+    }
+  ]
+}
