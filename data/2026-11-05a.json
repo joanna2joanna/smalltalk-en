@@ -1,0 +1,24 @@
+{
+  "phrase_en": "that's on me",
+  "phrase_pron": "/ðæts ɒn miː/ 美音 /ðæts ɑːn miː/",
+  "meaning_cn": "这是我的责任、算我头上",
+  "trap_x": "字面意思：那个东西在我身上",
+  "trap_check": "真正意思：这事我担着、怪我",
+  "examples": [
+    {
+      "source": "休斯顿球员 Sharp 赛后（2025-11）",
+      "en": "I made a dumb mistake. That's on me.",
+      "cn": "我犯了个低级错误，算我的。"
+    },
+    {
+      "source": "雷霆主帅 Daigneault 赛后（2025-05）",
+      "en": "The fouling up 3. That's on me.",
+      "cn": "领先三分还去犯规，怪我。"
+    },
+    {
+      "source": "Theo Von 播客 #660 对谈",
+      "en": "That's on me. That's not anybody else's problem.",
+      "cn": "算我的，不关别人的事。"
+    }
+  ]
+}

@@ -171,3 +171,4 @@ crash
 no-brainer
 Cabin fever
 gaslighting
+red flag
