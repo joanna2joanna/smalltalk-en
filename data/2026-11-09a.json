@@ -1,0 +1,24 @@
+{
+  "phrase_en": "no shot",
+  "phrase_pron": "/noʊ ʃɒt/ 美音 /noʊ ʃɑːt/",
+  "meaning_cn": "不可能；想都别想",
+  "trap_x": "字面意思：没有开枪，也没投中球",
+  "trap_check": "真正意思：绝无可能，也能表示难以置信",
+  "examples": [
+    {
+      "source": "X 网友，2023（slang.fyi 收录）",
+      "en": "no shot they're charging $30 for that",
+      "cn": "这东西敢卖 30 刀？不可能吧"
+    },
+    {
+      "source": "TikTok 评论，2022（slang.fyi 收录）",
+      "en": "no shot he's actually the final boss",
+      "cn": "他不会真是最终 boss 吧？不可能"
+    },
+    {
+      "source": "Reddit 网友，2023（slang.fyi 收录）",
+      "en": "they think they're winning this? no shot",
+      "cn": "他们以为这局能赢？想都别想"
+    }
+  ]
+}
