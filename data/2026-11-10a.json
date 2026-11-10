@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Don't sweat it",
+  "phrase_pron": "/dəʊnt swet ɪt/ 美音 /doʊnt swet ɪt/",
+  "meaning_cn": "别在意，不用放心上",
+  "trap_x": "字面意思：别出汗，别冒汗",
+  "trap_check": "真正意思：别在意，这点事不算什么",
+  "examples": [
+    {
+      "source": "Health 杂志 Ducharme（2026-02-20）",
+      "en": "But if that's not realistic, don't sweat it.",
+      "cn": "但这要是不现实，也别纠结。"
+    },
+    {
+      "source": "Rolling Stone Martoccio（2026-03-07）",
+      "en": "But in all seriousness, don't sweat it.",
+      "cn": "不过说正经的，别为这焦虑。"
+    },
+    {
+      "source": "F1 车队无线电（2025-07 比利时站）",
+      "en": "Don't sweat about it, mate.",
+      "cn": "别往心里去，伙计。"
+    }
+  ]
+}
