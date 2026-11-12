@@ -1,0 +1,24 @@
+{
+  "phrase_en": "beat the odds",
+  "phrase_pron": "/biːt ði ˈɒdz/ 美音 /biːt ði ˈɑːdz/",
+  "meaning_cn": "不被看好，照样翻盘",
+  "trap_x": "字面意思：打败赔率",
+  "trap_check": "真正意思：不被看好，还是赢下来",
+  "examples": [
+    {
+      "source": "SI 报道 Staley（2025）",
+      "en": "just proud 'cause we beat the odds",
+      "cn": "挺骄傲的，我们就是不被看好还赢了。"
+    },
+    {
+      "source": "Vogue 采访报道",
+      "en": "you could still be able to beat the odds",
+      "cn": "你也可以边带娃边把不可能变成可能。"
+    },
+    {
+      "source": "Chicago Tribune（2026-11-09）",
+      "en": "He wasn't expected to survive, but he beat the odds.",
+      "cn": "医生都没想到他能活下来，他赢了。"
+    }
+  ]
+}
