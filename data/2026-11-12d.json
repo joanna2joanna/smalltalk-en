@@ -1,0 +1,24 @@
+{
+  "phrase_en": "even odds",
+  "phrase_pron": "/ˌiːvən ˈɒdz/ 美音 /ˌiːvən ˈɑːdz/",
+  "meaning_cn": "五五开，成不成各占一半",
+  "trap_x": "字面意思：偶数的赔率",
+  "trap_check": "真正意思：五五开，两边机会一样大",
+  "examples": [
+    {
+      "source": "柯林斯词典例句",
+      "en": "It's better than even odds that she'll come back.",
+      "cn": "她回来的可能性不止五五开。"
+    },
+    {
+      "source": "气候学家 Hausfather（2024）",
+      "en": "slightly better than even odds of 2024 being warmer",
+      "cn": "2024 年更热的概率略高于五五开。"
+    },
+    {
+      "source": "财经报道（2025）",
+      "en": "roughly even odds of another pause in March",
+      "cn": "三月再停一次的可能性约五五开。"
+    }
+  ]
+}
