@@ -1,0 +1,24 @@
+{
+  "phrase_en": "cold feet",
+  "phrase_pron": "/kəʊld fiːt/ 美音 /koʊld fiːt/",
+  "meaning_cn": "临阵退缩，关键时刻打退堂鼓",
+  "trap_x": "字面意思：脚冷、脚发凉",
+  "trap_check": "真正意思：事到临头打退堂鼓",
+  "examples": [
+    {
+      "source": "Complex 采访报道",
+      "en": "I got cold feet.",
+      "cn": "我临阵缩了。"
+    },
+    {
+      "source": "Mid-Day 报道",
+      "en": "Penguin got cold feet.",
+      "cn": "企鹅出版社打了退堂鼓。"
+    },
+    {
+      "source": "news.com.au 体育节目",
+      "en": "Have they got cold feet?",
+      "cn": "他们是不是打退堂鼓了？"
+    }
+  ]
+}

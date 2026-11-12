@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Don't jinx it",
+  "phrase_pron": "/dəʊnt dʒɪŋks ɪt/ 美音 /doʊnt dʒɪŋks ɪt/",
+  "meaning_cn": "别乌鸦嘴，说破了反而不灵",
+  "trap_x": "字面意思：别给它下咒",
+  "trap_check": "真正意思：别乌鸦嘴，说出来就不灵了",
+  "examples": [
+    {
+      "source": "F1 拉斯维加斯站（2024-11）",
+      "en": "Don't jinx me.",
+      "cn": "别咒我。"
+    },
+    {
+      "source": "ClutchPoints 采访",
+      "en": "Don't jinx it. Don't jinx it.",
+      "cn": "别乌鸦嘴，别乌鸦嘴。"
+    },
+    {
+      "source": "Mint 报道（2025-08）",
+      "en": "I don't want to jinx it by talking about them.",
+      "cn": "这些事我不敢细说，怕说破不灵。"
+    }
+  ]
+}

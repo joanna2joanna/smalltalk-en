@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Don't rub it in",
+  "phrase_pron": "/dəʊnt rʌb ɪt ɪn/ 美音 /doʊnt rʌb ɪt ɪn/",
+  "meaning_cn": "别哪壶不开提哪壶",
+  "trap_x": "字面意思：别往里搓、别抹进去",
+  "trap_check": "真正意思：别揪着糗事反复说，往伤口撒盐",
+  "examples": [
+    {
+      "source": "牛津学习词典例句",
+      "en": "I know I was stupid; you don't have to rub it in.",
+      "cn": "我知道我蠢，你不用反复提。"
+    },
+    {
+      "source": "Fox Sports 报道",
+      "en": "Don't want to rub it in.",
+      "cn": "不想往人伤口上撒盐。"
+    },
+    {
+      "source": "The Tribune 体育报道（2025-11）",
+      "en": "Conrad literally rubbed it in.",
+      "cn": "康拉德等于往伤口上撒盐。"
+    }
+  ]
+}
