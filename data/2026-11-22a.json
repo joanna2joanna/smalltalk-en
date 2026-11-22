@@ -1,0 +1,24 @@
+{
+  "phrase_en": "On a roll",
+  "phrase_pron": "/ˌɑːn ə ˈroʊl/",
+  "meaning_cn": "连着走顺，手气正旺",
+  "trap_x": "字面意思：在一个卷上",
+  "trap_check": "真正意思：一连串成功，越走越顺",
+  "examples": [
+    {
+      "source": "NFL 赛后文字稿 2017.11",
+      "en": "Let's get on a roll.",
+      "cn": "咱们接着一路顺下去。"
+    },
+    {
+      "source": "Fox 采访 Larry Kudlow",
+      "en": "I think you're on a roll.",
+      "cn": "我看你正一路顺风顺水。"
+    },
+    {
+      "source": "14 News 2025.02.28",
+      "en": "Thunderbolts on a roll with recent winning streak",
+      "cn": "雷霆队近来连战连捷。"
+    }
+  ]
+}
