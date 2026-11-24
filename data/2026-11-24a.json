@@ -1,0 +1,24 @@
+{
+  "phrase_en": "touch and go",
+  "phrase_pron": "/tʌtʃ ən ɡəʊ/ 美音 /tʌtʃ ən ɡoʊ/",
+  "meaning_cn": "情况危急，成败难料",
+  "trap_x": "字面意思：碰一下就离开",
+  "trap_check": "真正意思：情况危急，成败难料",
+  "examples": [
+    {
+      "source": "洛杉矶时报 2025.02",
+      "en": "Francis' condition is touch and go.",
+      "cn": "方济各的病情仍很危急。"
+    },
+    {
+      "source": "泰晤士报 2025",
+      "en": "It was touch and go whether he'd live.",
+      "cn": "他能不能活下来还很难说。"
+    },
+    {
+      "source": "华盛顿邮报 2015 获释",
+      "en": "It really was touch and go.",
+      "cn": "当时真的悬得很。"
+    }
+  ]
+}
