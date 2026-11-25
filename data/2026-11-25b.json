@@ -1,0 +1,24 @@
+{
+  "phrase_en": "clock it",
+  "phrase_pron": "/klɒk ɪt/",
+  "meaning_cn": "看出别人想瞒着你的事",
+  "trap_x": "字面意思：给这件事计时",
+  "trap_check": "真正意思：人家以为藏得严，你一眼看见",
+  "examples": [
+    {
+      "source": "Jrock Ebony · Houston Defender 2026.03",
+      "en": "Clocking it is connecting the dots.",
+      "cn": "clocking 就是把线索串起来。"
+    },
+    {
+      "source": "Forbes · 2026.06",
+      "en": "Critics clocked a double meaning almost immediately.",
+      "cn": "评论人几乎当场看出了双关。"
+    },
+    {
+      "source": "InStyle · 2026.06",
+      "en": "…clocked that Zendaya had shared a throwback photo.",
+      "cn": "……看出她发了张旧照。"
+    }
+  ]
+}
