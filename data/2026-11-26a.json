@@ -1,0 +1,24 @@
+{
+  "phrase_en": "hot take",
+  "phrase_pron": "/hɒt teɪk/",
+  "meaning_cn": "为惹人争论而抛出的观点",
+  "trap_x": "字面意思：一条很火的意见",
+  "trap_check": "真正意思：说的人未必真信，故意说得刺耳等人来辩",
+  "examples": [
+    {
+      "source": "Max Kellerman · Bill Simmons Podcast 2025.12",
+      "en": "A hot take is a counterintuitive conclusion.",
+      "cn": "hot take 就是反着来的结论。"
+    },
+    {
+      "source": "Steve Granelli · Northeastern News 2026.08",
+      "en": "…of a hot take is that it feels manufactured.",
+      "cn": "对 hot take 最狠的批评：太假。"
+    },
+    {
+      "source": "Phil Mickelson · X 2025.03",
+      "en": "Here's a hot take: Does Scottie win in 2025…",
+      "cn": "我抛个观点：他 2025 年能赢吗……"
+    }
+  ]
+}
