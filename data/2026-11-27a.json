@@ -1,0 +1,24 @@
+{
+  "phrase_en": "Take the cake.",
+  "phrase_pron": "/teɪk ðə keɪk/",
+  "meaning_cn": "<em>就数它最离谱</em>",
+  "trap_x": "字面意思：把蛋糕端走，像赢了",
+  "trap_check": "真正意思：不是夸它，是说到这份上没法再离谱了！",
+  "examples": [
+    {
+      "source": "Gabrielle Starr · Boston Herald 2026.01",
+      "en": "…but this one may just take the cake.",
+      "cn": "但这一次，可能就数它最离谱。"
+    },
+    {
+      "source": "Southern Living · 2025.01",
+      "en": "…but the one with his mother took the cake.",
+      "cn": "但跟他母亲有关的那一次，最离谱。"
+    },
+    {
+      "source": "Deadline · 2025.05",
+      "en": "…that takes the cake for the biggest challenge.",
+      "cn": "论情绪耐力，这算得上头号挑战。"
+    }
+  ]
+}
